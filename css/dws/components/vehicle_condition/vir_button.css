@@ -1,0 +1,1117 @@
+/*VIR btn in the Inventory Widget*/
+
+.cosmo .vir-btn a[class*="minv_Insp_0"],
+.cyborg .vir-btn a[class*="minv_Insp_0"],
+.darkie .vir-btn a[class*="minv_Insp_0"],
+.default .vir-btn a[class*="minv_Insp_0"],
+.flatly .vir-btn a[class*="minv_Insp_0"],
+.journal .vir-btn a[class*="minv_Insp_0"],
+.readable .vir-btn a[class*="minv_Insp_0"],
+.sandstone .vir-btn a[class*="minv_Insp_0"],
+.superhero .vir-btn a[class*="minv_Insp_0"],
+.united .vir-btn a[class*="minv_Insp_0"],
+.yeti .vir-btn a[class*="minv_Insp_0"],
+.dark_simulcast .vir-btn a[class*="minv_Insp_0"],
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_0"] {
+    background: #d35f5f;
+    border-color: #d35f5f;
+}
+.yeti .vir-btn a[class*="minv_Insp_0"]{
+    border-color: #BF5252;
+}
+.default .vir-btn a[class*="minv_Insp_0"]{
+    border-color: #BF5050;
+}
+.cosmo .vir-btn a[class*="minv_Insp_0"]:hover,
+.cyborg .vir-btn a[class*="minv_Insp_0"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_0"]:hover,
+.default .vir-btn a[class*="minv_Insp_0"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_0"]:hover,
+.journal .vir-btn a[class*="minv_Insp_0"]:hover,
+.readable .vir-btn a[class*="minv_Insp_0"]:hover,
+.sandstone .vir-btn a[class*="minv_Insp_0"]:hover,
+.superhero .vir-btn a[class*="minv_Insp_0"]:hover,
+.united .vir-btn a[class*="minv_Insp_0"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_0"]:hover,
+.dark_simulcast .vir-btn a[class*="minv_Insp_0"]:hover,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_0"]:hover {
+    background: #B14040;
+    border-color: #B14040;
+}
+.cosmo .vir-btn a[class*="minv_Insp_0"]:active,
+.cyborg .vir-btn a[class*="minv_Insp_0"]:active,
+.darkie .vir-btn a[class*="minv_Insp_0"]:active,
+.default .vir-btn a[class*="minv_Insp_0"]:active,
+.flatly .vir-btn a[class*="minv_Insp_0"]:active,
+.journal .vir-btn a[class*="minv_Insp_0"]:active,
+.readable .vir-btn a[class*="minv_Insp_0"]:active,
+.sandstone .vir-btn a[class*="minv_Insp_0"]:active,
+.superhero .vir-btn a[class*="minv_Insp_0"]:active,
+.united .vir-btn a[class*="minv_Insp_0"]:active,
+.yeti .vir-btn a[class*="minv_Insp_0"]:active,
+.dark_simulcast .vir-btn a[class*="minv_Insp_0"]:active,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_0"]:active,
+.cosmo .vir-btn a[class*="minv_Insp_0"]:focus,
+.cyborg .vir-btn a[class*="minv_Insp_0"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_0"]:focus,
+.default .vir-btn a[class*="minv_Insp_0"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_0"]:focus,
+.journal .vir-btn a[class*="minv_Insp_0"]:focus,
+.readable .vir-btn a[class*="minv_Insp_0"]:focus,
+.sandstone .vir-btn a[class*="minv_Insp_0"]:focus,
+.superhero .vir-btn a[class*="minv_Insp_0"]:focus,
+.united .vir-btn a[class*="minv_Insp_0"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_0"]:focus,
+.dark_simulcast .vir-btn a[class*="minv_Insp_0"]:focus,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_0"]:focus {
+    background: #B14040;
+    border-color: #B14040;
+}
+.default .vir-btn a[class*="minv_Insp_0"]:hover,
+.default .vir-btn a[class*="minv_Insp_0"]:focus,
+.default .vir-btn a[class*="minv_Insp_0"]:active{
+    border-color: #8E3131;
+}
+.yeti .vir-btn a[class*="minv_Insp_0"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_0"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_0"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_0"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_0"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_0"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_0"]:active,
+.darkie .vir-btn a[class*="minv_Insp_0"]:active,
+.flatly .vir-btn a[class*="minv_Insp_0"]:active{
+    border-color: #842D2D;
+}
+.journal .vir-btn a[class*="minv_Insp_0"]:hover,
+.united .vir-btn a[class*="minv_Insp_0"]:hover,
+.readable .vir-btn a[class*="minv_Insp_0"]:hover,
+.journal .vir-btn a[class*="minv_Insp_0"]:focus,
+.united .vir-btn a[class*="minv_Insp_0"]:focus,
+.readable .vir-btn a[class*="minv_Insp_0"]:focus,
+.journal .vir-btn a[class*="minv_Insp_0"]:active,
+.united .vir-btn a[class*="minv_Insp_0"]:active,
+.readable .vir-btn a[class*="minv_Insp_0"]:active{
+    border-color: #A03737;
+}
+.cosmo .vir-btn a[class*="minv_Insp_1"],
+.cyborg .vir-btn a[class*="minv_Insp_1"],
+.darkie .vir-btn a[class*="minv_Insp_1"],
+.default .vir-btn a[class*="minv_Insp_1"],
+.flatly .vir-btn a[class*="minv_Insp_1"],
+.journal .vir-btn a[class*="minv_Insp_1"],
+.readable .vir-btn a[class*="minv_Insp_1"],
+.sandstone .vir-btn a[class*="minv_Insp_1"],
+.superhero .vir-btn a[class*="minv_Insp_1"],
+.united .vir-btn a[class*="minv_Insp_1"],
+.yeti .vir-btn a[class*="minv_Insp_1"],
+.dark_simulcast .vir-btn a[class*="minv_Insp_1"],
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_1"] {
+    background: #FF9955;
+    border-color: #FF9955;
+}
+.default .vir-btn a[class*="minv_Insp_1"]{
+    border-color: #EF8C4B;
+}
+.yeti .vir-btn a[class*="minv_Insp_1"]{
+    border-color: #D47D44;
+}
+.cosmo .vir-btn a[class*="minv_Insp_1"]:hover,
+.cyborg .vir-btn a[class*="minv_Insp_1"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_1"]:hover,
+.default .vir-btn a[class*="minv_Insp_1"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_1"]:hover,
+.journal .vir-btn a[class*="minv_Insp_1"]:hover,
+.readable .vir-btn a[class*="minv_Insp_1"]:hover,
+.sandstone .vir-btn a[class*="minv_Insp_1"]:hover,
+.superhero .vir-btn a[class*="minv_Insp_1"]:hover,
+.united .vir-btn a[class*="minv_Insp_1"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_1"]:hover,
+.dark_simulcast .vir-btn a[class*="minv_Insp_1"]:hover,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_1"]:hover {
+    background: #E57E39;
+    border-color: #E57E39;
+}
+.cosmo .vir-btn a[class*="minv_Insp_1"]:active,
+.cyborg .vir-btn a[class*="minv_Insp_1"]:active,
+.darkie .vir-btn a[class*="minv_Insp_1"]:active,
+.default .vir-btn a[class*="minv_Insp_1"]:active,
+.flatly .vir-btn a[class*="minv_Insp_1"]:active,
+.journal .vir-btn a[class*="minv_Insp_1"]:active,
+.readable .vir-btn a[class*="minv_Insp_1"]:active,
+.sandstone .vir-btn a[class*="minv_Insp_1"]:active,
+.superhero .vir-btn a[class*="minv_Insp_1"]:active,
+.united .vir-btn a[class*="minv_Insp_1"]:active,
+.yeti .vir-btn a[class*="minv_Insp_1"]:active,
+.dark_simulcast .vir-btn a[class*="minv_Insp_1"]:active,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_1"]:active,
+.cosmo .vir-btn a[class*="minv_Insp_1"]:focus,
+.cyborg .vir-btn a[class*="minv_Insp_1"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_1"]:focus,
+.default .vir-btn a[class*="minv_Insp_1"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_1"]:focus,
+.journal .vir-btn a[class*="minv_Insp_1"]:focus,
+.readable .vir-btn a[class*="minv_Insp_1"]:focus,
+.sandstone .vir-btn a[class*="minv_Insp_1"]:focus,
+.superhero .vir-btn a[class*="minv_Insp_1"]:focus,
+.united .vir-btn a[class*="minv_Insp_1"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_1"]:focus,
+.dark_simulcast .vir-btn a[class*="minv_Insp_1"]:focus,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_1"]:focus {
+    background: #E57E39;
+    border-color: #E57E39;
+}
+.default .vir-btn a[class*="minv_Insp_1"]:hover,
+.default .vir-btn a[class*="minv_Insp_1"]:focus,
+.default .vir-btn a[class*="minv_Insp_1"]:active{
+    border-color: #C5692B;
+}
+.yeti .vir-btn a[class*="minv_Insp_1"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_1"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_1"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_1"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_1"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_1"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_1"]:active,
+.darkie .vir-btn a[class*="minv_Insp_1"]:active,
+.flatly .vir-btn a[class*="minv_Insp_1"]:active{
+    border-color: #CA6D2F;
+}
+.journal .vir-btn a[class*="minv_Insp_1"]:hover,
+.united .vir-btn a[class*="minv_Insp_1"]:hover,
+.readable .vir-btn a[class*="minv_Insp_1"]:hover,
+.journal .vir-btn a[class*="minv_Insp_1"]:focus,
+.united .vir-btn a[class*="minv_Insp_1"]:focus,
+.readable .vir-btn a[class*="minv_Insp_1"]:focus,
+.journal .vir-btn a[class*="minv_Insp_1"]:active,
+.united .vir-btn a[class*="minv_Insp_1"]:active,
+.readable .vir-btn a[class*="minv_Insp_1"]:active{
+    border-color: #DC7937;
+}
+.cosmo .vir-btn a[class*="minv_Insp_2"],
+.cyborg .vir-btn a[class*="minv_Insp_2"],
+.darkie .vir-btn a[class*="minv_Insp_2"],
+.default .vir-btn a[class*="minv_Insp_2"],
+.flatly .vir-btn a[class*="minv_Insp_2"],
+.journal .vir-btn a[class*="minv_Insp_2"],
+.readable .vir-btn a[class*="minv_Insp_2"],
+.sandstone .vir-btn a[class*="minv_Insp_2"],
+.superhero .vir-btn a[class*="minv_Insp_2"],
+.united .vir-btn a[class*="minv_Insp_2"],
+.yeti .vir-btn a[class*="minv_Insp_2"],
+.dark_simulcast .vir-btn a[class*="minv_Insp_2"],
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_2"] {
+    background: #F1DA79;
+    border-color: #F1DA79;
+}
+.default .vir-btn a[class*="minv_Insp_2"]{
+    border-color: #E6D070;
+}
+.yeti .vir-btn a[class*="minv_Insp_2"]{
+    border-color: #DEC767;
+}
+.cosmo .vir-btn a[class*="minv_Insp_2"]:hover,
+.cyborg .vir-btn a[class*="minv_Insp_2"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_2"]:hover,
+.default .vir-btn a[class*="minv_Insp_2"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_2"]:hover,
+.journal .vir-btn a[class*="minv_Insp_2"]:hover,
+.readable .vir-btn a[class*="minv_Insp_2"]:hover,
+.sandstone .vir-btn a[class*="minv_Insp_2"]:hover,
+.superhero .vir-btn a[class*="minv_Insp_2"]:hover,
+.united .vir-btn a[class*="minv_Insp_2"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_2"]:hover,
+.dark_simulcast .vir-btn a[class*="minv_Insp_2"]:hover,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_2"]:hover {
+    background: #DEC55B;
+    border-color: #E9CF63;
+}
+.cosmo .vir-btn a[class*="minv_Insp_2"]:active,
+.cyborg .vir-btn a[class*="minv_Insp_2"]:active,
+.darkie .vir-btn a[class*="minv_Insp_2"]:active,
+.default .vir-btn a[class*="minv_Insp_2"]:active,
+.flatly .vir-btn a[class*="minv_Insp_2"]:active,
+.journal .vir-btn a[class*="minv_Insp_2"]:active,
+.readable .vir-btn a[class*="minv_Insp_2"]:active,
+.sandstone .vir-btn a[class*="minv_Insp_2"]:active,
+.superhero .vir-btn a[class*="minv_Insp_2"]:active,
+.united .vir-btn a[class*="minv_Insp_2"]:active,
+.yeti .vir-btn a[class*="minv_Insp_2"]:active,
+.dark_simulcast .vir-btn a[class*="minv_Insp_2"]:active,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_2"]:active,
+.cosmo .vir-btn a[class*="minv_Insp_2"]:focus,
+.cyborg .vir-btn a[class*="minv_Insp_2"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_2"]:focus,
+.default .vir-btn a[class*="minv_Insp_2"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_2"]:focus,
+.journal .vir-btn a[class*="minv_Insp_2"]:focus,
+.readable .vir-btn a[class*="minv_Insp_2"]:focus,
+.sandstone .vir-btn a[class*="minv_Insp_2"]:focus,
+.superhero .vir-btn a[class*="minv_Insp_2"]:focus,
+.united .vir-btn a[class*="minv_Insp_2"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_2"]:focus,
+.dark_simulcast .vir-btn a[class*="minv_Insp_2"]:focus,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_2"]:focus {
+    background: #DEC55B;
+    border-color: #E9CF63;
+}
+.default .vir-btn a[class*="minv_Insp_2"]:hover,
+.default .vir-btn a[class*="minv_Insp_2"]:focus,
+.default .vir-btn a[class*="minv_Insp_2"]:active{
+    border-color: #D2B950;
+}
+.journal .vir-btn a[class*="minv_Insp_2"]:hover,
+.united .vir-btn a[class*="minv_Insp_2"]:hover,
+.readable .vir-btn a[class*="minv_Insp_2"]:hover,
+.journal .vir-btn a[class*="minv_Insp_2"]:focus,
+.united .vir-btn a[class*="minv_Insp_2"]:focus,
+.readable .vir-btn a[class*="minv_Insp_2"]:focus,
+.journal .vir-btn a[class*="minv_Insp_2"]:active,
+.united .vir-btn a[class*="minv_Insp_2"]:active,
+.readable .vir-btn a[class*="minv_Insp_2"]:active{
+    border-color: #D6BE57;
+}
+.yeti .vir-btn a[class*="minv_Insp_2"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_2"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_2"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_2"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_2"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_2"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_2"]:active,
+.darkie .vir-btn a[class*="minv_Insp_2"]:active,
+.flatly .vir-btn a[class*="minv_Insp_2"]:active{
+    border-color: #CAB253;
+}
+.cosmo .vir-btn a[class*="minv_Insp_3"],
+.cyborg .vir-btn a[class*="minv_Insp_3"],
+.darkie .vir-btn a[class*="minv_Insp_3"],
+.default .vir-btn a[class*="minv_Insp_3"],
+.flatly .vir-btn a[class*="minv_Insp_3"],
+.journal .vir-btn a[class*="minv_Insp_3"],
+.readable .vir-btn a[class*="minv_Insp_3"],
+.sandstone .vir-btn a[class*="minv_Insp_3"],
+.superhero .vir-btn a[class*="minv_Insp_3"],
+.united .vir-btn a[class*="minv_Insp_3"],
+.yeti .vir-btn a[class*="minv_Insp_3"],
+.dark_simulcast .vir-btn a[class*="minv_Insp_3"],
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_3"] {
+    background: #BCD35F;
+    border-color: #BCD35F;
+}
+.default .vir-btn a[class*="minv_Insp_3"]{
+    border-color: #B1C757;
+}
+.yeti .vir-btn a[class*="minv_Insp_3"]{
+    border-color: #A2B74F;
+}
+.cosmo .vir-btn a[class*="minv_Insp_3"]:hover,
+.cyborg .vir-btn a[class*="minv_Insp_3"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_3"]:hover,
+.default .vir-btn a[class*="minv_Insp_3"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_3"]:hover,
+.journal .vir-btn a[class*="minv_Insp_3"]:hover,
+.readable .vir-btn a[class*="minv_Insp_3"]:hover,
+.sandstone .vir-btn a[class*="minv_Insp_3"]:hover,
+.superhero .vir-btn a[class*="minv_Insp_3"]:hover,
+.united .vir-btn a[class*="minv_Insp_3"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_3"]:hover,
+.dark_simulcast .vir-btn a[class*="minv_Insp_3"]:hover,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_3"]:hover {
+    background: #9DB148;
+    border-color: #9DB148;
+}
+.cosmo .vir-btn a[class*="minv_Insp_3"]:active,
+.cyborg .vir-btn a[class*="minv_Insp_3"]:active,
+.darkie .vir-btn a[class*="minv_Insp_3"]:active,
+.default .vir-btn a[class*="minv_Insp_3"]:active,
+.flatly .vir-btn a[class*="minv_Insp_3"]:active,
+.journal .vir-btn a[class*="minv_Insp_3"]:active,
+.readable .vir-btn a[class*="minv_Insp_3"]:active,
+.sandstone .vir-btn a[class*="minv_Insp_3"]:active,
+.superhero .vir-btn a[class*="minv_Insp_3"]:active,
+.united .vir-btn a[class*="minv_Insp_3"]:active,
+.yeti .vir-btn a[class*="minv_Insp_3"]:active,
+.dark_simulcast .vir-btn a[class*="minv_Insp_3"]:active,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_3"]:active,
+.cosmo .vir-btn a[class*="minv_Insp_3"]:focus,
+.cyborg .vir-btn a[class*="minv_Insp_3"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_3"]:focus,
+.default .vir-btn a[class*="minv_Insp_3"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_3"]:focus,
+.journal .vir-btn a[class*="minv_Insp_3"]:focus,
+.readable .vir-btn a[class*="minv_Insp_3"]:focus,
+.sandstone .vir-btn a[class*="minv_Insp_3"]:focus,
+.superhero .vir-btn a[class*="minv_Insp_3"]:focus,
+.united .vir-btn a[class*="minv_Insp_3"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_3"]:focus,
+.dark_simulcast .vir-btn a[class*="minv_Insp_3"]:focus,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_3"]:focus {
+    background: #9DB148;
+    border-color: #9DB148;
+}
+.default .vir-btn a[class*="minv_Insp_3"]:hover,
+.default .vir-btn a[class*="minv_Insp_3"]:focus,
+.default .vir-btn a[class*="minv_Insp_3"]:active{
+    border-color: #8A9C3D;
+}
+.journal .vir-btn a[class*="minv_Insp_3"]:hover,
+.united .vir-btn a[class*="minv_Insp_3"]:hover,
+.readable .vir-btn a[class*="minv_Insp_3"]:hover,
+.journal .vir-btn a[class*="minv_Insp_3"]:focus,
+.united .vir-btn a[class*="minv_Insp_3"]:focus,
+.readable .vir-btn a[class*="minv_Insp_3"]:focus,
+.journal .vir-btn a[class*="minv_Insp_3"]:active,
+.united .vir-btn a[class*="minv_Insp_3"]:active,
+.readable .vir-btn a[class*="minv_Insp_3"]:active{
+    border-color: #96A944;
+}
+.yeti .vir-btn a[class*="minv_Insp_3"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_3"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_3"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_3"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_3"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_3"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_3"]:active,
+.darkie .vir-btn a[class*="minv_Insp_3"]:active,
+.flatly .vir-btn a[class*="minv_Insp_3"]:active{
+    border-color: #87983C;
+}
+.cosmo .vir-btn a[class*="minv_Insp_4"],
+.cyborg .vir-btn a[class*="minv_Insp_4"],
+.darkie .vir-btn a[class*="minv_Insp_4"],
+.default .vir-btn a[class*="minv_Insp_4"],
+.flatly .vir-btn a[class*="minv_Insp_4"],
+.journal .vir-btn a[class*="minv_Insp_4"],
+.readable .vir-btn a[class*="minv_Insp_4"],
+.sandstone .vir-btn a[class*="minv_Insp_4"],
+.superhero .vir-btn a[class*="minv_Insp_4"],
+.united .vir-btn a[class*="minv_Insp_4"],
+.yeti .vir-btn a[class*="minv_Insp_4"],
+.dark_simulcast .vir-btn a[class*="minv_Insp_4"],
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_4"] {
+    background: #80E93A;
+    border-color: #80E93A;
+}
+.default .vir-btn a[class*="minv_Insp_4"]{
+    border-color: #7BE037;
+}
+.yeti .vir-btn a[class*="minv_Insp_4"]{
+    border-color: #6CCC2C;
+}
+.cosmo .vir-btn a[class*="minv_Insp_4"]:hover,
+.cyborg .vir-btn a[class*="minv_Insp_4"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_4"]:hover,
+.default .vir-btn a[class*="minv_Insp_4"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_4"]:hover,
+.journal .vir-btn a[class*="minv_Insp_4"]:hover,
+.readable .vir-btn a[class*="minv_Insp_4"]:hover,
+.sandstone .vir-btn a[class*="minv_Insp_4"]:hover,
+.superhero .vir-btn a[class*="minv_Insp_4"]:hover,
+.united .vir-btn a[class*="minv_Insp_4"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_4"]:hover,
+.dark_simulcast .vir-btn a[class*="minv_Insp_4"]:hover,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_4"]:hover {
+    background: #6CCE2B;
+    border-color: #75DB31;
+}
+.cosmo .vir-btn a[class*="minv_Insp_4"]:active,
+.cyborg .vir-btn a[class*="minv_Insp_4"]:active,
+.darkie .vir-btn a[class*="minv_Insp_4"]:active,
+.default .vir-btn a[class*="minv_Insp_4"]:active,
+.flatly .vir-btn a[class*="minv_Insp_4"]:active,
+.journal .vir-btn a[class*="minv_Insp_4"]:active,
+.readable .vir-btn a[class*="minv_Insp_4"]:active,
+.sandstone .vir-btn a[class*="minv_Insp_4"]:active,
+.superhero .vir-btn a[class*="minv_Insp_4"]:active,
+.united .vir-btn a[class*="minv_Insp_4"]:active,
+.yeti .vir-btn a[class*="minv_Insp_4"]:active,
+.dark_simulcast .vir-btn a[class*="minv_Insp_4"]:active,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_4"]:active,
+.cosmo .vir-btn a[class*="minv_Insp_4"]:focus,
+.cyborg .vir-btn a[class*="minv_Insp_4"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_4"]:focus,
+.default .vir-btn a[class*="minv_Insp_4"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_4"]:focus,
+.journal .vir-btn a[class*="minv_Insp_4"]:focus,
+.readable .vir-btn a[class*="minv_Insp_4"]:focus,
+.sandstone .vir-btn a[class*="minv_Insp_4"]:focus,
+.superhero .vir-btn a[class*="minv_Insp_4"]:focus,
+.united .vir-btn a[class*="minv_Insp_4"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_4"]:focus,
+.dark_simulcast .vir-btn a[class*="minv_Insp_4"]:focus,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_4"]:focus {
+    background: #6CCE2B;
+    border-color: #75DB31;
+}
+.default .vir-btn a[class*="minv_Insp_4"]:hover,
+.default .vir-btn a[class*="minv_Insp_4"]:focus,
+.default .vir-btn a[class*="minv_Insp_4"]:active{
+    border-color: #60BD22;
+}
+.journal .vir-btn a[class*="minv_Insp_4"]:hover,
+.united .vir-btn a[class*="minv_Insp_4"]:hover,
+.readable .vir-btn a[class*="minv_Insp_4"]:hover,
+.journal .vir-btn a[class*="minv_Insp_4"]:focus,
+.united .vir-btn a[class*="minv_Insp_4"]:focus,
+.readable .vir-btn a[class*="minv_Insp_4"]:focus,
+.journal .vir-btn a[class*="minv_Insp_4"]:active,
+.united .vir-btn a[class*="minv_Insp_4"]:active,
+.readable .vir-btn a[class*="minv_Insp_4"]:active{
+    border-color: #67C528;
+}
+.yeti .vir-btn a[class*="minv_Insp_4"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_4"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_4"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_4"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_4"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_4"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_4"]:active,
+.darkie .vir-btn a[class*="minv_Insp_4"]:active,
+.flatly .vir-btn a[class*="minv_Insp_4"]:active{
+    border-color: #53A919;
+}
+.cosmo .vir-btn a[class*="minv_Insp_5"],
+.cyborg .vir-btn a[class*="minv_Insp_5"],
+.darkie .vir-btn a[class*="minv_Insp_5"],
+.default .vir-btn a[class*="minv_Insp_5"],
+.flatly .vir-btn a[class*="minv_Insp_5"],
+.journal .vir-btn a[class*="minv_Insp_5"],
+.readable .vir-btn a[class*="minv_Insp_5"],
+.sandstone .vir-btn a[class*="minv_Insp_5"],
+.superhero .vir-btn a[class*="minv_Insp_5"],
+.united .vir-btn a[class*="minv_Insp_5"],
+.yeti .vir-btn a[class*="minv_Insp_5"],
+.dark_simulcast .vir-btn a[class*="minv_Insp_5"],
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_5"] {
+    background: #5FBCD3;
+    border-color: #5FBCD3;
+}
+.default .vir-btn a[class*="minv_Insp_5"]{
+    border-color: #50ACC3;
+}
+.yeti .vir-btn a[class*="minv_Insp_5"]{
+    border-color: #4B9BAF;
+}
+.cosmo .vir-btn a[class*="minv_Insp_5"]:hover,
+.cyborg .vir-btn a[class*="minv_Insp_5"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_5"]:hover,
+.default .vir-btn a[class*="minv_Insp_5"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_5"]:hover,
+.journal .vir-btn a[class*="minv_Insp_5"]:hover,
+.readable .vir-btn a[class*="minv_Insp_5"]:hover,
+.sandstone .vir-btn a[class*="minv_Insp_5"]:hover,
+.superhero .vir-btn a[class*="minv_Insp_5"]:hover,
+.united .vir-btn a[class*="minv_Insp_5"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_5"]:hover,
+.dark_simulcast .vir-btn a[class*="minv_Insp_5"]:hover,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_5"]:hover {
+    background: #4FA5BA;
+    border-color: #4FA5BA;
+}
+.cosmo .vir-btn a[class*="minv_Insp_5"]:active,
+.cyborg .vir-btn a[class*="minv_Insp_5"]:active,
+.darkie .vir-btn a[class*="minv_Insp_5"]:active,
+.default .vir-btn a[class*="minv_Insp_5"]:active,
+.flatly .vir-btn a[class*="minv_Insp_5"]:active,
+.journal .vir-btn a[class*="minv_Insp_5"]:active,
+.readable .vir-btn a[class*="minv_Insp_5"]:active,
+.sandstone .vir-btn a[class*="minv_Insp_5"]:active,
+.superhero .vir-btn a[class*="minv_Insp_5"]:active,
+.united .vir-btn a[class*="minv_Insp_5"]:active,
+.yeti .vir-btn a[class*="minv_Insp_5"]:active,
+.dark_simulcast .vir-btn a[class*="minv_Insp_5"]:active,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_5"]:active,
+.cosmo .vir-btn a[class*="minv_Insp_5"]:focus,
+.cyborg .vir-btn a[class*="minv_Insp_5"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_5"]:focus,
+.default .vir-btn a[class*="minv_Insp_5"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_5"]:focus,
+.journal .vir-btn a[class*="minv_Insp_5"]:focus,
+.readable .vir-btn a[class*="minv_Insp_5"]:focus,
+.sandstone .vir-btn a[class*="minv_Insp_5"]:focus,
+.superhero .vir-btn a[class*="minv_Insp_5"]:focus,
+.united .vir-btn a[class*="minv_Insp_5"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_5"]:focus,
+.dark_simulcast .vir-btn a[class*="minv_Insp_5"]:focus,
+body[class^="scheme-"] .vir-btn a[class*="minv_Insp_5"]:focus {
+    background: #4FA5BA;
+    border-color: #4FA5BA;
+}
+.default .vir-btn a[class*="minv_Insp_5"]:hover,
+.default .vir-btn a[class*="minv_Insp_5"]:focus,
+.default .vir-btn a[class*="minv_Insp_5"]:active{
+    border-color: #4396AB;
+}
+.journal .vir-btn a[class*="minv_Insp_5"]:hover,
+.united .vir-btn a[class*="minv_Insp_5"]:hover,
+.readable .vir-btn a[class*="minv_Insp_5"]:hover,
+.journal .vir-btn a[class*="minv_Insp_5"]:focus,
+.united .vir-btn a[class*="minv_Insp_5"]:focus,
+.readable .vir-btn a[class*="minv_Insp_5"]:focus,
+.journal .vir-btn a[class*="minv_Insp_5"]:active,
+.united .vir-btn a[class*="minv_Insp_5"]:active,
+.readable .vir-btn a[class*="minv_Insp_5"]:active{
+    border-color: #4DA1B5;
+}
+.yeti .vir-btn a[class*="minv_Insp_5"]:hover,
+.darkie .vir-btn a[class*="minv_Insp_5"]:hover,
+.flatly .vir-btn a[class*="minv_Insp_5"]:hover,
+.yeti .vir-btn a[class*="minv_Insp_5"]:focus,
+.darkie .vir-btn a[class*="minv_Insp_5"]:focus,
+.flatly .vir-btn a[class*="minv_Insp_5"]:focus,
+.yeti .vir-btn a[class*="minv_Insp_5"]:active,
+.darkie .vir-btn a[class*="minv_Insp_5"]:active,
+.flatly .vir-btn a[class*="minv_Insp_5"]:active{
+    border-color: #3F8C9E;
+}
+
+.cerulean .vir-btn a[class*="minv_Insp_0"],
+.simplex .vir-btn a[class*="minv_Insp_0"]{
+    background-image: -webkit-linear-gradient(#CC4D4D,#B14040 60%,#B14040);
+    background-image: -o-linear-gradient(#CC4D4D,#B14040 60%,#B14040);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#CC4D4D),color-stop(60%,#B14040),to(#B14040));
+    background-image: linear-gradient(#CC4D4D,#B14040 60%,#B14040);
+    border-color: #B14040;
+    border-bottom: 1px solid #923838;
+}
+.simplex .vir-btn a[class*="minv_Insp_0"]{
+    border-color: #923838;
+}
+.cerulean .vir-btn a[class*="minv_Insp_0"]:hover{
+    border-color: #923838;
+}
+.simplex .vir-btn a[class*="minv_Insp_0"]:hover{
+    border-color: #923838;
+}
+.cerulean .vir-btn a[class*="minv_Insp_0"]:active,
+.simplex .vir-btn a[class*="minv_Insp_0"]:active,
+.cerulean .vir-btn a[class*="minv_Insp_0"]:focus,
+.simplex .vir-btn a[class*="minv_Insp_0"]:focus{
+    background: #A53C3C;
+}
+.simplex .vir-btn a[class*="minv_Insp_0"]:active,
+.simplex .vir-btn a[class*="minv_Insp_0"]:focus{
+    border-color: #923838;
+}
+.cerulean .vir-btn a[class*="minv_Insp_1"],
+.simplex .vir-btn a[class*="minv_Insp_1"]{
+    background-image: -webkit-linear-gradient(#F78C44,#E57E39 60%,#E07C39);
+    background-image: -o-linear-gradient(#F78C44,#E57E39 60%,#E07C39);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#F78C44),color-stop(60%,#E57E39),to(#E07C39));
+    background-image: linear-gradient(#F78C44,#E57E39 60%,#E07C39);
+    border-color: #E57E39;
+    border-bottom: 1px solid #C56C31;
+}
+.simplex .vir-btn a[class*="minv_Insp_1"]{
+    border-color: #C56C31;
+}
+.cerulean .vir-btn a[class*="minv_Insp_1"]:hover,
+.simplex .vir-btn a[class*="minv_Insp_1"]:hover{
+    border-color: #C56C31;
+}
+.cerulean .vir-btn a[class*="minv_Insp_1"]:active,
+.simplex .vir-btn a[class*="minv_Insp_1"]:active,
+.cerulean .vir-btn a[class*="minv_Insp_1"]:focus,
+.simplex .vir-btn a[class*="minv_Insp_1"]:focus{
+    border-color: #D67837;
+    background: #DA7836;
+}
+.simplex .vir-btn a[class*="minv_Insp_1"]:active,
+.simplex .vir-btn a[class*="minv_Insp_1"]:focus{
+    border-color: #C16A2F;
+}
+.cerulean .vir-btn a[class*="minv_Insp_2"],
+.simplex .vir-btn a[class*="minv_Insp_2"]{
+    background-image: -webkit-linear-gradient(#fbe483,#f9e281 60%,#F1DA78);
+    background-image: -o-linear-gradient(#fbe483,#f9e281 60%,#F1DA78);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#fbe483),color-stop(60%,#f9e281),to(#F1DA78));
+    background-image: linear-gradient(#fbe483,#f9e281 60%,#F1DA78);
+    border-color: #F3DC7B;
+    border-bottom: 1px solid #DCC66B;
+}
+.simplex .vir-btn a[class*="minv_Insp_2"]{
+    border-color: #E6D070;
+}
+.cerulean .vir-btn a[class*="minv_Insp_2"]:hover{
+    border-color: #DCC66B;
+}
+.simplex .vir-btn a[class*="minv_Insp_2"]:hover{
+    border-color: #E6D070;
+}
+.cerulean .vir-btn a[class*="minv_Insp_2"]:active,
+.simplex .vir-btn a[class*="minv_Insp_2"]:active,
+.cerulean .vir-btn a[class*="minv_Insp_2"]:focus,
+.simplex .vir-btn a[class*="minv_Insp_2"]:focus{
+    border-color: #EAD474;
+    background: #E6D070;
+}
+.simplex .vir-btn a[class*="minv_Insp_2"]:active,
+.simplex .vir-btn a[class*="minv_Insp_2"]:focus{
+    border-color: #D5C168;
+}
+.cerulean .vir-btn a[class*="minv_Insp_3"],
+.simplex .vir-btn a[class*="minv_Insp_3"]{
+    background-image: -webkit-linear-gradient(#C6DE64,#bcd35f 60%,#B3CA59);
+    background-image: -o-linear-gradient(#C6DE64,#bcd35f 60%,#B3CA59);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#C6DE64),color-stop(60%,#bcd35f),to(#B3CA59));
+    background-image: linear-gradient(#C6DE64,#bcd35f 60%,#B3CA59);
+    border-color: #BCD35F;
+    border-bottom: 1px solid #9CAF4E;
+}
+.simplex .vir-btn a[class*="minv_Insp_3"]{
+    border-color: #9CAF4E;
+}
+.cerulean .vir-btn a[class*="minv_Insp_3"]:hover,
+.simplex .vir-btn a[class*="minv_Insp_3"]:hover{
+    border-color: #9CAF4E;
+}
+.cerulean .vir-btn a[class*="minv_Insp_3"]:active,
+.simplex .vir-btn a[class*="minv_Insp_3"]:active,
+.cerulean .vir-btn a[class*="minv_Insp_3"]:focus,
+.simplex .vir-btn a[class*="minv_Insp_3"]:focus{
+    border-color: #ACC154;
+    background: #B3CA5A;
+}
+.simplex .vir-btn a[class*="minv_Insp_3"]:active,
+.simplex .vir-btn a[class*="minv_Insp_3"]:focus{
+    border-color: #9EB34F;
+}
+.cerulean .vir-btn a[class*="minv_Insp_4"],
+.simplex .vir-btn a[class*="minv_Insp_4"]{
+    background-image: -webkit-linear-gradient(#8AF940,#80E93A 60%,#7BE038);
+    background-image: -o-linear-gradient(#8AF940,#80E93A 60%,#7BE038);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#8AF940),color-stop(60%,#80E93A),to(#7BE038));
+    background-image: linear-gradient(#8AF940,#80E93A 60%,#7BE038);
+    border-color: #80E93A;
+    border-bottom: 1px solid #73CC37;
+}
+.simplex .vir-btn a[class*="minv_Insp_4"]{
+    border-color: #7BE039;
+}
+.cerulean .vir-btn a[class*="minv_Insp_4"]:hover{
+    border-color: #73CC37;
+}
+.simplex .vir-btn a[class*="minv_Insp_4"]:hover{
+    border-color: #7BE039;
+}
+.cerulean .vir-btn a[class*="minv_Insp_4"]:active,
+.simplex .vir-btn a[class*="minv_Insp_4"]:active,
+.cerulean .vir-btn a[class*="minv_Insp_4"]:focus,
+.simplex .vir-btn a[class*="minv_Insp_4"]:focus{
+    border-color: #78DA37;
+    background: #77DA36;
+}
+.simplex .vir-btn a[class*="minv_Insp_4"]:active,
+.simplex .vir-btn a[class*="minv_Insp_4"]:focus{
+    border-color: #69C12F;
+}
+.cerulean .vir-btn a[class*="minv_Insp_5"],
+.simplex .vir-btn a[class*="minv_Insp_5"]{
+    background-image: -webkit-linear-gradient(#65C6DE,#5FBCD3 60%,#58B1C7);
+    background-image: -o-linear-gradient(#65C6DE,#5FBCD3 60%,#58B1C7);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#65C6DE),color-stop(60%,#5FBCD3),to(#58B1C7));
+    background-image: linear-gradient(#65C6DE,#5FBCD3 60%,#58B1C7);
+    border-color: #5FBCD3;
+    border-bottom: 1px solid #499BAF;
+}
+.simplex .vir-btn a[class*="minv_Insp_5"]{
+    border-color: #499BAF;
+}
+.cerulean .vir-btn a[class*="minv_Insp_5"]:hover,
+.simplex .vir-btn a[class*="minv_Insp_5"]:hover{
+    border-color: #499BAF;
+}
+.cerulean .vir-btn a[class*="minv_Insp_5"]:active,
+.simplex .vir-btn a[class*="minv_Insp_5"]:active,
+.cerulean .vir-btn a[class*="minv_Insp_5"]:focus,
+.simplex .vir-btn a[class*="minv_Insp_5"]:focus{
+    border-color: #52AEC5;
+    background: #56B3CA;
+}
+.simplex .vir-btn a[class*="minv_Insp_5"]:active,
+.simplex .vir-btn a[class*="minv_Insp_5"]:focus{
+    border-color: #4C9EB3;
+}
+.lumen .vir-btn a[class*="minv_Insp_0"]{
+    background: #d35f5f;
+    border-color: #B94444;
+}
+.lumen .vir-btn a[class*="minv_Insp_0"]:active,
+.lumen .vir-btn a[class*="minv_Insp_0"]:focus{
+    background: #B94444;
+    border-color: #A03434;
+}
+.lumen .vir-btn a[class*="minv_Insp_1"]{
+    background: #FF9955;
+    border-color: #EF853F;
+}
+.lumen .vir-btn a[class*="minv_Insp_1"]:active,
+.lumen .vir-btn a[class*="minv_Insp_1"]:focus{
+    background: #EF853F;
+    border-color: #CE7439;
+}
+.lumen .vir-btn a[class*="minv_Insp_2"]{
+    background: #F1DA79;
+    border-color: #E4CD6B;
+}
+.lumen .vir-btn a[class*="minv_Insp_2"]:active,
+.lumen .vir-btn a[class*="minv_Insp_2"]:focus{
+    background: #E4CD6B;
+    border-color: #D8C05B;
+}
+.lumen .vir-btn a[class*="minv_Insp_3"]{
+    background: #BCD35F;
+    border-color: #AAC14B;
+}
+.lumen .vir-btn a[class*="minv_Insp_3"]:active,
+.lumen .vir-btn a[class*="minv_Insp_3"]:focus{
+    background: #AAC14B;
+    border-color: #97AD3C;
+}
+.lumen .vir-btn a[class*="minv_Insp_4"]{
+    background: #80E93A;
+    border-color: #76DA34;
+}
+.lumen .vir-btn a[class*="minv_Insp_4"]:active,
+.lumen .vir-btn a[class*="minv_Insp_4"]:focus{
+    background: #76DA34;
+    border-color: #6ECC30;
+}
+.lumen .vir-btn a[class*="minv_Insp_5"]{
+    background: #5FBCD3;
+    border-color: #4DACC3;
+}
+.lumen .vir-btn a[class*="minv_Insp_5"]:active,
+.lumen .vir-btn a[class*="minv_Insp_5"]:focus{
+    background: #4DACC3;
+    border-color: #3692A9;
+}
+.paper .vir-btn a[class*="minv_Insp_0"]{
+    background-color: #d35f5f;
+}
+.paper .vir-btn a[class*="minv_Insp_0"]:hover{
+    background-color: #B14040;
+}
+.paper .vir-btn a[class*="minv_Insp_0"]:active,
+.paper .vir-btn a[class*="minv_Insp_0"]:focus{
+    background-color: #B14040 !important;
+    background-image: -webkit-radial-gradient(circle,#B14040 10%, #d35f5f 11%);
+    background-image: -o-radial-gradient(circle,red 10%,green 11%);
+    background-image: radial-gradient(circle,#B14040 10%, #d35f5f 11%);
+    background-repeat: no-repeat;
+    -webkit-background-size: 1000% 1000%;
+    background-size: 1000%;
+}
+.paper .vir-btn a[class*="minv_Insp_1"]{
+    background-color: #FF9955;
+}
+.paper .vir-btn a[class*="minv_Insp_1"]:hover{
+    background-color: #E57E39;
+}
+.paper .vir-btn a[class*="minv_Insp_1"]:active,
+.paper .vir-btn a[class*="minv_Insp_1"]:focus{
+    background-color: #E57E39 !important;
+    background-image: -webkit-radial-gradient(circle,#E57E39 10%, #FF9955 11%);
+    background-image: -o-radial-gradient(circle,red 10%,green 11%);
+    background-image: radial-gradient(circle,#E57E39 10%, #FF9955 11%);
+    background-repeat: no-repeat;
+    -webkit-background-size: 1000% 1000%;
+    background-size: 1000%;
+}
+.paper .vir-btn a[class*="minv_Insp_2"]{
+    background-color: #F1DA79;
+}
+.paper .vir-btn a[class*="minv_Insp_2"]:hover{
+    background-color: #DEC55B;
+}
+.paper .vir-btn a[class*="minv_Insp_2"]:active,
+.paper .vir-btn a[class*="minv_Insp_2"]:focus{
+    background-color: #D8C160 !important;
+    background-image: -webkit-radial-gradient(circle,#D8C160 10%, #f1da79 11%);
+    background-image: -o-radial-gradient(circle,red 10%,green 11%);
+    background-image: radial-gradient(circle,#D8C160 10%, #f1da79 11%);
+    background-repeat: no-repeat;
+    -webkit-background-size: 1000% 1000%;
+    background-size: 1000%;
+}
+.paper .vir-btn a[class*="minv_Insp_3"]{
+    background-color: #BCD35F;
+}
+.paper .vir-btn a[class*="minv_Insp_3"]:hover{
+    background-color: #9DB148;
+}
+.paper .vir-btn a[class*="minv_Insp_3"]:active,
+.paper .vir-btn a[class*="minv_Insp_3"]:focus{
+    background-color: #9DB148 !important;
+    background-image: -webkit-radial-gradient(circle,#9DB148 10%, #BCD35F 11%);
+    background-image: -o-radial-gradient(circle,red 10%,green 11%);
+    background-image: radial-gradient(circle,#9DB148 10%, #BCD35F 11%);
+    background-repeat: no-repeat;
+    -webkit-background-size: 1000% 1000%;
+    background-size: 1000%;
+}
+.paper .vir-btn a[class*="minv_Insp_4"]{
+    background-color: #80E93A;
+}
+.paper .vir-btn a[class*="minv_Insp_4"]:hover{
+    background-color: #6CCE2B;
+}
+.paper .vir-btn a[class*="minv_Insp_4"]:active,
+.paper .vir-btn a[class*="minv_Insp_4"]:focus{
+    background-color: #6CCE2B !important;
+    background-image: -webkit-radial-gradient(circle, #6CCE2B 10%, #80E93A 11%);
+    background-image: -o-radial-gradient(circle,red 10%,green 11%);
+    background-image: radial-gradient(circle, #6CCE2B 10%, #80E93A 11%);
+    background-repeat: no-repeat;
+    -webkit-background-size: 1000% 1000%;
+    background-size: 1000%;
+}
+.paper .vir-btn a[class*="minv_Insp_5"]{
+    background-color: #5FBCD3;
+}
+.paper .vir-btn a[class*="minv_Insp_5"]:hover{
+    background-color: #4FA5BA;
+}
+.paper .vir-btn a[class*="minv_Insp_5"]:active,
+.paper .vir-btn a[class*="minv_Insp_5"]:focus{
+    background-color: #4FA5BA !important;
+    background-image: -webkit-radial-gradient(circle,#4FA5BA 10%, #5FBCD3 11%);
+    background-image: -o-radial-gradient(circle,red 10%,green 11%);
+    background-image: radial-gradient(circle,#4FA5BA 10%, #5FBCD3 11%);
+    background-repeat: no-repeat;
+    -webkit-background-size: 1000% 1000%;
+    background-size: 1000%;
+}
+.slate .vir-btn a[class*="minv_Insp_0"]{
+    background-image: -webkit-linear-gradient(#CC4D4D,#B14040 60%,#B14040);
+    background-image: -o-linear-gradient(#CC4D4D,#B14040 60%,#B14040);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#CC4D4D),color-stop(60%,#B14040),to(#B14040));
+    background-image: linear-gradient(#CC4D4D,#B14040 60%,#B14040);
+    border-color: #861D1D;
+}
+.slate .vir-btn a[class*="minv_Insp_0"]:hover{
+    background-image: -webkit-linear-gradient(#882D2D,#983838 60%,#983838);
+    background-image: -o-linear-gradient(#882D2D,#983838 60%,#983838);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#882D2D),color-stop(60%,#983838),to(#983838));
+    background-image: linear-gradient(#882D2D,#983838 60%,#983838);
+    border-color: #4A1A1A;
+}
+.slate .vir-btn a[class*="minv_Insp_0"]:active,
+.slate .vir-btn a[class*="minv_Insp_0"]:focus{
+    background: #A53C3C;
+    border-color: #A03737;
+}
+
+.slate .vir-btn a[class*="minv_Insp_1"]{
+    background-image: -webkit-linear-gradient(#F78C44,#E57E39 60%,#E07C39);
+    background-image: -o-linear-gradient(#F78C44,#E57E39 60%,#E07C39);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#F78C44),color-stop(60%,#E57E39),to(#E07C39));
+    background-image: linear-gradient(#F78C44,#E57E39 60%,#E07C39);
+    border-color: #8A4518;
+}
+.slate .vir-btn a[class*="minv_Insp_1"]:hover{
+    background-image: -webkit-linear-gradient(#8C4B20,#B3622C 60%,#B3622C);
+    background-image: -o-linear-gradient(#8C4B20,#B3622C 60%,#B3622C);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#8C4B20),color-stop(60%,#B3622C),to(#B3622C));
+    background-image: linear-gradient(#8C4B20,#B3622C 60%,#B3622C);
+    border-color: #522A0F;
+}
+.slate .vir-btn a[class*="minv_Insp_1"]:active,
+.slate .vir-btn a[class*="minv_Insp_1"]:focus{
+    border-color: #D67837;
+    background: #DA7836;
+}
+
+.slate .vir-btn a[class*="minv_Insp_2"]{
+    background-image: -webkit-linear-gradient(#fbe483,#f9e281 60%,#F1DA78);
+    background-image: -o-linear-gradient(#fbe483,#f9e281 60%,#F1DA78);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#fbe483),color-stop(60%,#f9e281),to(#F1DA78));
+    background-image: linear-gradient(#fbe483,#f9e281 60%,#F1DA78);
+    border-color: #98842F;
+}
+.slate .vir-btn a[class*="minv_Insp_2"]:hover{
+    background-image: -webkit-linear-gradient(#9E8C41,#CAB665 60%,#C7B461);
+    background-image: -o-linear-gradient(#9E8C41,#CAB665 60%,#C7B461);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#9E8C41),color-stop(60%,#CAB665),to(#C7B461));
+    background-image: linear-gradient(#9e8c41,#CAB665 60%,#C7B461);
+    border-color: #584B14;
+}
+.slate .vir-btn a[class*="minv_Insp_2"]:active,
+.slate .vir-btn a[class*="minv_Insp_2"]:focus{
+    border-color: #EAD474;
+    background: #E6D070;
+}
+
+.slate .vir-btn a[class*="minv_Insp_3"]{
+    background-image: -webkit-linear-gradient(#C6DE64,#bcd35f 60%,#B3CA59);
+    background-image: -o-linear-gradient(#C6DE64,#bcd35f 60%,#B3CA59);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#C6DE64),color-stop(60%,#bcd35f),to(#B3CA59));
+    background-image: linear-gradient(#C6DE64,#bcd35f 60%,#B3CA59);
+    border-color: #71822D;
+}
+.slate .vir-btn a[class*="minv_Insp_3"]:hover{
+    background-image: -webkit-linear-gradient(#67752F,#98AD49 60%,#98AD49);
+    background-image: -o-linear-gradient(#67752F,#98AD49 60%,#98AD49);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#67752F),color-stop(60%,#98AD49),to(#98AD49));
+    background-image: linear-gradient(#67752F,#98AD49 60%,#98AD49);
+    border-color: #3B4418;
+}
+.slate .vir-btn a[class*="minv_Insp_3"]:active,
+.slate .vir-btn a[class*="minv_Insp_3"]:focus{
+    border-color: #ACC154;
+    background: #B3CA5A;
+}
+
+.slate .vir-btn a[class*="minv_Insp_4"]{
+    background-image: -webkit-linear-gradient(#8AF940,#80E93A 60%,#7BE038);
+    background-image: -o-linear-gradient(#8AF940,#80E93A 60%,#7BE038);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#8AF940),color-stop(60%,#80E93A),to(#7BE038));
+    background-image: linear-gradient(#8AF940,#80E93A 60%,#7BE038);
+    border-color: #478C19;
+}
+.slate .vir-btn a[class*="minv_Insp_4"]:hover{
+    background-image: -webkit-linear-gradient(#4B8624,#5EA52F 60%,#5EA52F);
+    background-image: -o-linear-gradient(#4B8624,#5EA52F 60%,#5EA52F);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#4B8624),color-stop(60%,#5EA52F),to(#5EA52F));
+    background-image: linear-gradient(#4B8624,#5EA52F 60%,#5EA52F);
+    border-color: #2C5D0C;
+}
+.slate .vir-btn a[class*="minv_Insp_4"]:active,
+.slate .vir-btn a[class*="minv_Insp_4"]:focus{
+    border-color: #78DA37;
+    background: #77DA36;
+}
+
+.slate .vir-btn a[class*="minv_Insp_5"]{
+    background-image: -webkit-linear-gradient(#65C6DE,#5FBCD3 60%,#58B1C7);
+    background-image: -o-linear-gradient(#65C6DE,#5FBCD3 60%,#58B1C7);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#65C6DE),color-stop(60%,#5FBCD3),to(#58B1C7));
+    background-image: linear-gradient(#65C6DE,#5FBCD3 60%,#58B1C7);
+    border-color: #2F7384;
+}
+.slate .vir-btn a[class*="minv_Insp_5"]:hover{
+    background-image: -webkit-linear-gradient(#2D6471,#4994A7 60%,#4994A7);
+    background-image: -o-linear-gradient(#2D6471,#4994A7 60%,#4994A7);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#65C6DE),color-stop(60%,#4994A7),to(#4994A7));
+    background-image: linear-gradient(#2D6471,#4994A7 60%,#4994A7);
+    border-color: #1D3C44;
+}
+.slate .vir-btn a[class*="minv_Insp_5"]:active,
+.slate .vir-btn a[class*="minv_Insp_5"]:focus{
+    border-color: #52AEC5;
+    background: #56B3CA;
+}
+
+.spacelab .vir-btn a[class*="minv_Insp_0"]{
+    background-image: -webkit-linear-gradient(#CC4D4D,#B14040 60%,#B14040);
+    background-image: -o-linear-gradient(#CC4D4D,#B14040 60%,#B14040);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#CC4D4D),color-stop(60%,#B14040),to(#B14040));
+    background-image: linear-gradient(#CC4D4D,#B14040 60%,#B14040);
+    border-color: #923838;
+}
+.spacelab .vir-btn a[class*="minv_Insp_0"]:hover{
+    background-image: -webkit-linear-gradient(#C54B4B,#A23B3B 60%,#9C3939);
+    background-image: -o-linear-gradient(#C54B4B,#A23B3B 60%,#9C3939);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#C54B4B),color-stop(60%,#A23B3B),to(#9C3939));
+    background-image: linear-gradient(#C54B4B,#A23B3B 60%,#9C3939);
+    border-color: #923838;
+}
+.spacelab .vir-btn a[class*="minv_Insp_0"]:active,
+.spacelab .vir-btn a[class*="minv_Insp_0"]:focus{
+    background: #A53C3C;
+}
+.spacelab .vir-btn a[class*="minv_Insp_1"]{
+    background-image: -webkit-linear-gradient(#F78C44,#E57E39 60%,#E07C39);
+    background-image: -o-linear-gradient(#F78C44,#E57E39 60%,#E07C39);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#F78C44),color-stop(60%,#E57E39),to(#E07C39));
+    background-image: linear-gradient(#F78C44,#E57E39 60%,#E07C39);
+    border-color: #C56C31;
+}
+.spacelab .vir-btn a[class*="minv_Insp_1"]:hover{
+    background-image: -webkit-linear-gradient(#F18842,#DC7B3A 60%,#CE7234);
+    background-image: -o-linear-gradient(#F18842,#DC7B3A 60%,#CE7234);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#F18842),color-stop(60%,#DC7B3A),to(#CE7234));
+    background-image: linear-gradient(#F18842,#DC7B3A 60%,#CE7234);
+    border-color: #C56C31;
+}
+.spacelab .vir-btn a[class*="minv_Insp_1"]:active,
+.spacelab .vir-btn a[class*="minv_Insp_1"]:focus{
+    border-color: #D67837;
+    background: #DA7836;
+}
+.spacelab .vir-btn a[class*="minv_Insp_2"]{
+    background-image: -webkit-linear-gradient(#fbe483,#f9e281 60%,#F1DA78);
+    background-image: -o-linear-gradient(#fbe483,#f9e281 60%,#F1DA78);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#fbe483),color-stop(60%,#f9e281),to(#F1DA78));
+    background-image: linear-gradient(#fbe483,#f9e281 60%,#F1DA78);
+    border-color: #DCC66B;
+}
+.spacelab .vir-btn a[class*="minv_Insp_2"]:hover{
+    background-image: -webkit-linear-gradient(#fbe483,#EAD579 60%,#E4CF72);
+    background-image: -o-linear-gradient(#fbe483,#EAD579 60%,#E4CF72);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#fbe483),color-stop(60%,#EAD579),to(#E4CF72));
+    background-image: linear-gradient(#fbe483,#EAD579 60%,#E4CF72);
+    border-color: #DCC66B;
+}
+.spacelab .vir-btn a[class*="minv_Insp_2"]:active,
+.spacelab .vir-btn a[class*="minv_Insp_2"]:focus{
+    border-color: #EAD474;
+    background: #E6D070;
+}
+.spacelab .vir-btn a[class*="minv_Insp_3"]{
+    background-image: -webkit-linear-gradient(#C6DE64,#bcd35f 60%,#B3CA59);
+    background-image: -o-linear-gradient(#C6DE64,#bcd35f 60%,#B3CA59);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#C6DE64),color-stop(60%,#bcd35f),to(#B3CA59));
+    background-image: linear-gradient(#C6DE64,#bcd35f 60%,#B3CA59);
+    border-color: #9CAF4E;
+}
+.spacelab .vir-btn a[class*="minv_Insp_3"]:hover{
+    background-image: -webkit-linear-gradient(#C1D862,#B2C75C 60%,#A8BD53);
+    background-image: -o-linear-gradient(#C1D862,#B2C75C 60%,#A8BD53);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#C1D862),color-stop(60%,#B2C75C),to(#A8BD53));
+    background-image: linear-gradient(#C1D862,#B2C75C 60%,#A8BD53);
+    border-color: #9CAF4E;
+}
+.spacelab .vir-btn a[class*="minv_Insp_3"]:active,
+.spacelab .vir-btn a[class*="minv_Insp_3"]:focus{
+    border-color: #ACC154;
+    background: #B3CA5A;
+}
+.spacelab .vir-btn a[class*="minv_Insp_4"]{
+    background-image: -webkit-linear-gradient(#8AF940,#80E93A 60%,#7BE038);
+    background-image: -o-linear-gradient(#8AF940,#80E93A 60%,#7BE038);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#8AF940),color-stop(60%,#80E93A),to(#7BE038));
+    background-image: linear-gradient(#8AF940,#80E93A 60%,#7BE038);
+    border-color: #73CC37;
+}
+.spacelab .vir-btn a[class*="minv_Insp_4"]:hover{
+    background-image: -webkit-linear-gradient(#8AF741,#7CE03A 60%,#74D434);
+    background-image: -o-linear-gradient(#8AF741,#7CE03A 60%,#74D434);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#8AF741),color-stop(60%,#7CE03A),to(#74D434));
+    background-image: linear-gradient(#8AF741,#7CE03A 60%,#74D434);
+    border-color: #73CC37;
+}
+.spacelab .vir-btn a[class*="minv_Insp_4"]:active,
+.spacelab .vir-btn a[class*="minv_Insp_4"]:focus{
+    border-color: #78DA37;
+    background: #77DA36;
+}
+.spacelab .vir-btn a[class*="minv_Insp_5"]{
+    background-image: -webkit-linear-gradient(#65C6DE,#5FBCD3 60%,#58B1C7);
+    background-image: -o-linear-gradient(#65C6DE,#5FBCD3 60%,#58B1C7);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#65C6DE),color-stop(60%,#5FBCD3),to(#58B1C7));
+    background-image: linear-gradient(#65C6DE,#5FBCD3 60%,#58B1C7);
+    border-color: #499BAF;
+}
+.spacelab .vir-btn a[class*="minv_Insp_5"]:hover{
+    background-image: -webkit-linear-gradient(#69C8E0,#5AB2C7 60%,#52A4B9);
+    background-image: -o-linear-gradient(#69C8E0,#5AB2C7 60%,#52A4B9);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#69C8E0),color-stop(60%,#5AB2C7),to(#52A4B9));
+    background-image: linear-gradient(#69C8E0,#5AB2C7 60%,#52A4B9);
+    border-color: #499BAF;
+}
+.spacelab .vir-btn a[class*="minv_Insp_5"]:active,
+.spacelab .vir-btn a[class*="minv_Insp_5"]:focus{
+    border-color: #52AEC5;
+    background: #56B3CA;
+}

@@ -1,0 +1,90 @@
+.flag-wrapper .green-light {
+  border-color: #398439;
+  color: #ffffff;
+}
+
+.flag-wrapper .green-light.active {
+  background: #1caa00;
+}
+
+.flag-wrapper.flat-lights .green-light {
+  border-color: #1caa00;
+}
+
+.flag-wrapper.gradient .green-light.active {
+  background: linear-gradient(to bottom, #1caa00 20%, #528037 100%);
+}
+
+.flag-wrapper .yellow-light {
+  border-color: #d19c00;
+  color: #ffffff;
+}
+
+.flag-wrapper .yellow-light.active {
+  background: #ecbd15;
+}
+
+.flag-wrapper.flat-lights .yellow-light {
+  border-color: #ecbd15;
+}
+
+.flag-wrapper.gradient .yellow-light.active {
+  background: linear-gradient(to bottom, #ecbd15 20%, #c4a100 100%);
+  color: #333333;
+}
+
+.flag-wrapper .red-light {
+  border-color: #ac2925;
+  color: #ffffff;
+}
+
+.flag-wrapper .red-light.active {
+  background: #d20e00;
+}
+
+.flag-wrapper.flat-lights .red-light {
+  border-color: #d20e00;
+}
+
+.flag-wrapper.gradient .red-light.active {
+  background: linear-gradient(to bottom, #d20e00 20%, #a50000 100%);
+}
+
+.flag-wrapper .blue-light {
+  border-color: #204d74;
+  color: #ffffff;
+}
+
+.flag-wrapper .blue-light.active {
+  background: #097abc;
+}
+
+.flag-wrapper.flat-lights .blue-light {
+  border-color: #097abc;
+}
+
+.flag-wrapper.gradient .blue-light.active {
+  background: linear-gradient(to bottom, #097abc 20%, #0077c0 100%);
+}
+
+.flag-wrapper .white-light {
+  border-color: #b2b2b2;
+  color: #333333;
+}
+
+.flag-wrapper.flat-lights .white-light.active {
+  background: #c4c4c4;
+}
+
+.flag-wrapper .white-light.active {
+  background: #e6e6e6;
+}
+
+.flag-wrapper.flat-lights .white-light {
+  border-color: #c4c4c4;
+}
+
+.flag-wrapper.gradient .white-light.active {
+  background: linear-gradient(to bottom, #e6e6e6 20%, #b7b7b7 100%);
+  color: #444444;
+}

@@ -1,0 +1,12 @@
+body {
+    overflow-x: hidden;
+}
+
+.modul-r-container.container-full-width {
+    width: 100vw;
+    margin: 0 calc(-50vw + 50%);
+}
+
+.container-fluid .modul-r-container.container-full-width {
+    padding: 0 calc((100vw - 100%) / 2);
+}

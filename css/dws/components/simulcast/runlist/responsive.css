@@ -1,0 +1,891 @@
+.jGrowl .notification-success {
+  min-width: 25%;
+  margin: 5px 37.5% 0 37.5%;
+}
+
+.modul-r-simulcast-runlist table {
+  font-size: 12px;
+}
+
+.modul-r-simulcast-runlist .contents-wrapper {
+  display: contents;
+}
+
+.modul-r-simulcast-runlist table.media-middle td,
+.modul-r-simulcast-runlist table.media-middle-top td {
+  vertical-align: middle;
+}
+
+.modul-r-simulcast-runlist table.media-middle .info td a:not(.text-primary) {
+  color: inherit;
+}
+
+.modul-r-simulcast-runlist .media-middle-top td {
+  border: none !important;
+  background: transparent !important;
+}
+
+.modul-r-simulcast-runlist .breadcrumb {
+  background: transparent;
+}
+
+.modul-r-simulcast-runlist .toggle-group input {
+  display: none;
+}
+
+.modul-r-simulcast-runlist .btn-toggle {
+  width: 60px;
+  padding: 0;
+  margin: 0;
+  border-width: 1px;
+  box-shadow: 1px 2px 4px rgba(85, 85, 85, .6) inset;
+}
+
+.modul-r-simulcast-runlist.mod-compact tbody + tbody {
+  border-width: 1px;
+}
+
+.modul-r-simulcast-runlist.mod-compact .lane-border:last-of-type {
+  display: none;
+}
+
+.modul-r-simulcast-runlist.mod-compact .table-condensed td {
+  padding: 1px;
+}
+
+.modul-r-simulcast-runlist.mod-compact .table-condensed td.btn-join {
+  padding: 4px 8px;
+}
+
+.modul-r-simulcast-runlist.mod-compact .table-condensed td.location-section,
+.modul-r-simulcast-runlist.mod-compact .table-condensed td.logistics-section {
+  padding-right: 8px;
+}
+
+.modul-r-simulcast-runlist .btn-toggle:hover,
+.modul-r-simulcast-runlist .btn-toggle:active,
+.modul-r-simulcast-runlist .btn-toggle .btn-round,
+.modul-r-simulcast-runlist .btn-toggle .btn-round:hover,
+.modul-r-simulcast-runlist .btn-toggle .btn-round:active {
+  border-width: 1px;
+  margin: 0;
+}
+
+.modul-r-simulcast-runlist .input-toggle + .btn-toggle {
+  text-align: left;
+}
+
+.modul-r-simulcast-runlist .toggle-group .input-toggle:not(:checked) + .btn-toggle {
+  background: #dddddd;
+  border-color: #dddddd;
+}
+
+.modul-r-simulcast-runlist .input-toggle:checked + .btn-toggle {
+  text-align: right;
+}
+
+.modul-r-simulcast-runlist .btn-toggle > .btn {
+  width: 2.2em;
+  height: 2.2em;
+  box-shadow: 2px 2px 4px rgba(51, 51, 51, .6);
+}
+
+.modul-r-simulcast-runlist .btn-round {
+  border-radius: 30px;
+}
+
+.modul-r-simulcast-runlist .runlist-print {
+  margin-left: 15px;
+}
+
+.modul-r-simulcast-runlist .runlist-print + div {
+  overflow: hidden;
+}
+
+.modul-r-simulcast-runlist .events-filter .text-sm-right {
+  padding-right: 0;
+}
+
+.modul-r-simulcast-runlist .stockwave-light-bulb-container {
+  text-align: right;
+}
+
+@media (min-width: 992px) {
+  .modul-r-simulcast-runlist .events-filter .row > div {
+    width: auto;
+  }
+
+  .modul-r-simulcast-runlist .events-filter .lane-select,
+  .modul-r-simulcast-runlist .events-filter .event-select {
+    min-width: 240px;
+  }
+}
+
+.modul-r-simulcast-runlist .header-line {
+  font-size: 14px;
+  margin: 0;
+  padding-left: 0;
+  background: transparent;
+  border: none;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.modul-r-simulcast-runlist .proxy-bid-input {
+  width: 110px;
+}
+
+.modul-r-simulcast-runlist .sort-item {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  padding: 4px;
+  white-space: nowrap;
+}
+
+.modul-r-simulcast-runlist .sort-item.sortable {
+  cursor: pointer;
+}
+
+.modul-r-simulcast-runlist .sort-item.sortable .col-name {
+  text-decoration: underline;
+}
+
+.modul-r-simulcast-runlist .white-space-unset {
+  white-space: unset;
+}
+
+.modul-r-simulcast-runlist .sort-item .glyphicon {
+  visibility: hidden;
+}
+
+.modul-r-simulcast-runlist .sort-item.active .glyphicon-chevron-down,
+.modul-r-simulcast-runlist .sort-item.active .glyphicon-chevron-up {
+  visibility: visible;
+}
+
+.modul-r-simulcast-runlist .loading-image {
+  border: 1px solid #cccccc;
+  background: rgba(0, 0, 0, .05) url("../../../../../images/wait.gif") no-repeat center center;
+  font-size: 0;
+  width: 54px;
+  height: 40px;
+}
+
+.modul-r-simulcast-runlist .vehicle-image {
+  overflow: hidden;
+  font-size: 0;
+  display: block;
+  overflow: hidden;
+}
+
+.modul-r-simulcast-runlist .location {
+  width: max-content;
+  max-width: 150px;
+  padding-right: 5px;
+}
+
+.scroll-emitter {
+  margin: 0;
+  height: 1px;
+  font-size: 1px;
+  width: 150%;
+}
+
+.modul-r-simulcast-runlist .fus-full,
+.modul-r-simulcast-runlist .vir-360-btn {
+  width: 46px;
+  height: 40px;
+  cursor: pointer;
+  background: green;
+  border-radius: 2px;
+  background: rgba(0, 0, 0, .5) url("../../../../../images/dws/components/mh360.png") no-repeat center center;
+  background-size: 100%;
+  margin: auto;
+}
+
+.modul-r-simulcast-runlist.mobile .fus-full,
+.modul-r-simulcast-runlist.mobile .vir-360-btn {
+  display: inline-block;
+  margin-top: .4em;
+  width: 54px;
+  height: 40px;
+  vertical-align: top;
+  border-radius: 0;
+}
+
+/* -fix close key on mobile fusion outside css styles- */
+body .fy_cls {
+  z-index: 102;
+}
+
+.modul-r-simulcast-runlist #sim-runlist-container.fusion360-col-hidden .fus-360-view-col,
+.modul-r-simulcast-runlist #sim-runlist-container.vir360-col-hidden .vir-360-view-col {
+  display: none;
+}
+
+.modul-r-simulcast-runlist .btn-request,
+.modul-r-simulcast-runlist .btn-join {
+  width: 110px;
+}
+
+.modul-r-simulcast-runlist .btn-policies {
+  margin-right: 8px;
+}
+
+/* TODO: change logic of render - don't lose bound handlers after re-render, use bootstrap js to hide/show popovers  */
+
+.modul-r-simulcast-runlist .vehicle-image-wrap {
+  display: block;
+  height: 40px;
+  width: 54px;
+  overflow: hidden;
+  position: relative;
+}
+
+.modul-r-simulcast-runlist .vehicle-image-wrap img {
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.modul-r-simulcast-runlist .proxy-bid-title,
+.modul-r-simulcast-runlist .proxy-bid-cell .proxy-bid-wrapper {
+  width: 145px;
+}
+
+.modul-r-simulcast-runlist.mod-compact table td.proxy-bid-cell {
+  padding-right: 8px;
+}
+
+.modul-r-simulcast-runlist .info-header.add-paddings td,
+.modul-r-simulcast-runlist.mod-compact .info-header.add-paddings td {
+  padding-bottom: 12px;
+  padding-top: 12px;
+}
+
+.proxy-bid-popover {
+  min-width: 240px;
+  max-width: 280px;
+}
+
+.proxy-bid-box .btn-proxy-bid {
+  min-width: 62px;
+}
+
+.proxy-bid-popover .selected-badge {
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.proxy-bid-popover .badge-item.disabled {
+  opacity: .5;
+  cursor: not-allowed;
+  background: transparent !important;
+}
+
+.proxy-bid-popover .dropdown-menu {
+  width: 100%;
+}
+
+.proxy-bid-popover .dropdown-toggle {
+  position: relative;
+  padding-right: 20px;
+}
+
+.proxy-bid-popover .dropdown-toggle .caret {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.proxy-bid-popover .proxy-bid-inputs input {
+  width: 185px;
+}
+
+.proxy-bid-popover .proxy-bid-inputs .dropdown {
+  padding: 0;
+  border: none;
+  width: 71px;
+  margin-left: -1px;
+}
+
+.proxy-bid-popover .form-group {
+  margin-bottom: 10px;
+}
+
+.proxy-bid-popover .col-md-6:first-child {
+  padding-right: 5px;
+}
+
+.proxy-bid-popover .col-md-6:last-child {
+  padding-left: 5px;
+}
+
+.proxy-bid-popover .btn[type="submit"] {
+  min-width: 95px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.proxy-bid-popover .current-proxy-bid-increment {
+  position: relative;
+}
+
+.proxy-bid-popover .fa-long-arrow-up {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  font-size: 18px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.proxy-bid-popover .proxy-bid-inputs .dropdown-toggle {
+  padding-left: 16px !important;
+  padding-right: 13px !important;
+}
+
+.popover.proxy-bid-popover-wrapper {
+  max-width: none;
+  z-index: 1000;
+}
+
+.modul-r-simulcast-runlist .popover.vue-popover {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  display: block;
+}
+
+.modul-r-simulcast-runlist .v-tlt {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.proxy-bid-popover.connection-expecting [type="submit"],
+.proxy-bid-popover.connection-expecting .remove-proxy-bid,
+.proxy-bid-popover .block-disabled {
+  cursor: not-allowed;
+  opacity: .7;
+}
+
+.proxy-bid-popover.connection-expecting [type="submit"] > *,
+.proxy-bid-popover.connection-expecting .remove-proxy-bid > *,
+.proxy-bid-popover .block-disabled > * {
+  pointer-events: none;
+}
+
+.join-bot {
+  display: none;
+}
+
+.join-bot + .lane-border {
+  display: none;
+}
+
+.modul-r-simulcast-runlist .btn-join .btn-success {
+  margin: 1px;
+}
+
+.btn-join .btn-success + .btn-success {
+  margin-left: 5px;
+}
+
+.cr-link,
+.cr-link:hover {
+  color: inherit;
+}
+
+.barcode-cont {
+  display: none;
+}
+
+.modul-r-simulcast-runlist .cell-trim {
+  word-break: break-all;
+}
+
+.modul-r-simulcast-runlist .popover-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.modul-r-simulcast-runlist .popover-title .title-text {
+  position: relative;
+  top: 1px;
+}
+
+.modul-r-simulcast-runlist .popover-title .close {
+  display: inline-block;
+  float: none;
+  font-size: 2.2em;
+  line-height: .1em;
+  width: 20px; /* fallback for IE */
+  width: fit-content;
+}
+
+.modul-r-simulcast-runlist .logistics-cost-info .label-cell {
+  font-weight: bold;
+}
+
+.modul-r-simulcast-runlist .logistics-cost-info .cost-cell {
+  padding-left: 40px;
+  text-align: left;
+}
+
+.modul-r-simulcast-runlist .logistics-cost-info tr:not(:last-child) {
+  border-bottom: 1px solid #cccccc;
+}
+
+.modul-r-simulcast-runlist .logistics-cost-info .logistics-logo {
+  padding: 3px;
+  border-radius: 2px;
+  background-color: #ffffff;
+  margin-top: 3px;
+}
+
+.modul-r-simulcast-runlist .lazy-img:not(.loaded),
+.modul-r-simulcast-runlist .lazy-img.loading {
+  opacity: .7;
+}
+
+.modul-r-simulcast-runlist .watchlist-box {
+  position: relative;
+}
+
+.modul-r-simulcast-runlist .watchlist-box .loading,
+.modul-r-simulcast-runlist .watchlist-star .loading {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, .2) url("../../../../../images/wait.gif") no-repeat center center;
+  z-index: 1;
+}
+
+.modul-r-simulcast-runlist .watchlist-star {
+  position: relative;
+  right: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.modul-r-simulcast-runlist .watchlist-star .star-icon,
+.modul-r-simulcast-runlist .watchlist-star .star-icon .star-print {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.modul-r-simulcast-runlist .watchlist-star .star-icon.star-active {
+  background-image: url("../../../../../images/simulcast/in_app_bidder/filled_star.svg");
+}
+
+.modul-r-simulcast-runlist .watchlist-star .star-icon.star-unactive {
+  background-image: url("../../../../../images/simulcast/in_app_bidder/outline_star.svg");
+}
+
+.modul-r-simulcast-runlist .watchlist-star .star-icon .star-print {
+  display: none;
+}
+
+.modul-r-simulcast-runlist .watchlist-star.blocked {
+  opacity: .5;
+  pointer-events: none;
+}
+
+.modul-r-simulcast-runlist .reg-no {
+  text-align: center;
+  height: 100%;
+  background: #ffc926;
+  color: #000000;
+  border-radius: 3px;
+  white-space: nowrap;
+  padding: 0 10px;
+  margin: 0 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* --------------------- mobile-layout --------------------- */
+
+.runlist-join-block {
+  max-width: 84vw;
+}
+
+.runlist-join-block .lane-link {
+  white-space: normal;
+}
+
+.mobile-mode .runlist-vehicle-mobile {
+  border: none;
+}
+
+.runlist-vehicle-mobile .vehicle-text {
+  display: inline-block;
+  width: 68%;
+  vertical-align: top;
+}
+
+.runlist-vehicle-mobile .vehicle-document,
+.runlist-vehicle-mobile .vehicle-policies {
+  padding: 5px 0;
+}
+
+.runlist-vehicle-mobile .vehicle-document > a {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.runlist-vehicle-mobile .vehicle-document > a:last-child {
+  margin-bottom: 0;
+}
+
+.runlist-vehicle-mobile .vertical-box {
+  display: flex;
+  align-items: center;
+}
+
+.runlist-vehicle-mobile .vehicle-policies > a {
+  display: block;
+}
+
+.runlist-vehicle-mobile .img-thumbnail,
+.runlist-vehicle-mobile .img-rounded2 {
+  margin-top: .4em;
+  margin-bottom: 1em;
+  width: 54px;
+  height: 40px;
+}
+
+.runlist-vehicle-mobile .vehicle-item.thumbnail {
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom-style: dotted;
+  padding: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  background: transparent;
+}
+
+.runlist-vehicle-mobile .vehicle-item.thumbnail:last-child {
+  border-bottom: none;
+}
+
+.runlist-vehicle-mobile .vehicle-item label {
+  display: inline-block;
+  min-width: 30%;
+  margin-bottom: 0;
+}
+
+.modul-r-simulcast-runlist .runlist-vehicle-mobile .proxy-bid-wrapper,
+.modul-r-simulcast-runlist .runlist-vehicle-mobile .lvs-request-wrapper {
+  width: auto;
+  max-width: 320px;
+  margin: .5em auto 0 auto;
+  text-align: center;
+}
+
+.runlist-vehicle-mobile .proxy-bid-wrapper > .btn,
+.runlist-vehicle-mobile .lvs-request-wrapper > .btn {
+  min-width: 160px;
+}
+
+.modul-r-simulcast-runlist .runlist-vehicle-mobile .reg-no {
+  width: 10em;
+  margin: 0;
+}
+
+.ps-table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.ps-table-row {
+  display: table-row;
+  position: static;
+}
+
+.ps-table-row:before {
+  display: none;
+}
+
+.ps-table-row > div {
+  display: table-cell;
+  padding: 10px;
+}
+
+.ps-table-row > div.full-width.thumbnail {
+  position: absolute;
+  display: block;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 10px;
+}
+
+/* Layout extended */
+.modul-r-simulcast-runlist.layout-extended .border-dotted.list-group-item {
+  padding: 6px 0;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: transparent;
+}
+
+.modul-r-simulcast-runlist.layout-extended .vehicle-list {
+  border: none;
+}
+
+.modul-r-simulcast-runlist.layout-extended .empty-line {
+  border: none;
+}
+
+.modul-r-simulcast-runlist.layout-extended .nama-grading {
+  border-bottom-style: none !important;
+}
+
+.modul-r-simulcast-runlist.layout-extended .nama-grading-container img {
+  width: 45px;
+}
+
+.modul-r-simulcast-runlist.layout-extended .header-buttons-block {
+  display: inline-flex;
+  align-items: center;
+}
+
+.modul-r-simulcast-runlist.layout-extended .vir-btn {
+  margin-right: 10px;
+}
+
+.modul-r-simulcast-runlist.layout-extended .vehicle-notes-btn {
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.modul-r-simulcast-runlist.layout-extended .watchlist-star {
+  display: inline-flex;
+}
+
+.modul-r-simulcast-runlist.layout-extended .loading-image {
+  width: 100%;
+  height: 100%;
+  min-width: 150px;
+  min-height: 112px;
+}
+
+.modul-r-simulcast-runlist.layout-extended .run-number {
+  display: inline-block;
+  padding-top: .26em;
+  white-space: nowrap;
+  margin-right: 5px;
+  font-size: 90%;
+}
+
+.modul-r-simulcast-runlist.layout-extended .reg-no {
+  text-align: initial;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2em;
+  border-radius: 0;
+  padding: 0 10px;
+  margin: 0;
+  margin-top: 15px;
+  font-size: 3em;
+}
+
+@media (min-width: 992px) {
+  .modul-r-simulcast-runlist.layout-extended .events-filter .lane-select,
+  .modul-r-simulcast-runlist.layout-extended .events-filter .event-select {
+    max-width: 250px;
+    padding-left: 6px;
+  }
+}
+
+/* Layout extended end */
+@media (min-width: 1200px) {
+  .col-lg-8 .modul-r-simulcast-runlist.layout-extended .events-filter .lane-select,
+  .col-lg-8 .modul-r-simulcast-runlist.layout-extended .events-filter .event-select {
+    max-width: 240px;
+    min-width: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+  .modul-r-simulcast-runlist.mod-compact .table-condensed td.btn-join {
+    text-align: left !important;
+  }
+}
+
+.modul-r-simulcast-runlist .vehicles-count .btn-text {
+  cursor: default;
+  border-color: transparent;
+  box-shadow: none;
+  padding-left: 14px;
+}
+
+.modul-r-simulcast-runlist .vehicles-count .btn-text:hover,
+.modul-r-simulcast-runlist .vehicles-count .btn-text:active {
+  color: inherit;
+}
+
+.modul-r-simulcast-runlist .runlist-vehicle-mobile .watchlist-wrapper {
+  position: relative;
+  display: inline-block;
+  top: .4em;
+}
+
+.modul-r-simulcast-runlist .vehicle-notes-btn {
+  background-color: #801c13;
+  cursor: pointer;
+  color: #ffffff;
+  padding: 4px 6px;
+  font-size: 16px;
+}
+
+.modul-r-simulcast-runlist .vehicle-notes-btn.has-note {
+  background-color: #337ab7;
+}
+
+@media (max-width: 991px) {
+  .modul-r-simulcast-runlist .vehicles-count .btn-text {
+    padding: 3px 14px;
+    float: right;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .modul-r-simulcast-runlist .vehicles-count {
+    margin-bottom: 5px;
+  }
+}
+
+@media (min-width: 368px) and (max-width: 767px) {
+  .modul-r-simulcast-runlist .vehicles-count {
+    margin-bottom: -5px;
+  }
+}
+
+@media (max-width: 367px) {
+  .modul-r-simulcast-runlist .vehicles-count .btn-text {
+    float: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .runlist-vehicle-mobile .vehicle-item label {
+    min-width: 24%;
+  }
+
+  .modul-r-simulcast-runlist .runlist-vehicle-mobile .proxy-bid-wrapper,
+  .modul-r-simulcast-runlist .runlist-vehicle-mobile .lvs-request-wrapper {
+    max-width: 50%;
+    display: inline-block;
+    min-width: 48%;
+  }
+}
+
+.modal-mask {
+  position: fixed;
+  z-index: 9998;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, .5);
+  display: table;
+  transition: opacity .3s ease;
+}
+
+.modul-r-simulcast-runlist .preloader {
+  background: transparent url("../../../../../images/wait4.gif") no-repeat center center;
+  min-height: 24px;
+}
+
+.modul-r-simulcast-runlist .fs-16 {
+  font-size: 16px;
+}
+
+.modul-r-simulcast-runlist.layout-default .proxy-bid-button {
+  min-width: 140px;
+}
+
+.header-button-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.modul-r-simulcast-runlist .str_trim {
+  width: max-content;
+  max-width: 100px;
+  padding-right: 2px;
+}
+
+.modul-r-simulcast-runlist .vehicle-caption {
+  padding-right: 10px;
+}
+
+.modul-r-simulcast-runlist .light-box {
+  display: inline-block;
+  white-space: nowrap;
+  margin-right: 5px;
+}
+
+.modul-r-simulcast-runlist .light-box .light {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 6px;
+  margin: 0 2px;
+}
+
+.modul-r-simulcast-runlist .carfax-logo {
+  display: inline-block;
+  min-width: 96px;
+  min-height: 23px;
+  margin-top: .4em;
+  vertical-align: bottom;
+}
+
+.modul-r-simulcast-runlist .carfax-logo-sm {
+  vertical-align: middle;
+}
+
+.modul-r-simulcast-runlist .margin-top-5px {
+  margin-top: 5px;
+}
+
+.modul-r-simulcast-runlist .width120 {
+  width: 118px;
+  padding-right: 2px;
+}
+
+.modul-r-simulcast-runlist .text-break,
+.vue-tooltip-theme .tooltip-inner.text-break {
+  word-break: break-word;
+}
+
+.modul-r-simulcast-runlist .video-box #vVid-player video {
+  max-height: 80vh;
+}

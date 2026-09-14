@@ -1,0 +1,121 @@
+/* ----------------tooltip----------------- */
+
+.tooltip.vue-tooltip-theme,
+.tooltip.vt {
+  display: block !important;
+  z-index: 10000;
+  opacity: 1;
+}
+
+.tooltip.vue-tooltip-theme .tooltip-inner {
+  background: #333333;
+  color: white;
+  border-radius: 16px;
+  padding: 5px 10px 4px;
+}
+
+.tooltip.vt .tooltip-inner {
+  /*border-radius: 16px;*/
+  padding: 5px 10px 4px;
+  /*background: red;*/
+}
+
+.tooltip.vue-tooltip-theme .tooltip-arrow {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  position: absolute;
+  margin: 5px;
+  border-color: #333333;
+}
+
+.tooltip.vt .tooltip-arrow {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  position: absolute;
+  margin: 5px;
+}
+
+.tooltip.vue-tooltip-theme[x-placement^="top"],
+.tooltip.vt[x-placement^="top"] {
+  margin-bottom: 5px;
+}
+
+.tooltip.vue-tooltip-theme[x-placement^="top"] .tooltip-arrow,
+.tooltip.vt[x-placement^="top"] .tooltip-arrow {
+  border-width: 5px 5px 0 5px;
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+  border-bottom-color: transparent !important;
+  bottom: -5px;
+  left: calc(50% - 5px);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tooltip.vue-tooltip-theme[x-placement^="bottom"],
+.tooltip.vt[x-placement^="bottom"] {
+  margin-top: 5px;
+}
+
+.tooltip.vue-tooltip-theme[x-placement^="bottom"] .tooltip-arrow,
+.tooltip.vt[x-placement^="bottom"] .tooltip-arrow {
+  border-width: 0 5px 5px 5px;
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+  border-top-color: transparent !important;
+  top: -5px;
+  left: calc(50% - 5px);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tooltip.vue-tooltip-theme[x-placement^="right"],
+.tooltip.vt[x-placement^="right"] {
+  margin-left: 5px;
+}
+
+.tooltip.vue-tooltip-theme[x-placement^="right"] .tooltip-arrow,
+.tooltip.vt[x-placement^="right"] .tooltip-arrow{
+  border-width: 5px 5px 5px 0;
+  border-left-color: transparent !important;
+  border-top-color: transparent !important;
+  border-bottom-color: transparent !important;
+  left: -5px;
+  top: calc(50% - 5px);
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.tooltip.vue-tooltip-theme[x-placement^="left"],
+.tooltip.vt[x-placement^="left"]{
+  margin-right: 5px;
+}
+
+.tooltip.vue-tooltip-theme[x-placement^="left"] .tooltip-arrow,
+.tooltip.vt[x-placement^="left"] .tooltip-arrow {
+  border-width: 5px 0 5px 5px;
+  border-top-color: transparent !important;
+  border-right-color: transparent !important;
+  border-bottom-color: transparent !important;
+  right: -5px;
+  top: calc(50% - 5px);
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.tooltip.vue-tooltip-theme[aria-hidden='true'],
+.tooltip.vt[aria-hidden='true'] {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity .15s, visibility .15s;
+}
+
+.tooltip.vue-tooltip-theme[aria-hidden='false'],
+.tooltip.vt[aria-hidden='false'] {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity .15s;
+}
+

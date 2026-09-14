@@ -1,0 +1,15 @@
+.modul-r-searchAdvancedHor .rov > div{
+    padding: 0 23px;
+}
+.modul-search_adv_hor.slideTheme-Default .irs-grid-text{
+    color: inherit;
+    opacity: 0.7;
+}
+
+.modul-search_adv_hor .submit_btn {
+    margin-bottom: 10px;
+    vertical-align: top;
+}
+.modul-search_adv_hor .reset-search-filters {
+    vertical-align: top;
+}

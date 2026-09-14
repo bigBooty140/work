@@ -1,0 +1,388 @@
+@font-face {
+  font-family: "VIR Icons";
+  src: url("../../../../fonts/vir/vir.eot");
+  src:
+    url("../../../../fonts/vir/vird41d.eot?#iefix") format("embedded-opentype"),
+    url("../../../../fonts/vir/vir.woff") format("woff"),
+    url("../../../../fonts/vir/vir.ttf") format("truetype"),
+    url("../../../../fonts/vir/vir.svg#vir") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.modul-r-inventoryMD{}
+
+.modul-r-inventoryMD .pagination { margin: 2px 0; }
+.modul-r-inventoryMD > .thumbnail { margin-bottom: 20px; }
+.minvR-sep { height: 5px; }
+.modul-r-inventoryMD .img-responsive { margin: auto; }
+body:not(.sandstone) .modul-r-inventoryMD .compareBtn > span { line-height: 1.6; }
+.yeti .modul-r-inventoryMD input[type="checkbox"] { margin-top: 3px; }
+
+.modul-r-inventoryMD .border-dotted.list-group-item.price-dotted {
+  margin: 6px 0;
+  padding: 0 !important;
+}
+.modul-r-inventoryMD .minvR-btnBox .btn { margin-bottom: 4px; }
+.modul-r-inventoryMD .compare_selected { margin-bottom: 4px; }
+
+.modul-r-inventoryMD .sortByWrap .visible-xxs .btn {
+  margin-bottom: 4px;
+}
+
+.modul-r-inventoryMD .btn-block + .btn-block {
+  margin-top: 0;
+}
+
+.modul-r-inventoryMD .minvR-carfax img {
+  margin-right: 0 !important;
+  max-width: 100%;
+  height: auto;
+}
+
+.modul-r-inventoryMD .minvR-carfax .autocheck {
+  display: inline-block;
+}
+
+.modul-r-inventoryMD .minvR-carfax .autocheck img {
+  padding-left: 8px;
+}
+
+.modul-r-inventoryMD .inventory-footer {
+  margin-bottom: 7px;
+}
+
+.modul-r-inventoryMD .qr-btn {
+  position: relative;
+}
+
+.minvRgaleryCont {
+  width: 90%;
+  margin: auto;
+}
+
+.minvRgaleryCont.loader {
+  overflow: hidden;
+  height: 440px;
+}
+.minvRgaleryCont.loader .minvRgalerySlide { visibility: hidden; }
+.minvRgaleryCont .minvRgalerySlide img { max-width: 100%; }
+
+.minvRgaleryCont .slick-prev:before,
+.minvRgaleryCont .slick-next:before { color: black; }
+
+.minvR-name { display: block; }
+
+.minvR-priceBox { padding-right: 5px; }
+.minvR-btnDetails { margin-right: 5px; }
+
+.size-xxs .minvR-btnDetails {
+  margin-right: auto;
+  float: none !important;
+}
+
+.minvR-carfax.thumbnail {
+  border: none;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  padding: 5px 0;
+  margin: 5px 14px 5px 0;
+}
+
+.minvR-carfax.thumbnail.price_3 {
+  border-top: none;
+  margin-top: 0;
+}
+
+.minvR-specific { padding-right: 5px; }
+
+.minvR-specific .thumbnail,
+.minvR-priceBox .thumbnail {
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom-style: dotted;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  margin-bottom: 2px;
+}
+.minvR-sort { cursor: default; }
+.minvR-sortGroup .btn-default .fa { display: none; }
+.minvR-sortGroup .btn-primary .fa { display: inline-block; }
+
+.minvR-sortGroup .fa-sort-asc:before {
+  position: relative;
+  top: 3px;
+}
+
+.minvR-sortGroup .fa-sort-desc:before {
+  position: relative;
+  top: -2px;
+}
+
+.modul-r-inventoryMD .minvR-field .row div {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.modul-r-inventoryMD .border-dotted.list-group-item {
+  padding: 6px 0;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: transparent;
+}
+
+.modul-r-inventoryMD .carfax-cap {
+  min-height: 47px;
+}
+
+.ax-container.col-lg-11 .modul-r-inventoryMD .carfax-cap {
+  font-size: 1px;
+  min-height: 20px;
+}
+
+.ax-container.col-lg-10 .modul-r-inventoryMD .carfax-cap,
+.ax-container.col-lg-9 .modul-r-inventoryMD .carfax-cap,
+.ax-container.col-lg-8 .modul-r-inventoryMD .carfax-cap,
+.ax-container.col-lg-7 .modul-r-inventoryMD .carfax-cap {
+  display: none !important;
+}
+
+.size-xxs .minvR-btnBox .btn.pull-right {
+  float: none !important;
+}
+
+.size-xxs .modul-r-inventoryMD .printBtnWrap .btn-group {
+  float: none !important;
+  width: 100%;
+}
+
+.size-xxs .modul-r-inventoryMD .printBtnWrap .btn-group button {
+  width: 50%;
+}
+
+.modul-r-inventoryMD .modul-r-qrcode img {
+  padding: 0;
+}
+
+.modul-r-inventoryMD .sort-wrapper {
+  position: relative !important;
+}
+
+.size-xs .modul-r-inventoryMD .sort-wrapper {
+  display: inline-block;
+}
+
+.size-xs .modul-r-inventoryMD .sort-selection {
+  min-width: 280px;
+}
+
+.size-xs .printBtnWrap .btn-group {
+  float: right;
+}
+
+.size-xs .modul-r-inventoryMD .sort-wrapper label {
+  display: none !important;
+}
+
+.size-xs .sort-sm {
+  display: inline-block !important;
+}
+
+@media all and (max-width: 991px) and (min-width: 768px) {
+  .modul-r-inventoryMD .sort-wrapper {
+    display: inline-block;
+  }
+
+  .modul-r-inventoryMD .sort-selection {
+    min-width: 280px;
+  }
+}
+
+.lumen .make_offer_wrapper .input-group-sm > .form-control,
+.lumen .make_offer_wrapper .input-group-sm > .input-group-addon,
+.lumen .make_offer_wrapper .input-group-sm > .input-group-btn > .btn,
+.sandstone .make_offer_wrapper .input-group-sm > .form-control,
+.sandstone .make_offer_wrapper .input-group-sm > .input-group-addon,
+.sandstone .make_offer_wrapper .input-group-sm > .input-group-btn > .btn {
+  height: 32px;
+}
+
+.lumen .make_offer_wrapper .input-group-sm > .input-group-btn > .btn:hover {
+  height: 31px;
+  border-left-width: 0;
+}
+
+.slate .btn-warning,
+.slate .btn-warning:hover,
+.slate .btn-warning:focus,
+.slate .btn-warning.focus,
+.slate .btn-warning:active,
+.slate .btn-warning.active,
+.slate .open > .dropdown-toggle.btn-warning {
+  border-color: #bc7005;
+}
+
+.slate .btn-primary,
+.slate .btn-primary:hover,
+.slate .btn-primary:focus,
+.slate .btn-primary.focus,
+.slate .btn-primary:active,
+.slate .btn-primary.active,
+.slate .open > .dropdown-toggle.btn-primary {
+  border-color: #5d6368;
+}
+
+/* grading */
+.modul-r-inventoryMD .badge-grading[data-value="0"],
+.modul-r-inventoryMD .badge-grading[data-value="0.5"] {
+  color: #d35f5f;
+}
+
+.modul-r-inventoryMD .badge-grading[data-value="1"],
+.modul-r-inventoryMD .badge-grading[data-value="1.5"] {
+  color: #ff9955;
+}
+
+.modul-r-inventoryMD .badge-grading[data-value="2"],
+.modul-r-inventoryMD .badge-grading[data-value="2.5"] {
+  color: #ffe680;
+}
+
+.modul-r-inventoryMD .badge-grading[data-value="3"],
+.modul-r-inventoryMD .badge-grading[data-value="3.5"] {
+  color: #bcd35f;
+}
+
+.modul-r-inventoryMD .badge-grading[data-value="4"],
+.modul-r-inventoryMD .badge-grading[data-value="4.5"] {
+  color: #99ff55;
+}
+
+.modul-r-inventoryMD .badge-grading[data-value="5"] {
+  color: #5fbcd3;
+}
+
+/* #End grading */
+
+/* SIMULCATS BTN */
+.modul-r-inventoryMD .simulcast-btn{}
+
+.modul-r-inventoryMD .simulcast-btn:before {
+  background: transparent;
+}
+
+.modul-r-inventoryMD .simulcast-icon {
+  font-family: "VIR Icons", sans-serif;
+}
+
+.modul-r-inventoryMD .simulcast-icon:before {
+  content: "\e91e";
+}
+
+.minvRgalerySep {
+  font-size: 58%;
+}
+
+.size-xxs .auction_buttons.inline {
+  width: 100%;
+}
+
+.aucBase .make_offer_wrapper {
+  width: 225px;
+}
+
+.make_offer_wrapper input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.make_offer_wrapper input[type="number"]::-webkit-outer-spin-button,
+.make_offer_wrapper input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.modul-r-inventoryMD .shipping-wrapper .shipping-box .change-delivery-setting {
+  margin: 5px 0;
+}
+
+.modul-r-inventoryMD .nama-grading-container {
+  padding: 0;
+}
+
+.modul-r-inventoryMD .nama-grading-container.btn {
+  cursor: default;
+}
+
+@media (max-width: 992px) {
+  .minvR-carfax { padding-top: 11px; }
+
+  .modul-r-inventoryMD .minvR-carfax span {
+    margin-left: 9px;
+  }
+
+  .modul-r-inventoryMD .compareBtn {
+    margin-top: -10px;
+  }
+}
+
+@media (max-width: 767px) {
+  .modul-r-inventoryMD .printBtnWrap .btn-group {
+    float: none !important;
+    width: 100%;
+  }
+
+  .modul-r-inventoryMD .printBtnWrap .btn-group button {
+    width: 50%;
+  }
+
+  .modul-r-inventoryMD .compareBtn {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 767px) and (min-width: 431px) {
+  .modul-r-inventoryMD .printBtnGroup .btn-group {
+    width: 100%;
+  }
+
+  .modul-r-inventoryMD .printBtnGroup button {
+    width: 50%;
+  }
+
+  .no-padding-left-xs {
+    padding-left: 0 !important;
+  }
+
+  .aucBase .make_offer_wrapper {
+    width: 237px;
+  }
+
+  .aucExt .detailsKey {
+    float: right;
+  }
+}
+
+@media (max-width: 430px) {
+  .visible-xxs.minvR-inline { display: inline-block !important; }
+
+  .modul-r-inventoryMD .printBtnGroup button {
+    width: 50%;
+  }
+
+  .modul-r-inventoryMD .printBtnGroup .btn-group {
+    width: 100%;
+  }
+
+  .no-padding-xxs {
+    padding: 0 !important;
+  }
+}
+
+@media (min-width: 431px) {
+  .make_offer_wrapper{
+  }
+}

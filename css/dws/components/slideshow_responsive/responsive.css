@@ -1,0 +1,114 @@
+.modul-r-slideshow {}
+
+.modul-r-slideshow .panel-body {
+  position: relative;
+}
+
+.modul-r-slideshow .panel-transparent .panel-body {
+  padding: 0;
+}
+
+.modul-r-slideshow .slideshow-controls {
+  position: relative;
+}
+
+.modul-r-slideshow .slideshow-next-btn,
+.modul-r-slideshow .slideshow-prev-btn {
+  position: absolute;
+  width:40px;
+  height: 40px;
+  margin-top: -20px;
+  padding: 8px 12px;
+  top: 50%;
+  z-index: 3;
+  opacity: .7;
+  line-height: 1.42857143;
+  font-size: 12px;
+  box-shadow: none;
+}
+
+.modul-r-slideshow .slideshow-next-btn:hover,
+.modul-r-slideshow .slideshow-prev-btn:hover {
+  opacity: .9;
+  margin-top: -20px;
+}
+
+.modul-r-slideshow .slideshow-prev-btn .fa {
+  margin-left: -4px;
+}
+
+.modul-r-slideshow .slideshow-next-btn {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  right: 0;
+  border-right: none;
+}
+
+.modul-r-slideshow .slideshow-prev-btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: none;
+}
+
+.modul-r-slideshow .owl-dots {
+  position: absolute;
+  width: 100%;
+  text-align: right;
+}
+
+.modul-r-slideshow .slideshow-pagination-container {
+  height: 35px;
+}
+
+.modul-r-slideshow .slide-progress {
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+  z-index: 2;
+}
+
+.modul-r-slideshow .slide-progress.position-bottom {
+  bottom: 0;
+}
+
+.modul-r-slideshow .slide-progress .progress-bar {
+  width: 0%;
+  transition: width 0s ease;
+}
+
+.modul-r-slideshow .slide-progress .progress-bar.width100 {
+  width: 100%;
+}
+
+.modul-r-slideshow .slide-progress .progress-bar.transition-2 {
+  transition: width 2s ease;
+}
+
+.modul-r-slideshow .slide-progress .progress-bar.transition-3 {
+  transition: width 3s ease;
+}
+
+.modul-r-slideshow .slide-progress .progress-bar.transition-4 {
+  transition: width 4s ease;
+}
+
+.modul-r-slideshow .slide-progress .progress-bar.transition-5 {
+  transition: width 5s ease;
+}
+
+.modul-r-slideshow .slide-progress .progress-bar.transition-6 {
+  transition: width 6s ease;
+}
+
+.modul-r-slideshow .slide-progress .progress-bar.transition-7 {
+  transition: width 7s ease;
+}
+
+.modul-r-slideshow .slideshow-controls .owl-carousel.owl-theme {
+  display: block;
+}
