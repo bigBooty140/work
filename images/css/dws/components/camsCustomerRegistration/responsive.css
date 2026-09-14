@@ -1,0 +1,82 @@
+.module-r-cams-customer-registration .sign-up-title {
+  font-size: 32px;
+}
+
+.module-r-cams-customer-registration .sign-up-block {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.module-r-cams-customer-registration .cams-input-error-msg {
+  position: absolute;
+  bottom: -13px;
+  font-size: 10px;
+  color: #a94442;
+}
+
+.module-r-cams-customer-registration .mr-4 {
+  margin-right: 16px;
+}
+
+.module-r-cams-customer-registration .ml-2 {
+  margin-left: 8px;
+}
+
+.module-r-cams-customer-registration .cams-inputs-title {
+  font-weight: bold;
+}
+
+.module-r-cams-customer-registration .info-msg-block {
+  display: flex;
+  font-size: 22px;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+}
+
+.module-r-cams-customer-registration .info-msg-container {
+  margin: 25px 0;
+}
+
+.module-r-cams-customer-registration .empty-left-block {
+  width: 30%;
+  margin-right: 20px;
+}
+
+.module-r-cams-customer-registration .terms-and-conditions {
+  font-weight: normal;
+}
+
+.module-r-cams-customer-registration .terms-and-conditions.has-error {
+  color: #a94442;
+}
+
+.module-r-cams-customer-registration .terms-and-conditions span {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.module-r-cams-customer-registration .d-flex {
+  display: flex;
+}
+
+.module-r-cams-customer-registration .save-btn {
+  padding-right: 0;
+  text-align: end;
+}
+
+.module-r-cams-customer-registration .documents-label {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.module-r-cams-customer-registration .documents-label span {
+  padding: 20px;
+  background-color: #e7e6e6;
+}
+
+.module-r-cams-customer-registration .datepicker {
+  padding: 6px 12px;
+}

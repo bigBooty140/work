@@ -1,0 +1,60 @@
+.btn-r-custom{}
+
+.btn-r-custom .panel{margin-bottom:0;}
+.btn-r-custom.corner-no .btn{border-radius: 0; -webkit-border-radius:0;}
+.btn-r-custom.pos-center .btn{ }
+.btn-r-custom.pos-contain .btn {background-size: contain;  background-position: center center;}
+.btn-r-custom.pos-contain .btn:before,
+.btn-r-custom.pos-contain .btn:after{background-size: contain;  background-position: center center; position:absolute;}
+.btn-r-custom.pos-cover .btn,
+.btn-r-custom.pos-cover .btn:before,
+.btn-r-custom.pos-cover .btn:after{background-size: cover; }
+
+.btn-r-custom .btn{transition: 0.6s; overflow: hidden; transform: translateZ(0px);position: relative;}
+.btn-r-custom .btn > span{position: relative; z-index: 3; display: block;}
+.btn-r-custom .btn-transparent{border:none;}
+
+.btn-r-custom.imAlig-center .btn,
+.btn-r-custom.imAlig-center .btn:before,
+.btn-r-custom.imAlig-center .btn:after{background-position: center center;}
+.btn-r-custom.imAlig-left .btn,
+.btn-r-custom.imAlig-left .btn:before,
+.btn-r-custom.imAlig-left .btn:after{background-position: center left;}
+.btn-r-custom.imAlig-right .btn,
+.btn-r-custom.imAlig-right .btn:before,
+.btn-r-custom.imAlig-right .btn:after{background-position: center right;}
+
+.btn-r-custom .btn:after{
+    width:100%; height: 100%;
+	position: absolute; left:0; top:0;
+	transition: 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+	content: "";
+	z-index:1;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+.btn-r-custom .btn:before{
+	width:100%; height: 100%;
+	position: absolute; left:0; top:0;
+	transition: 0.6s cubic-bezier(0.895, 0.03, 0.685, 0.22);
+	content: "";
+	z-index:2;
+	background-repeat: no-repeat;
+	opacity: 0;
+
+}
+.btn-r-custom .btn.in:before{	opacity: 1; transition: 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);}
+.btn-r-custom .btn.in:after{	opacity: 0; transition: 0.6s cubic-bezier(0.895, 0.03, 0.685, 0.22);}
+
+.modal .modal-dialog.popup-mobile {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.modal .modal-dialog.popup-mobile .modal-content {
+	max-height: 98vh;
+	margin-top: 1vh;
+	position: relative;
+}
+
+

@@ -1,0 +1,771 @@
+.modul-r-vir360-player .rotation-container {
+  position: relative;
+  background: #000000;
+}
+
+.modul-r-vir360-player .hidden,
+.modul-r-vir360-player .rotation-container.preview .threesixty .spinner,
+.modul-r-vir360-player .rotation-container.preview .vir-360-tags-container,
+.modul-r-vir360-player .rotation-container.preview .vir-360-click-n-drag,
+.modul-r-vir360-player .rotation-container .toggle-tags-mode {
+  display: none;
+}
+
+.modul-r-vir360-player .rotation-container .threesixty .spinner {
+  z-index: 10;
+}
+
+.modul-r-vir360-player .threesixty-preview {
+  position: relative;
+  background-color: #ffffff;
+  z-index: 5;
+}
+
+.modul-r-vir360-player .threesixty-preview img {
+  display: none;
+}
+
+.modul-r-vir360-player .rotation-container .edging {
+  display: block;
+  height: 40px;
+}
+
+.modul-r-vir360-player .rotation-container .modul-r-vir360-player-edging {
+  z-index: 1700;
+  cursor: grab;
+}
+
+.modul-r-vir360-player .rotation-container .modul-r-vir360-player-edging:active {
+  cursor: grabbing;
+}
+
+.modul-r-vir360-player-fullscreen-modal .vir360-fullscreen-close-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.slick-slider .vir360-fullscreen-close-btn {
+  display: none;
+}
+
+.slick-slider .rotation-container .modul-r-vir360-player-edging {
+  cursor: default;
+}
+
+.modul-r-vir360-player .preview .threesixty-preview img {
+  display: block;
+  opacity: .5;
+  width: 100%;
+}
+
+.modul-r-vir360-player.lane-monitor-360-player {
+  top: 0 !important;
+  left: 0 !important;
+  transform: none !important;
+  width: 75% !important;
+}
+
+:not(.vir360-img-preview) .modul-r-vir360-player .threesixty-preview:before {
+  content: "";
+  position: absolute;
+  z-index: 100;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  cursor: pointer;
+  background: rgba(0, 0, 0, .4) url("../../../../images/dws/components/vir360/click_to_load_360.svg") no-repeat center center;
+  background-size: 45%;
+}
+
+.modul-r-vir360-player .threesixty-preview.loading:before {
+  background: url("../../../../images/wait3.gif") no-repeat center center;
+  background-size: auto;
+}
+
+.modul-r-vir360-player .threesixty-preview.loading-error:before {
+  content: "ERROR LOADING";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: none;
+  color: #000000;
+  text-shadow: 1px 2px 2px #ffffff;
+}
+
+.modul-r-vir360-player .toggle-fullscreen-mode {
+  opacity: .7;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  z-index: 1500;
+  padding: 12px;
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+  border: none;
+}
+
+.modul-r-vir360-player .toggle-tags-mode {
+  opacity: .7;
+  position: absolute;
+  bottom: 10px;
+  right: 40px;
+  z-index: 1500;
+  padding: 12px;
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+  border: none;
+}
+
+.modul-r-vir360-player .vir-360-review-qty {
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+  z-index: 1500;
+  padding: 12px;
+  width: 35px;
+  height: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 0;
+  background: url("../../../../images/dws/components/vir360/eye.svg") no-repeat 0 center;
+}
+
+.modul-r-vir360-player .vir-360-review-qty .vir-360-review-qty-value {
+  margin-left: 5px;
+}
+
+.modul-r-vir360-player .exterior-grading {
+  position: absolute;
+  top: 50px;
+  right: 15px;
+  z-index: 1500;
+  padding: 7px 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 9px;
+  background-color: rgba(0, 0, 0, .7);
+  display: none;
+  border-radius: 5px;
+}
+
+.modul-r-vir360-player .view-qty:hover,
+.modul-r-vir360-player .view-qty:active,
+.modul-r-vir360-player .toggle-fullscreen-mode:hover,
+.modul-r-vir360-player .toggle-fullscreen-mode:active,
+.modul-r-vir360-player .toggle-tags-mode:hover,
+.modul-r-vir360-player .toggle-tags-mode:active {
+  opacity: 1;
+}
+
+.modul-r-vir360-player .toggle-fullscreen-mode:before {
+  content: "";
+  position: absolute;
+  z-index: 100;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  cursor: pointer;
+  background-size: 95%;
+}
+
+.modul-r-vir360-player .toggle-fullscreen-mode.vir-360-maximize:before {
+  background: url("../../../../images/dws/components/vir360/fullscreen.svg") no-repeat center center;
+}
+
+.modul-r-vir360-player .toggle-fullscreen-mode.vir-360-minimize:before {
+  background: url("../../../../images/dws/components/vir360/minimize.svg") no-repeat center center;
+}
+
+.modul-r-vir360-player .toggle-tags-mode:before {
+  content: "";
+  position: absolute;
+  z-index: 100;
+  bottom: 0;
+  top: 2px;
+  left: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+.modul-r-vir360-player .toggle-tags-mode.tags-on:before {
+  background: url("../../../../images/dws/components/vir360/togle_tag_on.svg") no-repeat center center;
+  background-size: 95%;
+}
+
+.modul-r-vir360-player .toggle-tags-mode.tags-off:before {
+  background: url("../../../../images/dws/components/vir360/togle_tag_off.svg") no-repeat center center;
+  background-size: 95%;
+}
+
+.modul-r-vir360-player .vir-360-tags-container,
+.modul-r-vir360-player .vir-360-tag-content-modal,
+.modul-r-vir360-player .vir-360-click-n-drag {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  overflow: hidden;
+}
+
+.modul-r-vir360-player .vir-360-click-n-drag {
+  z-index: 1001;
+}
+
+.modul-r-vir360-player .vir-360-click-n-drag:before {
+  content: "";
+  position: absolute;
+  z-index: 100;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  cursor: pointer;
+  background: rgba(0, 0, 0, .6) url("../../../../images/dws/components/vir360/click_n_drag_360.svg") no-repeat center center;
+  background-size: 45%;
+}
+
+.modul-r-vir360-player .vir-360-tag-content-modal {
+  display: none;
+  z-index: 2000;
+}
+
+.modul-r-vir360-player .vir-360-tag-content-modal.show {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.modul-r-vir360-player .vir-360-tag-content-modal .vir-360-tag-content-backdrop {
+  position: absolute;
+  background-color: #000000;
+  opacity: .4;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.modul-r-vir360-player .vir-360-panel {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  z-index: 5;
+  overflow: hidden;
+  max-width: 800px;
+  max-height: 600px;
+  background-color: #ffffff;
+  color: #737373;
+}
+
+.modul-r-vir360-player .vir-360-panel .vir-360-panel-heading {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  background-color: #0057b1;
+  color: #ffffff;
+}
+
+.modul-r-vir360-player .vir-360-panel-heading .vir-360-heading-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.modul-r-vir360-player .vir-360-panel .vir-360-panel-heading .close-tag-content {
+  color: #ffffff;
+  font-size: 45px;
+  font-weight: 500;
+  position: absolute;
+  right: 8px;
+  top: -1px;
+}
+
+.modul-r-vir360-player .vir-360-panel .content-modal-body {
+  display: flex;
+  height: 95%;
+}
+
+.modul-r-vir360-player .vir-360-panel .vir-360-panel-body .tag-content-container {
+  display: flex;
+  height: 95%;
+  width: 100%;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.modul-r-vir360-player .vir-360-panel .vir-360-panel-body .tag-media-images .thumbnail {
+  display: inline-block;
+  position: relative;
+  width: auto;
+  transition: all .2s ease-in-out;
+  cursor: zoom-in;
+  z-index: 10;
+  margin-bottom: 0;
+}
+
+.modul-r-vir360-player .vir-360-panel .tag-media-images .thumbnail.centralImage:before {
+  content: "";
+  position: absolute;
+  background: url("../../../../images/dws/components/vir360/image-overlay.svg") no-repeat center center;
+  width: 100%;
+  height: 100%;
+}
+
+.modul-r-vir360-player .vir-360-panel .vir-360-panel-body .tag-media-images .tag-slick-dots {
+  bottom: -25px;
+}
+
+.modul-r-vir360-player .vir-360-panel .vir-360-panel-body .tag-media-images video {
+  width: 100%;
+}
+
+.modul-r-vir360-player .vir-360-panel .tag-media-images a.thumbnail,
+.modul-r-vir360-player .vir-360-panel .tag-media-images img {
+  border: none;
+}
+
+.modul-r-vir360-player .vir-360-panel .vir-360-panel-body .tag-media-images .thumbnail.open-full {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  max-width: 100%;
+  width: 100%;
+  cursor: zoom-out;
+}
+
+.modul-r-vir360-player .vir-360-panel .vir-360-panel-body .tag-media-images .thumbnail.open-full img {
+  height: 100%;
+}
+
+.modul-r-vir360-player .vir-360-panel .tag-content-container .tag-media-images {
+  white-space: nowrap;
+  height: auto;
+  width: 85%;
+  padding: 0 15px;
+}
+
+.modul-r-vir360-player .vir-360-panel .tag-content-container .tag-video-overlay,
+.mfp-container.mfp-s-ready.mfp-inline-holder .fullscreen-overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: url("../../../../images/dws/components/vir360/video-overlay.svg") no-repeat center center;
+}
+
+.mfp-container.mfp-s-ready.mfp-inline-holder .fullscreen-overlay,
+.vir360-fullscreen-left-btn,
+.vir360-fullscreen-right-btn {
+  visibility: hidden;
+}
+
+.mfp-container.mfp-s-ready.mfp-inline-holder video {
+  height: auto !important;
+}
+
+.vir360-magnific-video-popup .mfp-content #tag-video {
+  display: flex;
+  height: 100%;
+}
+
+.vir360-magnific-video-popup .mfp-content {
+  height: 100%;
+}
+
+.vir360-magnific-video-popup .mfp-close {
+  color: #ffffff;
+}
+
+.vir360-magnific-video-popup .mfp-content video {
+  margin: auto;
+}
+
+.modul-r-vir360-player .vir-360-panel .tag-content-container .panel.tag-info {
+  margin: 0;
+  height: auto;
+}
+
+.modul-r-vir360-player .vir-360-panel .tag-content-container .tag-info {
+  box-shadow: none;
+  border: none;
+}
+
+.modul-r-vir360-player .vir-360-panel .tag-content-container .panel.tag-info .panel-body {
+  overflow-y: auto;
+}
+
+.modul-r-vir360-player .vir-360-tag-content-modal ::-webkit-scrollbar {
+  width: 5px;
+  height: 3px;
+}
+
+.modul-r-vir360-player .vir-360-tag-content-modal ::-webkit-scrollbar-button {
+  height: 0;
+}
+
+.modul-r-vir360-player .vir-360-tag-content-modal ::-webkit-scrollbar-track-piece {
+  background-color: #ffffff;
+}
+
+.modul-r-vir360-player .vir-360-tag-content-modal ::-webkit-scrollbar-thumb {
+  height: 10px;
+  background-color: #b9babd;
+  border-radius: 3px;
+}
+
+.modul-r-vir360-player .vir360-drag-icon {
+  display: none;
+  position: absolute;
+  background: url("../../../../images/dws/components/vir360/360_icon.svg") no-repeat center center;
+  background-size: contain;
+  left: 50%;
+  bottom: 10%;
+  transform: translateX(-50%);
+  width: 30%;
+  height: 20%;
+  z-index: 1500;
+}
+
+.modul-r-vir360-player .vir-360-tags-container .vir-360-tag {
+  position: absolute;
+  color: #3498db;
+  font-size: 30px;
+  width: 27px;
+  height: 37px;
+  transition: background-size .1s ease-out;
+  background: url("../../../../images/dws/components/vir360/tag_free.svg") no-repeat center center;
+  background-size: 88%;
+}
+
+.modul-r-vir360-player .vir-360-tags-container .vir-360-tag:hover {
+  background-size: 105%;
+}
+
+.modul-r-vir360-player .vir-360-tags-container .vir-360-damage-tag {
+  position: absolute;
+  font-size: 30px;
+  width: 27px;
+  height: 37px;
+}
+
+.modul-r-vir360-player .vir-360-tags-container .vir-360-damage-tag .damage-tag {
+  position: absolute;
+  width: 27px;
+  height: 37px;
+  transition: background-size .1s ease-out;
+  background: url("../../../../images/dws/components/vir360/tag_damage.svg") no-repeat center center;
+  background-size: 88%;
+}
+
+.modul-r-vir360-player .vir-360-tags-container .vir-360-damage-tag .damage-tag:hover {
+  background-size: 105%;
+}
+
+.modul-r-vir360-player .vir-360-panel-heading .vir-360-heading-left {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  margin-right: 15px;
+  background: url("../../../../images/dws/components/vir360/arrow-left.svg") no-repeat center center;
+}
+
+.modul-r-vir360-player .vir-360-panel-heading .vir-360-heading-right {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  margin-left: 15px;
+  background: url("../../../../images/dws/components/vir360/arrow-right.svg") no-repeat center center;
+}
+
+.modul-r-vir360-player .vir-360-tags-container .vir-360-pulse {
+  border-radius: 50%;
+  height: 1px;
+  width: 1px;
+  position: absolute;
+  margin: 25px 0 0 6px;
+  z-index: -2;
+}
+
+.modul-r-vir360-player .vir-360-tags-container .vir-360-pulse:after {
+  content: "";
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  margin: -13px 0 0 -13px;
+  animation: vir-360-pulsate 1s ease-out;
+  animation-iteration-count: infinite;
+  opacity: 0;
+  box-shadow: 0 0 1px 2px #ffffff;
+  animation-delay: 1.1s;
+}
+
+@keyframes vir-360-pulsate {
+  0% {
+    transform: scale(.1, .1);
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1.2, 1.2);
+    opacity: 0;
+  }
+}
+
+.modul-r-vir360-player-fullscreen-modal {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.modul-r-vir360-player-fullscreen-modal .vir360-fullscreen-container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: contents;
+}
+
+.modul-r-vir360-player-fullscreen-modal .vir360-fullscreen-container .vir360-fullscreen-btns {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.modul-r-vir360-player-fullscreen-modal .vir360-fullscreen-content {
+  margin: 25px auto;
+  padding: 3px;
+  width: 45%;
+  height: auto;
+  max-width: 96%;
+  border-radius: 5px;
+}
+
+.modul-r-vir360-player-fullscreen-modal .vir360-fullscreen-content .modul-r-vir360-player {
+  height: inherit;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  top: 50vh;
+  left: 50%;
+  z-index: 1040;
+}
+
+.modul-r-vir360-player-fullscreen-modal .modul-r-vir360-player .rotation-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.slick-slider .modul-r-vir360-player {
+  width: 100%;
+  height: 100%;
+  position: static;
+  transform: none;
+}
+
+.modul-r-vir360-player-fullscreen-modal .modul-r-vir360-player .vir360-image {
+  width: inherit !important;
+  height: inherit !important;
+  flex-grow: 1;
+}
+
+.vir360-magnific-popup.mfp-bg,
+.vir360-magnific-video-popup.mfp-bg {
+  z-index: 10042;
+}
+
+.vir360-magnific-popup.mfp-wrap,
+.vir360-magnific-video-popup.mfp-wrap {
+  z-index: 10043;
+}
+
+.modul-r-vir360-player .tag-content-container .damage-form label {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  font-weight: normal;
+  padding: 0 7px;
+  font-size: 12px;
+}
+
+.modul-r-vir360-player .tag-content-container .damage-form {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 7px;
+  margin-bottom: 20px;
+}
+
+.modul-r-vir360-player .tag-content-container .damage-form input,
+.modul-r-vir360-player .tag-content-container .damage-form textarea {
+  padding: 5px;
+  color: #333333;
+  resize: none;
+}
+
+.modul-r-vir360-player .tag-content-container .damage-form .paint-meter {
+  width: 100%;
+}
+
+.modul-r-vir360-player .tag-content-container .damage-form .paint-meter input {
+  height: 100px;
+}
+
+.vir-360-damage-tag .vir-360-damage-value {
+  position: absolute;
+  top: -50%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, .8);
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 4px;
+  padding: 2px 5px;
+  line-height: 1;
+  cursor: default;
+}
+
+.vir-360-heading-text span {
+  margin-left: 15px;
+  color: black;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.vir-360-damage-tag.damage-val_0 .damage-tag {
+  filter: invert(58%) sepia(15%) saturate(1578%) hue-rotate(313deg) brightness(80%) contrast(108%);
+}
+
+.vir-360-damage-tag.damage-val_1 .damage-tag {
+  filter: invert(78%) sepia(25%) saturate(6012%) hue-rotate(325deg) brightness(110%) contrast(101%);
+}
+
+.vir-360-damage-tag.damage-val_2 .damage-tag {
+  filter: invert(77%) sepia(84%) saturate(257%) hue-rotate(355deg) brightness(103%) contrast(89%);
+}
+
+.vir-360-damage-tag.damage-val_3 .damage-tag {
+  filter: invert(81%) sepia(61%) saturate(385%) hue-rotate(19deg) brightness(93%) contrast(85%);
+}
+
+.vir-360-damage-tag.damage-val_4 .damage-tag {
+  filter: invert(81%) sepia(60%) saturate(557%) hue-rotate(39deg) brightness(94%) contrast(95%);
+}
+
+.vir-360-damage-tag.damage-val_5 .damage-tag {
+  filter: invert(76%) sepia(19%) saturate(1106%) hue-rotate(150deg) brightness(89%) contrast(83%);
+}
+
+.vir-360-damage-tag.damage-val_0 .vir-360-damage-value,
+.modul-r-vir360-player .exterior-grading .grading_0 {
+  color: #d35f5f;
+}
+
+.vir-360-damage-tag.damage-val_1 .vir-360-damage-value,
+.modul-r-vir360-player .exterior-grading .grading_1 {
+  color: #ff9955;
+}
+
+.vir-360-damage-tag.damage-val_2 .vir-360-damage-value,
+.modul-r-vir360-player .exterior-grading .grading_2 {
+  color: #f1da79;
+}
+
+.vir-360-damage-tag.damage-val_3 .vir-360-damage-value,
+.modul-r-vir360-player .exterior-grading .grading_3 {
+  color: #bcd35f;
+}
+
+.vir-360-damage-tag.damage-val_4 .vir-360-damage-value,
+.modul-r-vir360-player .exterior-grading .grading_4 {
+  color: #80e93a;
+}
+
+.vir-360-damage-tag.damage-val_5 .vir-360-damage-value,
+.modul-r-vir360-player .exterior-grading .grading_5 {
+  color: #4fa5ba;
+}
+
+.vir-360-heading-text .vir360-grading_0 {
+  background-color: #d35f5f;
+}
+
+.vir-360-heading-text .vir360-grading_1 {
+  background-color: #ff9955;
+}
+
+.vir-360-heading-text .vir360-grading_2 {
+  background-color: #f1da79;
+}
+
+.vir-360-heading-text .vir360-grading_3 {
+  background-color: #bcd35f;
+}
+
+.vir-360-heading-text .vir360-grading_4 {
+  background-color: #80e93a;
+}
+
+.vir-360-heading-text .vir360-grading_5 {
+  background-color: #4fa5ba;
+}
+
+@media screen and (max-width: 1000px) {
+  .modul-r-vir360-player-fullscreen-modal .vir360-fullscreen-content {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .modul-r-vir360-player-fullscreen-modal .vir360-fullscreen-content {
+    width: 100%;
+  }
+
+  .modul-r-vir360-player .vir-360-panel .vir-360-panel-body .tag-media-images .slick-arrow {
+    display: none !important;
+  }
+
+  .modul-r-vir360-player .vir-360-panel .tag-content-container .tag-media-images {
+    width: 95%;
+    margin-bottom: 20px;
+    padding: 0;
+  }
+
+  .modul-r-vir360-player .vir-360-tag-content-modal.show {
+    padding: 5px;
+  }
+
+  .modul-r-vir360-player .vir-360-tag-content-modal.show.damage-content {
+    height: 180%;
+    top: -40%;
+  }
+}

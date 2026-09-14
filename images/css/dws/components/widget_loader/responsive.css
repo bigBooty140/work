@@ -1,0 +1,110 @@
+.yeti .animate-progress:not(.image-dummy-loader) {
+    border: 0;
+}
+
+.animate-progress-bar.progress-bar-striped {
+    width: 0;
+}
+
+.show-loader .animate-progress-bar.progress-bar-striped {
+    -webkit-animation: animate-progress-bar 30s 1 cubic-bezier(0, 0.67, 0.51, 1.01) forwards, animate-progress-bar-stripes 2s linear infinite;
+            animation: animate-progress-bar 30s 1 cubic-bezier(0, 0.67, 0.51, 1.01) forwards, animate-progress-bar-stripes 2s linear infinite;
+    width: 100%;
+}
+
+.animate-progress-bar {
+    width: 0;
+}
+
+.show-loader .animate-progress-bar {
+    -webkit-animation: animate-progress-bar 30s 1 cubic-bezier(0, 0.67, 0.51, 1.01) forwards;
+            animation: animate-progress-bar 30s 1 cubic-bezier(0, 0.67, 0.51, 1.01) forwards;
+    width: 100%;
+}
+
+@keyframes animate-progress-bar {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 90%;
+    }
+}
+
+@-webkit-keyframes animate-progress-bar {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 90%;
+    }
+}
+
+@keyframes animate-progress-bar-stripes {
+    from {
+        background-position: 40px 0;
+    }
+
+    to {
+        background-position: 0 0;
+    }
+}
+
+@-webkit-keyframes animate-progress-bar-stripes {
+    from {
+        background-position: 40px 0;
+    }
+
+    to {
+        background-position: 0 0;
+    }
+}
+
+.modul-r-inventory .animate-progress,
+.modul-r-inventoryMD .animate-progress {
+    margin-bottom: 0;
+    -webkit-transition: margin-bottom 0.5s ease-out;
+            transition: margin-bottom 0.5s ease-out;
+}
+
+.modul-r-inventory .animate-progress.show-loader,
+.modul-r-inventoryMD .animate-progress.show-loader {
+    margin-bottom: 20px;
+    -webkit-transition: margin-bottom 0.5s ease-out;
+            transition: margin-bottom 0.5s ease-out;
+}
+
+.animate-progress {
+    height: 0;
+    -webkit-transition: height 0.5s ease-out;
+            transition: height 0.5s ease-out;
+    box-shadow: none;
+    border: none;
+    padding: 0;
+}
+
+.animate-progress.show-loader {
+    height: 10px;
+    -webkit-transition: height 0.5s ease-out;
+            transition: height 0.5s ease-out;
+}
+
+/* For dummy vehicle templates in inventory widgets (Issue 8696#note-41) */
+.cerulean .ajax-inventory-preview .panel-heading,
+.cyborg .ajax-inventory-preview .panel-heading,
+.default .ajax-inventory-preview .panel-heading,
+.journal .ajax-inventory-preview .panel-heading,
+.readable .ajax-inventory-preview .panel-heading,
+.sandstone .ajax-inventory-preview .panel-heading,
+.simplex .ajax-inventory-preview .panel-heading,
+.slate .ajax-inventory-preview .panel-heading,
+.spacelab .ajax-inventory-preview .panel-heading,
+.united .ajax-inventory-preview .panel-heading {
+    border-radius: 3px;
+}
+
+.paper .ajax-inventory-preview .panel-heading {
+    border-radius: 2px;
+}

@@ -1,0 +1,2038 @@
+.modul-r-inventory .hrMargin {
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+.modul-r-inventory .dropdown-menu.qr {
+  min-width: 185px !important;
+  max-width: 185px;
+}
+
+.modul-r-inventory .qr > .panel-body {
+  padding: 12px;
+}
+
+.modul-r-inventory .qr-code-container > canvas {
+  border: 8px solid #ffffff;
+}
+
+.modul-r-inventory .button-compare-wrap {
+  margin-top: 5px;
+}
+
+.modul-r-inventory .caption-wrap {
+  overflow: hidden;
+}
+
+.modul-r-inventory .carId {
+  padding: 4px;
+}
+
+.thin .modul-r-inventory .carId {
+  float: left;
+}
+
+.modul-r-inventory .sortWrap {
+  margin-top: 4px;
+}
+
+.modul-r-inventory .smallBtn {
+  width: 30%;
+}
+
+.modul-r-inventory .bigBtn {
+  width: 70%;
+}
+
+.modul-r-inventory .compare-box {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.modul-r-inventory .fuel_economy + .dropdown-menu .panel-body {
+  padding: 5px 15px;
+}
+
+.modul-r-inventory .fuel_economy + .dropdown-menu .panel-body .progress {
+  margin: 20px 0;
+}
+
+.modul-r-inventory .fe-content table {
+  background-color: transparent;
+}
+
+.modul-r-inventory .fe-content table th {
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.modul-r-inventory .fe-content .table > tbody > tr > td {
+  border-top: 0;
+}
+
+.modul-r-inventory .fe-content table th div {
+  padding: 8px;
+}
+
+.modul-r-inventory .fe-content table .cust-label:empty {
+  display: none;
+}
+
+.modul-r-inventory .mdet-icon {
+  display: inline-block;
+  vertical-align: top;
+  width: 18px;
+}
+
+.modul-r-inventory .mdet-icon:before {
+  content: "";
+  display: block;
+  background: transparent url("../../../../images/dws/components/svg_icon/flat_icons_details.svg") no-repeat;
+  background-size: 150px auto;
+  width: 18px;
+  height: 18px;
+}
+
+.modul-r-inventory .mdet-icon-fueleconomy:before {
+  background-position: -126px -66px;
+}
+
+.modul-r-inventory .vir-bell,
+.modul-r-inventory .vir-star {
+  width: 22px;
+  height: 22px;
+  margin-right: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.modul-r-inventory .priceWrap .vir-bell {
+  margin-right: 15px;
+}
+
+.modul-r-inventory .vir-bell.active {
+  background-image: url("../../../../images/simulcast/in_app_bidder/filled_bell.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.modul-r-inventory .vir-star.watch-remove {
+  background-image: url("../../../../images/simulcast/in_app_bidder/filled_star.svg");
+}
+
+.modul-r-inventory .vir-bell {
+  background-image: url("../../../../images/simulcast/in_app_bidder/outline_bell.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.modul-r-inventory .vir-star {
+  background-image: url("../../../../images/simulcast/in_app_bidder/outline_star.svg");
+}
+
+@media all and (min-width: 992px) {
+  .modul-r-inventory .compare-box {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+@media all and (max-width: 991px) and (min-width: 768px) {
+  .modul-r-inventory .sort-select-box {
+    display: inline-block;
+  }
+
+  .modul-r-inventory .sort-selection {
+    min-width: 280px;
+  }
+}
+
+@media all and (max-width: 991px) and (min-width: 768px) {
+  .modul-r-inventory .sort-select-box {
+    display: inline-block;
+  }
+
+  .modul-r-inventory .sort-selection {
+    min-width: 280px;
+  }
+}
+
+.minvRgaleryCont {
+  width: 90%;
+  margin: auto;
+}
+
+.minvRgaleryCont.loader {
+  overflow: hidden;
+  height: 440px;
+}
+
+.minvRgaleryCont.loader .minvRgalerySlide {
+  visibility: hidden;
+}
+
+.minvRgaleryCont .minvRgalerySlide img {
+  max-width: 100%;
+}
+
+.minvRgaleryCont .slick-prev:before,
+.minvRgaleryCont .slick-next:before {
+  color: black;
+}
+
+.modul-r-inventory .titleWrap {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.modul-r-inventory .titleWrap a {
+  white-space: nowrap;
+}
+
+.modul-r-inventory .separator {
+  height: 9px;
+}
+
+.modul-r-inventory .label-new {
+  position: absolute;
+  font-size: 120%;
+  text-transform: uppercase;
+  left: 0;
+  margin-left: -37px;
+  width: 80px;
+  height: 26px;
+  line-height: 19px;
+  z-index: 3;
+  -webkit-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+
+/* NEW label position for Thumbnails layout */
+.modul-r-inventory .vehicle-wrapper .label-new {
+  top: 100px;
+}
+
+.Apple .modul-r-inventory .checkbox label,
+.Android .modul-r-inventory .checkbox label {
+  line-height: 2;
+}
+
+.readable.Apple .modul-r-inventory .checkbox label,
+.readable.Android .modul-r-inventory .checkbox label {
+  line-height: 1.9;
+}
+
+.sandstone.Apple .modul-r-inventory .checkbox label,
+.sandstone.Android .modul-r-inventory .checkbox label {
+  line-height: 2.4;
+}
+
+.yeti.Apple .modul-r-inventory .checkbox label,
+.yeti.Android .modul-r-inventory .checkbox label {
+  line-height: 1.7;
+}
+
+.modul-r-inventory .priceWrap p {
+  margin-bottom: 2px;
+}
+
+.modul-r-inventory .priceWrap > div > p,
+.modul-r-inventory .priceWrap > div > div:not(.mileage) {
+  display: table-row;
+}
+
+.modul-r-inventory .priceWrap > div > p > strong,
+.modul-r-inventory .priceWrap > div > p > span,
+.modul-r-inventory .priceWrap > div > div:not(.mileage) > strong,
+.modul-r-inventory .priceWrap > div > div:not(.mileage) > span {
+  display: table-cell;
+  text-align: right;
+  vertical-align: middle;
+  padding: 2px 0;
+}
+
+@media (min-width: 768px) {
+  .modul-r-inventory .label-new {
+    top: 44px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  .modul-r-inventory .title-wrapper {
+    max-width: 70%;
+  }
+}
+
+@media (max-width: 767px) {
+  .modul-r-inventory .label-new {
+    margin-left: -11px;
+    top: 105px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+}
+
+@media (max-width: 560px) {
+  .modul-r-inventory.list .label-new,
+  .modul-r-inventory.layout-inherit .label-new {
+    width: 60px;
+    margin-left: -3px;
+    top: 82px;
+  }
+}
+
+@media (max-width: 430px) {
+  .modul-r-inventory .label-new {
+    top: 115px;
+  }
+}
+
+.modul-r-inventory.layout-inherit .visible-xxs.btn-wrap,
+.modul-r-inventory.layout-list .visible-xxs.btn-wrap {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.modul-r-inventory.layout-inherit .title-mobile,
+.modul-r-inventory.layout-list .title-mobile {
+  white-space: normal;
+  text-align: left;
+  display: block;
+  border: none;
+}
+
+.modul-r-inventory.layout-list .vehicle-note-btn-wrapper {
+  vertical-align: top;
+  background-color: #e1edff;
+  border: 1px solid #0d5db8;
+}
+
+.modul-r-inventory.layout-list .vehicle-note-btn-wrapper.has-note {
+  background-color: #63ad5c;
+  border: 1px solid #63ad5c;
+}
+
+.modul-r-inventory .label-new-mobile {
+  position: absolute;
+  right: 0;
+  top: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.paper .size-xxs .modul-r-inventory .h3 .label-new-mobile,
+.cyborg .size-xxs .modul-r-inventory .h3 .label-new-mobile {
+  font-size: 20px;
+}
+
+.yeti .modul-r-inventory .btn-group .dropdown-toggle.btn-primary ~ .dropdown-menu {
+  background-color: #ffffff;
+  border: 0;
+}
+
+.size-xxs .modul-r-inventory .h4 .label-new-mobile {
+  padding-left: .5em;
+  padding-right: .5em;
+  font-size: 14px;
+}
+
+.modul-r-inventory.layout-grid .button-compare-alias .fa,
+.modul-r-inventory.layout-thumbs .button-compare-alias .fa,
+.size-xxs .modul-r-inventory .button-compare-alias .fa {
+  font-size: 1.3em;
+}
+
+.modul-r-inventory.layout-thumbs .vir-btn {
+  margin-top: 10px;
+}
+
+.modul-r-inventory.layout-thumbs .vir-btn > .btn {
+  min-width: 36%;
+}
+
+.modul-r-inventory .button-compare-alias * {
+  vertical-align: middle;
+}
+
+.modul-r-inventory .button-compare-alias:not(.checked) .fa.fa-check-square-o,
+.modul-r-inventory .button-compare-alias.checked .fa.fa-square-o,
+.modul-r-inventory.layout-grid .btn[data-target*="#description_wrap"].collapsed span:last-child,
+.modul-r-inventory.layout-grid .btn[data-target*="#description_wrap"]:not(.collapsed) span:first-child {
+  display: none;
+}
+
+.modul-r-inventory.layout-grid .btn[data-target*="#description_wrap"] .fa {
+  margin-left: .3em;
+}
+
+.modul-r-inventory .description-wrap .h4,
+.modul-r-inventory .description-wrap .h5,
+.modul-r-inventory .description-wrap .h6,
+.modul-r-inventory.layout-grid .panel-footer .h4 {
+  font-weight: inherit;
+}
+
+.modul-r-inventory.layout-grid .mileage-str {
+  padding: 4px 0;
+  line-height: 1.2;
+}
+
+.ax-container:not(.size-xxs) .modul-r-inventory.layout-grid .description-wrap {
+  display: block !important;
+  height: auto !important;
+}
+
+.modul-r-inventory.layout-thumbs_fin .description-wrap {
+  overflow: hidden;
+}
+
+.modul-r-inventory.layout-thumbs_fin .compare-box {
+  display: none;
+}
+
+.modul-r-inventory .report-icons {
+  margin-left: -9px;
+}
+
+.modul-r-inventory .report-icons img {
+  padding-top: 2px;
+}
+
+.modul-r-inventory .auto-check img {
+  padding-left: 9px;
+}
+
+@media (min-width: 431px) and (max-width: 540px) {
+  .modul-r-inventory.layout-grid .inventory-item,
+  .modul-r-inventory.layout-thumbs .inventory-item {
+    width: 100%;
+  }
+}
+
+.darkie .modul-r-inventory .panel-footer .btn-default:focus {
+  background-color: #2c2c2c;
+  border-color: #060606;
+}
+
+.lumen .modul-r-inventory .btn:focus,
+.lumen .modul-r-inventory .pagination a:focus {
+  margin-top: 1px;
+  border-bottom-width: 3px;
+}
+
+.lumen .modul-r-inventory .navbar-btn.btn:focus {
+  margin-top: 12px;
+  border-bottom-width: 3px;
+}
+
+.cerulean .modul-r-inventory .btn:focus,
+.simplex .modul-r-inventory .btn:focus,
+.slate .modul-r-inventory .btn:focus,
+.slate .modul-r-inventory .pagination > li > a:focus,
+.spacelab .modul-r-inventory .btn:focus {
+  background-image: none;
+}
+
+/* ---------------------------------------OPTION ICONS----------------------------------------------- */
+
+.option_list-nw {
+  padding-bottom: 2px;
+  margin-top: 5px;
+  display: none;
+}
+
+.options {
+  background-image: url("../../../../images/dws/options/grey_options_small.png");
+  display: block;
+  height: 40px;
+  width: 42px;
+  text-align: center;
+  margin: auto;
+}
+
+.superhero .options,
+.slate .options,
+.darkie .options,
+.cyborg .options {
+  background-image: url("../../../../images/dws/options/white_options_small.png");
+}
+
+.options_title {
+  width: 50px;
+  text-align: center;
+  font-size: 9px;
+  display: block;
+  overflow: hidden;
+  height: 36px;
+  text-overflow: ellipsis;
+  margin: auto;
+  line-height: 12px;
+}
+
+.cell_options {
+  text-align: center;
+  width: 50px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 1px;
+  zoom: 1;
+}
+
+/* Group icon control */
+
+.opt_group_1 {
+  background-position: 0 -560px;
+}
+
+/* safety  */
+.opt_group_2 {
+  background-position: -169px -560px;
+}
+
+/* comfort  */
+.opt_group_3 {
+  background-position: -85px -560px;
+}
+
+/* seats */
+.opt_group_4 {
+  background-position: -211px -560px;
+}
+
+/* windows */
+.opt_group_5 {
+  background-position: -43px -560px;
+}
+
+/* sound */
+.opt_group_6 {
+  background-position: -253px -560px;
+}
+
+/* drive train */
+.opt_group_7 {
+  background-position: -295px -560px;
+}
+
+/* exterior */
+.opt_group_8 {
+  background-position: -337px -560px;
+}
+
+/* interior */
+.opt_group_9 {
+  background-position: -127px -560px;
+}
+
+/* other */
+.opt_group_10 {
+  background-position: -337px -560px;
+}
+
+/* Interior Option - Cars & Trucks */
+
+.opt_group_11 {
+  background-position: -127px -600px;
+}
+
+/* Boat Electronics */
+.opt_group_12 {
+  background-position: -43px -600px;
+}
+
+/* Accessories */
+.opt_group_13 {
+  background-position: -85px -600px;
+}
+
+/* Bat Mechanoical */
+.opt_group_14 {
+  background-position: 0 -600px;
+}
+
+/* Boat Fishing */
+
+.options_premium-sound-system {
+  background-position: -43px -560px;
+}
+
+/* .opt_group_5 coords */
+
+/* Line 1 */
+.options_keyless-entry,
+.options_remote-trunk-lid,
+.options_apertura-remota-de-baúl,
+.options_apertura-remota-de-cajuela,
+.options_apertura-remota-del-maletero,
+.options_apertura-remota-de-maleta {
+  background-position: -43px 0;
+}
+
+.options_panic-button {
+  background-position: -85px 0;
+}
+
+.options_onstar {
+  background-position: -127px 0;
+}
+
+.options_homelink {
+  background-position: -169px 0;
+}
+
+/* Cruise Control */
+.options_cruise-control,
+.options_control-automático-de-velocidad,
+.options_control-de-velocidad-crucero,
+.options_regulador-de-velocidad,
+.options_adaptive-cruise-control {
+  background-position: -211px 0;
+}
+
+/* Climate */
+.options_climate-control,
+.options_automatic-climate-control,
+.options_climatizador-automático,
+.options_termómetro-ambiental,
+.options_passenger-climate-control,
+.options_automatic-climate-control-2-zone-driver-and-passenger {
+  background-position: -253px 0;
+}
+
+.options_air-conditioning,
+.options_aire-acondicionado,
+.options_rear-air-conditioning {
+  background-position: -295px 0;
+}
+
+/* Gauges */
+.options_tachometer {
+  background-position: -337px 0;
+}
+
+.options_clock {
+  background-position: -379px 0;
+}
+
+/* Roof  Line 2 */
+
+.options_moonroof,
+.options_power-moonroof {
+  background-position: -0 -40px;
+}
+
+.options_sunroofmoon-roof,
+.options_power-glass-sunroof,
+.options_193,
+.options_techo-corredizo,
+.options_quemacocos-corredizo,
+.options_techo-descapotable {
+  background-position: -43px -40px;
+}
+
+.options_convertible,
+.options_power-convertible-top {
+  background-position: -85px -40px;
+}
+
+.options_hardtop-roof,
+.options_cabriolet-roof,
+.options_removable-hard-top {
+  background-position: -127px -40px;
+}
+
+/* Windows */
+.options_rear-defroster,
+.options_rear-window-defroster {
+  background-position: -169px -40px;
+}
+
+.options_privacy-glass {
+  background-position: -211px -40px;
+}
+
+.options_power-windows,
+.options_vidrios-eléctricos-delanteros,
+.options_cristales-eléctricos-delanteros,
+.options_alzavidrios-eléctricos-delanteros,
+.options_vidrios-eléctricos-delanteros-y-traseros,
+.options_cristales-eléctricos-delanteros-y-traseros,
+.options_alzavidrios-eléctricos-delanteros-y-traseros {
+  background-position: -253px -40px;
+}
+
+.options_rear-window-wiper,
+.options_limpialava-luneta,
+.options_limpiadores-traseros,
+.options_limpia-parabrisas-traseros {
+  background-position: -295px -40px;
+}
+
+.options_tinted-glass,
+.options_vidrios-polarizados,
+.options_cristales-polarizados {
+  background-position: -337px -40px;
+}
+
+.options_break-resistant-glass {
+  background-position: -379px -40px;
+}
+
+/* Safety Line 3 */
+.options_first-aid-kit {
+  background-position: 0 -80px;
+}
+
+.options_driver-air-bag,
+.options_front-and-rear-head-airbag-restraints,
+.options_side-air-bag-system,
+.options_front-rear-and-third-row-head-airbags,
+.options_drivers-side-airbag,
+.options_side-curtain-airbags,
+.options_front-side-airbag-restraints,
+.options_passenger-air-bag,
+.options_passenger-side-airbags,
+.options_side-air-bag,
+.options_airbag-trasero,
+.options_bolsa-de-aire-trasera,
+.options_airbag-laterales,
+.options_bolsas-de-aire-laterales,
+.options_airbag-de-cortina,
+.options_bolsa-de-aire-de-cortina,
+.options_airbag-conductor,
+.options_bolsa-de-aire-conductor,
+.options_airbag-acompañante,
+.options_bolsa-de-aire-acompañante,
+.options_blindado,
+.options_rear-and-third-row-head-airbags {
+  background-position: -43px -80px;
+}
+
+.options_rollover-protection-system,
+.options_power-locks {
+  background-position: -85px -80px;
+}
+
+/*  Paint */
+.options_special-factory-paint,
+.options_metallic-paint,
+.options_two-tone-paint {
+  background-position: -127px -80px;
+}
+
+.options_chrome-bumper {
+  background-position: -169px -80px;
+}
+
+.options_accent-stripes {
+  background-position: -211px -80px;
+}
+
+/* Doors */
+.options_power-door-locks,
+.options_cierre-de-puertas-automático-en-movimiento,
+.options_cierre-centralizado-con-mando-a-distancia,
+.options_bloqueo-central-con-mando-a-distancia,
+.options_cierre-centralizado-de-puertas,
+.options_seguros-eléctricos,
+.options_bloqueo-central,
+.options_cierre-centralizado {
+  background-position: -253px -80px;
+}
+
+.options_child-proof-door-locks,
+.options_child-safety-locks {
+  background-position: -295px -80px;
+}
+
+.options_courtesy-lights,
+.options_alarma-de-luces-encendidas,
+.options_ground-effects {
+  background-position: -337px -80px;
+}
+
+/* Body & Tuning Line 4 */
+.options_fender-flares {
+  background-position: 0 -120px;
+}
+
+.options_rear-spoiler {
+  background-position: -43px -120px;
+}
+
+.options_dual-exhaust {
+  background-position: -85px -120px;
+}
+
+.options_air-dam {
+  background-position: -127px -120px;
+}
+
+.options_short-bed,
+.options_quad-cab,
+.options_super-cab {
+  background-position: -169px -120px;
+}
+
+.options_crew-cab {
+  background-position: -211px -120px;
+}
+
+.options_receiver-tow {
+  background-position: -253px -120px;
+}
+
+.options_roll-bar {
+  background-position: -295px -120px;
+}
+
+.options_luggage-rack {
+  background-position: -337px -120px;
+}
+
+.options_trailer-hitch {
+  background-position: -379px -120px;
+}
+
+/* Line 5 */
+.options_bug-shield {
+  background-position: 0 -160px;
+}
+
+.options_brush-guard {
+  background-position: -43px -160px;
+}
+
+.options_camper-shell {
+  background-position: -85px -160px;
+}
+
+.options_front-spoiler {
+  background-position: -127px -160px;
+}
+
+.options_running-boards {
+  background-position: -169px -160px;
+}
+
+.options_body-side-moldings {
+  background-position: -211px -160px;
+}
+
+/* Other Line 6 */
+.options_tool-box {
+  background-position: 0 -200px;
+}
+
+.options_winch {
+  background-position: -43px -200px;
+}
+
+.options_power-trunk {
+  background-position: -85px -200px;
+}
+
+.options_inside-hood-release {
+  background-position: -127px -200px;
+}
+
+.options_power-antenna {
+  background-position: -169px -200px;
+}
+
+.options_california-emissions-compliant {
+  background-position: -211px -200px;
+}
+
+.options_radial-tires {
+  background-position: -253px -200px;
+}
+
+.options_energyabsorbing-panels {
+  background-position: -295px -200px;
+}
+
+/* Transmission Line 7 */
+.options_5-speed {
+  background-position: 0 -240px;
+}
+
+.options_6-speed {
+  background-position: -43px -240px;
+}
+
+/* Brakes */
+.options_power-brakes,
+.options_brake-drying {
+  background-position: -214px -240px;
+}
+
+/* lights */
+.options_xenon-lights,
+.options_faros-de-xenón,
+.options_luces-de-xenón,
+.options_ampolletas-de-xenón {
+  background-position: -169px -240px;
+}
+
+.options_fog-lamps,
+.options_faros-antiniebla-delanteros,
+.options_luces-antiniebla-delanteras,
+.options_faros-antiniebla-traseros,
+.options_luces-antiniebla-traseras {
+  background-position: -211px -240px;
+}
+
+.options_headlight-washers {
+  background-position: -253px -240px;
+}
+
+.options_third-brake-light,
+.options_tercer-luz-de-stop,
+.options_halogen-headlamps {
+  background-position: -295px -240px;
+}
+
+.options_automatic-onoff-headlights {
+  background-position: -337px -240px;
+}
+
+/* Seats Line 8 */
+.options_split-folding-rear-seat,
+.options_asiento-trasero-rebatible,
+.options_asiento-trasero-abatible,
+.options_manual-folding-splitbench-third-row-seats {
+  background-position: 0 -280px;
+}
+
+.options_third-row-seat {
+  background-position: -43px -280px;
+}
+
+.options_power-lumbar-support {
+  background-position: -85px -280px;
+}
+
+.options_heated-seats,
+.options_heated-seats-driver-and-passenger,
+.options_heated-seatsfronts {
+  background-position: -127px -280px;
+}
+
+.options_child-seat-anchor {
+  background-position: -169px -280px;
+}
+
+.options_power-drivers-seat,
+.options_power-seats,
+.options_asientos-eléctricos,
+.options_power-passenger-seat,
+.options_seat-power-driver-and-passenger {
+  background-position: -211px -280px;
+}
+
+.options_rear-seat-folddown-armrest {
+  background-position: -253px -280px;
+}
+
+.options_reclining-bucket-seats,
+.options_reclining-seats,
+.options_front-bucket-seats {
+  background-position: -295px -280px;
+}
+
+.options_comfort-seats,
+.options_vinyl-seats,
+.options_leather-seats,
+.options_sport-seats,
+.options_special-leather-seat-trim,
+.options_7-passenger {
+  background-position: -337px -280px;
+}
+
+/* Wheels, chassis & suspension Line 9 */
+.options_sport-chassis {
+  background-position: 0 -320px;
+}
+
+.options_4-x-4 {
+  background-position: -43px -320px;
+}
+
+.options_alloy-wheels,
+.options_antiskid-control {
+  background-position: -85px -320px;
+}
+
+.options_cast-alloy-wheels,
+.options_19,
+.options_251,
+.options_llantas-de-aleación,
+.options_rines-de-lujo,
+.options_chrome-wheels {
+  background-position: -127px -320px;
+}
+
+.options_traction-control,
+.options_control-de-tracción {
+  background-position: -169px -320px;
+}
+
+.options_sport-suspension {
+  background-position: -211px -320px;
+}
+
+/* Packages */
+.options_sport-package,
+.options_alloy-wheels,
+.options_wheels {
+  background-position: -253px -320px;
+}
+
+.options_towing-package,
+.options_traction-control-system {
+  background-position: -295px -320px;
+}
+
+.options_design-package,
+.options_sport-design-package,
+.options_macpherson-strut-front-suspension {
+  background-position: -337px -320px;
+}
+
+/* audio Line 10 */
+.options_compact-disc-player,
+.options_cargador-de-cd,
+.options_reproduce-cd,
+.options_cd-in-dash {
+  background-position: 0 -360px;
+}
+
+.options_amfm-radio,
+.options_radio-amfm,
+.options_amfm-stereo,
+.options_comando-satelital-de-stereo,
+.options_vhf-radio,
+.options_amfm-cassette,
+.options_amfmcd-changer-audio-system,
+.options_pasacassette,
+.options_amfmcassettecd-changer-audio-system,
+.options_cassetera-en-estéreo {
+  background-position: -43px -360px;
+}
+
+.options_bose-sound-system {
+  background-position: -85px -360px;
+}
+
+.options_hifi-audio-system {
+  background-position: -127px -360px;
+}
+
+.options_digital-audio-system,
+.options_7-total-speakers,
+.options_10-total-speakers {
+  background-position: -169px -360px;
+}
+
+.options_dvd-entertainment-system,
+.options_reproduce-dvd {
+  background-position: -211px -360px;
+}
+
+.options_satellite-radio-system {
+  background-position: -253px -360px;
+}
+
+/* Interior */
+.options_center-console {
+  background-position: -295px -360px;
+}
+
+.options_carbon-interior-trim {
+  background-position: -337px -360px;
+}
+
+/* Line 11 */
+.options_leather-gearshift-knob {
+  background-position: 0 -400px;
+}
+
+.options_cup-holders,
+.options_rear-and-3rd-row-cupholders,
+.options_beverage-holder,
+.options_front-and-rear-cupholders {
+  background-position: -43px -400px;
+}
+
+.options_aluminum-and-wood-gearshift-knob {
+  background-position: -85px -400px;
+}
+
+.options_special-leather-interior-trim {
+  background-position: -127px -400px;
+}
+
+.options_wood-trim {
+  background-position: -169px -400px;
+}
+
+.options_map-light {
+  background-position: -211px -400px;
+}
+
+.options_floor-mats {
+  background-position: -253px -400px;
+}
+
+.options_leather-upholstery,
+.options_tapizado-de-cuero,
+.options_vestidura-de-piel {
+  background-position: -295px -400px;
+}
+
+.options_center-arm-rest,
+.options_folding-center-armrest {
+  background-position: -337px -400px;
+}
+
+.options_cargo-lamp {
+  background-position: -379px -400px;
+}
+
+/* steering wheel Line 12 */
+.options_heated-steering-wheel {
+  background-position: 0 -440px;
+}
+
+.options_carbon-and-leather-steering-wheel,
+.options_leather-steering-wheel {
+  background-position: -43px -440px;
+}
+
+.options_power-steering,
+.options_power-steering {
+  background-position: -85px -440px;
+}
+
+.options_power-tilt-and-telescopic-steering-wheel,
+.options_tilt-wheel {
+  background-position: -127px -440px;
+}
+
+.options_steering-wheel-controls,
+.options_volante-multi-función,
+.options_sport-steering-wheel,
+.options_telescoping-steering,
+.options_tilt-steering-column,
+.options_multifunction-steering-wheel {
+  background-position: -169px -440px;
+}
+
+/* Mirror */
+.options_heated-mirrors,
+.options_power-heated-mirrors,
+.options_espejos-exteriores-eléctricos {
+  background-position: -211px -440px;
+}
+
+.options_power-mirrors,
+.options_power-mirrors,
+.options_dual-power-mirrors {
+  background-position: -253px -440px;
+}
+
+.options_vanity-mirror-s,
+.options_vanity-mirrors {
+  background-position: -295px -440px;
+}
+
+.options_autodimming-rearview-mirror,
+.options_automatic-dimming-rearview-mirror {
+  background-position: -337px -440px;
+}
+
+/* Electronics Line 13 */
+.options_navigational-system,
+.options_navigation-system {
+  background-position: 0 -480px;
+}
+
+.options_parktronic,
+.options_sensor-de-estacionamiento {
+  background-position: -43px -480px;
+}
+
+.options_security-system {
+  background-position: -85px -480px;
+}
+
+.options_digital-clock {
+  background-position: -127px -480px;
+}
+
+.options_cellular-telephone {
+  background-position: -169px -480px;
+}
+
+.options_heads-up-display {
+  background-position: -211px -480px;
+}
+
+.options_remote-fuel-door {
+  background-position: -253px -480px;
+}
+
+.options_rear-view-camera {
+  background-position: -295px -480px;
+}
+
+.options_garage-door-opener {
+  background-position: -337px -480px;
+}
+
+.options_over-head-console {
+  background-position: -379px -480px;
+}
+
+/* Spanish */
+
+/* Line 18 */
+.options_alarm-system,
+.options_alarma {
+  background-position: 0 -680px;
+}
+
+/* .icon-option-alarm-system */
+.options_antilock-brakes,
+.options_frenos-abs,
+.options_4wheel-abs {
+  background-position: -43px -680px;
+}
+
+/* .icon-option-anti-lock-brakes */
+.options_rain-sensing-windshield-wipers,
+.options_sensor-de-lluvia {
+  background-position: -85px -680px;
+}
+
+/* .icon-option-rain-sensing-windshield-wipers */
+.options_adjustable-steering-wheel,
+.options_volante-regulable {
+  background-position: -127px -680px;
+}
+
+/* .icon-option-adjustable-steering-wheel */
+
+.options_doble-tracción {
+  background-position: -169px -680px;
+}
+
+/* .icon-option-two-wheel-drive */
+.options_apoya-cabeza-en-asientos-traseros {
+  background-position: -211px -680px;
+}
+
+/* .icon-option-rear-seat-headrest */
+.options_computadora-de-abordo,
+.options_computadora-de-viaje,
+.options_computador-de-abordo {
+  background-position: -253px -680px;
+}
+
+/* .icon-option-onboard-computer */
+.options_sensor-de-luz {
+  background-position: -295px -680px;
+}
+
+/* .icon-option-light-sensor */
+.options_isofix {
+  background-position: -337px -680px;
+}
+
+/* .icon-option-isofix */
+.options_asiento-conductor-regulable-en-altura {
+  background-position: -379px -680px;
+}
+
+/* .icon-option-height-adjustable-driver-seats */
+
+/* Line 19 */
+.options_faros-regulables-desde-el-interior,
+.options_luces-regulables-desde-el-interior,
+.options_focos-regulables-desde-el-interior {
+  background-position: 0 -720px;
+}
+
+/* .icon-option-headlights-regulated-from-inside */
+.options_inmovilizador-de-motor,
+.options_engine-immobilizer {
+  background-position: -43px -720px;
+}
+
+/* .icon-option-engine-immobilizer */
+.options_control-de-estabilidad-esp,
+.options_stability-control {
+  background-position: -85px -720px;
+}
+
+/* .icon-option-electronic-stability-control-(esc) */
+.options_repartidor-electrónico-de-frenado {
+  background-position: -127px -720px;
+}
+
+/* .icon-option-electronic-brakeforce-distribution */
+.options_bluetooth,
+.options_bluetooth-connection {
+  background-position: -169px -720px;
+}
+
+/* .icon-option-bluetooth */
+
+/* Line 20 */
+.options_entrada-auxiliar {
+  background-position: 0 -760px;
+}
+
+/* .auxiliary-input-aux */
+.options_entrada-usb,
+.options_reproduce-mp3 {
+  background-position: -43px -760px;
+}
+
+/* .usb-input */
+.options_gps {
+  background-position: -85px -760px;
+}
+
+/* .gps */
+.options_manos-libres {
+  background-position: -127px -760px;
+}
+
+/* .handsfree */
+.options_tarjeta-sd {
+  background-position: -169px -760px;
+}
+
+/* .sd-card */
+.options_barra-porta-equipaje,
+.options_canastilla-porta-equipaje,
+.options_barra-porta-maletas,
+.options_roof-luggage-rack {
+  background-position: -211px -760px;
+}
+
+/* .roof-rack */
+.options_paragolpes-color-carrocería,
+.options_facias-al-color-de-la-carrocería,
+.options_parachoques-color-carrocería {
+  background-position: -253px -760px;
+}
+
+/* .body-color-bumpers */
+.options_único-dueño,
+.options_primer-propietario,
+.options_primer-dueño {
+  background-position: -295px -760px;
+}
+
+/* .first-owner */
+.options_taxi {
+  background-position: -337px -760px;
+}
+
+/* .taxi */
+.options_antiguo-o-clásico {
+  background-position: -379px -760px;
+}
+
+/* .old-antique-or-classic */
+
+/* Additional icons */
+
+/* Line 21 */
+.options_steering-wheel-mounted-audio-controls,
+.options_steering-wheel-audio-controls {
+  background-position: 0 -800px;
+}
+
+.options_steering-wheel-mounted-ac-controls {
+  background-position: -43px -800px;
+}
+
+.options_steering-wheel-memory {
+  background-position: -85px -800px;
+}
+
+.options_stabilitrak-stability-control-system {
+  background-position: -127px -800px;
+}
+
+.options_seatbelt-memory,
+.options_3-point-rear-seatbelts {
+  background-position: -169px -800px;
+}
+
+.options_rear-seat-center-armrest {
+  background-position: -211px -800px;
+}
+
+.options_rear-reading-lights,
+.options_reading-lights {
+  background-position: -253px -800px;
+}
+
+.options_rear-antiroll-bar-rear-antiroll-bar-front-antiroll-bar {
+  background-position: -295px -800px;
+}
+
+.options_rain-sensing-wipers {
+  background-position: -337px -800px;
+}
+
+.options_radio-data-system {
+  background-position: -379px -800px;
+}
+
+/* Line 22 */
+.options_power-trunk-closing-assist {
+  background-position: 0 -840px;
+}
+
+.options_passkey-iii-theftdeterrent-system {
+  background-position: -43px -840px;
+}
+
+.options_passenger-side-autotiltdown-side {
+  background-position: -85px -840px;
+}
+
+.options_outside-temperature-display,
+.options_outside-temperature-gauge {
+  background-position: -127px -840px;
+}
+
+.options_mp3-decoder {
+  background-position: -169px -840px;
+}
+
+.options_memory-drivers-seatsidemirrors,
+.options_memory-seat-s,
+.options_power-driver-seat-wmemory,
+.options_power-passenger-seat-wmemory {
+  background-position: -211px -840px;
+}
+
+.options_low-tire-pressure-warning,
+.options_low-tire-pressure-warning-system {
+  background-position: -253px -840px;
+}
+
+.options_interlocking-door-anchoring-system {
+  background-position: -295px -840px;
+}
+
+.options_illuminated-entry {
+  background-position: -337px -840px;
+}
+
+.options_genuine-wood-door-panel-insert {
+  background-position: -379px -840px;
+}
+
+/* Line 23 */
+.options_genuine-wood-dashboard-insert {
+  background-position: 0 -880px;
+}
+
+.options_genuine-wood-console-insert {
+  background-position: -43px -880px;
+}
+
+.options_front-reading-lights,
+.options_front-and-rear-reading-lights {
+  background-position: -85px -880px;
+}
+
+.options_front-fog-lights {
+  background-position: -127px -880px;
+}
+
+.options_front-dual-zone-ac-front-dual-zone-ac {
+  background-position: -169px -880px;
+}
+
+.options_emergency-communication-system-ecs {
+  background-position: -211px -880px;
+}
+
+.options_driver-door-bin {
+  background-position: -253px -880px;
+}
+
+.options_custom-cloth-seat-trim {
+  background-position: -295px -880px;
+}
+
+.options_convertible-roof-lining {
+  background-position: -337px -880px;
+}
+
+.options_brake-assist,
+.options_adjustable-pedals {
+  background-position: -379px -880px;
+}
+
+/* Line 24 */
+.options_automatic-headlamp-control-third-brake-light {
+  background-position: 0 -920px;
+}
+
+/* option_automatic-headlamp-control */
+.options_autodimming-door-mirrors {
+  background-position: -43px -920px;
+}
+
+.options_10way-power-front-bucket-seats {
+  background-position: -85px -920px;
+}
+
+.options_10-speakers {
+  background-position: -127px -920px;
+}
+
+.options_8inch-touchscreen-color-display {
+  background-position: -169px -920px;
+}
+
+.options_4-wheel-disc-brakes {
+  background-position: -211px -920px;
+}
+
+.options_373-axle-ratio {
+  background-position: -253px -920px;
+}
+
+.options_xm-radio {
+  background-position: -295px -920px;
+}
+
+.options_wireless-connectivity {
+  background-position: -337px -920px;
+}
+
+.options_weather-band-radio {
+  background-position: -379px -920px;
+}
+
+/* Line 25 */
+.options_turn-signal-indicator-mirrors {
+  background-position: 0 -960px;
+}
+
+.options_trunk-emergency-release-handle {
+  background-position: -43px -960px;
+}
+
+.options_rear-fog-lights {
+  background-position: -85px -960px;
+}
+
+.options_tire-pressure-monitoring-system,
+.options_tire-pressure-monitoring {
+  background-position: -127px -960px;
+}
+
+.options_premium-sound-system {
+  background-position: -169px -960px;
+}
+
+.options_nappa-leather-seat-trim {
+  background-position: -211px -960px;
+}
+
+.options_digital-instruments {
+  background-position: -253px -960px;
+}
+
+.options_daytime-running-lights {
+  background-position: -295px -960px;
+}
+
+.options_coolant-temp-gauge {
+  background-position: -337px -960px;
+}
+
+.options_compasstemp-guage,
+.options_compasstemp-gauge {
+  background-position: -379px -960px;
+}
+
+/* Line 26 */
+.options_compact-disc-changer {
+  background-position: 0 -1000px;
+}
+
+.options_cloth-upholstery {
+  background-position: -43px -1000px;
+}
+
+.options_bed-liner {
+  background-position: -85px -1000px;
+}
+
+.options_15-alloy-wheels {
+  background-position: -127px -1000px;
+}
+
+.options_trip-odometer {
+  background-position: -169px -1000px;
+}
+
+/* ADDITIONAL ICONS ------------------------------------------------------------------------------------- */
+
+/* Line 28 EXTERIOR */
+.options_fixed-lifgate-window {
+  background-position: 0 -1080px;
+}
+
+.options_wheel-base-1083-in {
+  background-position: -43px -1080px;
+}
+
+.options_remote-sunroof-operation {
+  background-position: -85px -1080px;
+}
+
+.options_length-1916-in {
+  background-position: -127px -1080px;
+}
+
+.options_intermittent-rear-wiper,
+.options_intermittent-wipers {
+  background-position: -169px -1080px;
+}
+
+.options_22-x-90-in-wheels,
+.options_18-x-80-in-wheels {
+  background-position: -211px -1080px;
+}
+
+/* INTERIOR */
+
+/* Line 29 */
+.options_all-seats-in-place-150-cuft,
+.options_maximum-cargo-capacity-835-cuft {
+  background-position: 0 -1120px;
+}
+
+.options_trip-computer {
+  background-position: -43px -1120px;
+}
+
+.options_splitfolding-rear-seatback {
+  background-position: -85px -1120px;
+}
+
+/* .options_seat-type-?-bucket, */
+.options_seat-type-bucket {
+  background-position: -127px -1120px;
+}
+
+.options_remote-trunk-release {
+  background-position: -169px -1120px;
+}
+
+.options_rear-shoulder-room-615-in {
+  background-position: -211px -1120px;
+}
+
+.options_rear-parking-aid {
+  background-position: -253px -1120px;
+}
+
+.options_front-shoulder-room-543-in,
+.options_front-shoulder-room-616-in {
+  background-position: -295px -1120px;
+}
+
+.options_front-leg-room-412-in {
+  background-position: -337px -1120px;
+}
+
+.options_front-hip-room-590-in {
+  background-position: -379px -1120px;
+}
+
+/* Line 30 */
+.options_in-dashcd-with-cd-mp3-playback-stereo,
+.options_amfm-indash-6-cd-player-with-cd-mp3,
+.options_amfm-indash-single-cddvd,
+.options_amfm-indash-single-cddvdin-dashcd-with-cd-mp3-playback-stereo {
+  background-position: 0 -1160px;
+}
+
+.options_front-and-rear-door-pockets {
+  background-position: -43px -1160px;
+}
+
+.options_door-pockets {
+  background-position: -85px -1160px;
+}
+
+.options_8-way-power-driver-seat,
+.options_8-way-power-passenger-seat {
+  background-position: -127px -1160px;
+}
+
+.options_12v-front-and-12v-rear-power-outlets,
+.options_12v-front {
+  background-position: -211px -1160px;
+}
+
+.options_rear-bench-seat {
+  background-position: -295px -1160px;
+}
+
+.options_auto-express-down-window,
+.options_2-onetouch-power-windows {
+  background-position: -337px -1160px;
+}
+
+.options_seat-memory {
+  background-position: -379px -1160px;
+}
+
+/* Line 31 */
+.options_rear-ventilation-ducts-with-fan-control {
+  background-position: 0 -1200px;
+}
+
+.options_rear-leg-room-387-in {
+  background-position: -43px -1200px;
+}
+
+.options_memorized-settings-for-2-drivers,
+.options_memorized-settings-includes {
+  background-position: -85px -1200px;
+}
+
+.options_diversity-antenna {
+  background-position: -127px -1200px;
+}
+
+.options_cd-player {
+  background-position: -169px -1200px;
+}
+
+.options_auxiliary-mp3-audio-input {
+  background-position: -211px -1200px;
+}
+
+.options_1-subwoofers {
+  background-position: -253px -1200px;
+}
+
+/* Line 32 MECHANICAL  */
+.options_mechanical-center-differential {
+  background-position: 0 -1240px;
+}
+
+.options_front-and-rear-stabilizer-bar {
+  background-position: -43px -1240px;
+}
+
+.options_cylinders-v8 {
+  background-position: -85px -1240px;
+}
+
+.options_base-engine-size-42-l,
+.options_base-engine-size-32-l {
+  background-position: -127px -1240px;
+}
+
+.options_valves-24 {
+  background-position: -211px -1240px;
+}
+
+.options_horsepower-265-hp-6500-rpm,
+.options_horsepower-300-hp-6300-rpm {
+  background-position: -253px -1240px;
+}
+
+/* OTHER */
+
+/* Line 33 */
+.options_surround-audio {
+  background-position: 0 -1280px;
+}
+
+.options_front-track-677-in {
+  background-position: -85px -1280px;
+}
+
+.options_free-maintenance-1-yr-5000-mi,
+.options_basic-4-yr-50000-mi {
+  background-position: -127px -1280px;
+}
+
+.options_drivetrain-4-yr-50000-mi {
+  background-position: -169px -1280px;
+}
+
+.options_drive-type-all-wheel-drive {
+  background-position: -211px -1280px;
+}
+
+.options_drive-train-2-wheel {
+  background-position: -253px -1280px;
+}
+
+.options_12v-front-12v-rear-and-12v-cargo-area,
+.options_12v-rear-and-12v-cargo-area {
+  background-position: -337px -1280px;
+}
+
+/* Line 34 */
+.options_width-785-in {
+  background-position: 0 -1320px;
+}
+
+.options_vehicle-stability-assist-stability-control {
+  background-position: -43px -1320px;
+}
+
+.options_turning-circle-376-ft {
+  background-position: -85px -1320px;
+}
+
+.options_torque-270-ftlbs-4500-rpm {
+  background-position: -127px -1320px;
+}
+
+.options_sport-front-seats {
+  background-position: -169px -1320px;
+}
+
+.options_retained-accessory-power {
+  background-position: -211px -1320px;
+}
+
+.options_rear-wheel-drive {
+  background-position: -253px -1320px;
+}
+
+.options_rear-power-liftgate-door {
+  background-position: -295px -1320px;
+}
+
+.options_rear-hip-room-591-in {
+  background-position: -337px -1320px;
+}
+
+.options_rear-head-room-386-in {
+  background-position: -379px -1320px;
+}
+
+/* Line 35 */
+.options_premium-stereo-pioneer {
+  background-position: 0 -1360px;
+}
+
+.options_power-outlets {
+  background-position: -43px -1360px;
+}
+
+.options_passenger-head-restraint-whiplash {
+  background-position: -85px -1360px;
+}
+
+.options_p25555r18-104h-tires {
+  background-position: -127px -1360px;
+}
+
+.options_keyless-ignition {
+  background-position: -169px -1360px;
+}
+
+.options_height-682-in {
+  background-position: -253px -1360px;
+}
+
+.options_ebd-electronic-brake-dist {
+  background-position: -295px -1360px;
+}
+
+.options_center-and-rear-limited-slip-differential {
+  background-position: -337px -1360px;
+}
+
+.options_adjustable-speed-sensitive-volume-control {
+  background-position: -379px -1360px;
+}
+
+/* Line 36 */
+.options_adjustable-lumbar-seats {
+  background-position: 0 -1400px;
+}
+
+.options_adjustable-head-rests,
+.options_driver-head-restraint-whiplash,
+.options_3-rear-headrests {
+  background-position: -43px -1400px;
+}
+
+.options_abs-antilock-braking-system {
+  background-position: -85px -1400px;
+}
+
+.options_253-watts-stereo-output {
+  background-position: -127px -1400px;
+}
+
+.options_universal-remote-transmitter {
+  background-position: -211px -1400px;
+}
+
+.options_dual-zone-ac {
+  background-position: -253px -1400px;
+}
+
+/* Line 37 SAFETY */
+.options_antitheft-device,
+.options_anti-theftsecurity-system {
+  background-position: 0 -1440px;
+}
+
+.options_front-and-rear-seatbelt-pretensioners {
+  background-position: -43px -1440px;
+}
+
+.options_rear-door-child-safety-locks {
+  background-position: -85px -1440px;
+}
+
+.options_dusk-sensing-headlamps {
+  background-position: -127px -1440px;
+}
+
+.options_precollision-safety-system {
+  background-position: -169px -1440px;
+}
+
+/* For enabled setting "Show "Dealer" Ribbon" */
+.modul-r-inventory .dealer-ribbon {
+  pointer-events: none;
+  cursor: default;
+  position: absolute;
+  left: 8px;
+  margin: 10px 0;
+  z-index: 1;
+}
+
+.modul-r-inventory.layout-grid .dealer-ribbon,
+.modul-r-inventory.layout-thumbs .dealer-ribbon {
+  left: -7px;
+}
+
+.modul-r-inventory .dealer-ribbon > .label {
+  border-radius: 0;
+  position: absolute;
+  padding: 6px 20px;
+  font-size: 90%; /* ~13px; */
+  font-weight: bold;
+  margin: 0;
+}
+
+.modul-r-inventory .dealer-ribbon > .label:first-child {
+  border: 1px solid transparent;
+  top: 4px;
+  left: 4px;
+}
+
+.modul-r-inventory .dealer-ribbon > .label:last-child {
+  border: 1px solid rgba(0, 0, 0, .15);
+  box-shadow: 1px 1px 0 0 rgba(0, 0, 0, .2);
+}
+
+.modul-r-inventory .dealer-ribbon > .label:last-child:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: -1px;
+  top: 100%;
+  margin-top: 1px;
+  border-top: 8px solid #555555;
+  border-left: 7px solid transparent;
+}
+
+.superhero .modul-r-inventory .dealer-ribbon > .label:last-child:after {
+  border-top-color: #2b3e50;
+}
+
+.size-xxs .modul-r-inventory.layout-list .dealer-ribbon .label,
+.size-xxs .modul-r-inventory.layout-inherit .dealer-ribbon .label {
+  padding-left: .5em;
+  padding-right: .5em;
+  font-size: 12px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .modul-r-inventory.layout-list .dealer-ribbon .label,
+  .modul-r-inventory.layout-inherit .dealer-ribbon .label {
+    padding-left: .5em;
+    padding-right: .5em;
+    font-size: 12px;
+  }
+}
+
+.modul-r-inventory .vehicle-img-wrapper {
+  box-shadow: none;
+  border-radius: 0;
+}
+
+.modul-r-inventory .vehicle-img-wrapper > .panel-heading {
+  box-shadow: none;
+  border-radius: 0;
+  border: none;
+}
+
+.modul-r-inventory .vehicle-img-wrapper .vehicle-img {
+  -webkit-transition: opacity .3s;
+  transition: opacity .3s;
+  opacity: 0;
+}
+
+.modul-r-inventory .vehicle-img-wrapper .vehicle-img.loaded {
+  opacity: 1;
+}
+
+.modul-r-inventory .vehicle-img-wrapper .vehicle-img-loader {
+  -webkit-transition: opacity .3s;
+  transition: opacity .3s;
+  opacity: 0;
+}
+
+.modul-r-inventory .vehicle-img-wrapper .vehicle-img.loading ~ .vehicle-img-loader {
+  opacity: 1;
+}
+
+@media (max-width: 767px) {
+  .modul-r-inventory .vehicle-img-wrapper .vehicle-img.loading ~ .vehicle-img-loader .animate-progress-bar {
+    -webkit-animation: animate-progress-bar 15s ease-out;
+    animation: animate-progress-bar 15s ease-out;
+  }
+}
+
+@media (min-width: 768px) {
+  .modul-r-inventory .vehicle-img-wrapper .vehicle-img.loading ~ .vehicle-img-loader .animate-progress-bar {
+    -webkit-animation: animate-progress-bar 5s infinite ease-out;
+    animation: animate-progress-bar 5s infinite ease-out;
+  }
+}

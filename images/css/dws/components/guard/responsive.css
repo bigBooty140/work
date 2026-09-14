@@ -1,0 +1,7 @@
+.cyborg .modul-r-guard .input-group input.form-control[type="password"]{
+    border-color: #ffffff;
+}
+
+.slate .modul-r-guard .input-group input.form-control[type="password"]{
+    border-color: #2E3338;
+}

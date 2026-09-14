@@ -1,0 +1,154 @@
+.modul-r-formbuilder .has-check .form-control-feedback,
+.modul-r-formbuilder .has-radio .form-control-feedback {
+    position: relative;
+    display: inline;
+    vertical-align: top;
+    margin-left: 6px;
+    top: 4px;
+    line-height: 100%;
+}
+
+.modul-r-formbuilder .has-radio label,
+.modul-r-formbuilder .has-check label {
+    vertical-align: top;
+}
+
+.modul-r-formbuilder textarea {
+    resize: vertical;
+}
+
+.modul-r-formbuilder .dataSelect select.form-control {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.modul-r-formbuilder .btnCollapse,
+.modul-r-formbuilder .btnCollapse:hover {
+    text-decoration: none;
+}
+
+.modul-r-formbuilder .radio-inline,
+.modul-r-formbuilder .checkbox-inline {
+    margin-right: 10px;
+    vertical-align: top;
+    text-align: left;
+}
+
+.modul-r-formbuilder .radio-inline + .radio-inline,
+.modul-r-formbuilder .checkbox-inline + .checkbox-inline {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.size-xs .modul-r-formbuilder .no-padding-right-lg {
+    padding-right: 15px !important;
+}
+
+.form-horizontalFix .form-group:after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+.modul-r-formbuilder .form-horizontalFix .has-feedback.has-select .form-control-feedback {
+    right: 15px;
+}
+
+.msie .modul-r-formbuilder .form-horizontalFix .has-feedback.has-select .form-control-feedback,
+.Internet.Explorer .modul-r-formbuilder .form-horizontalFix .has-feedback.has-select .form-control-feedback {
+    right: 30px;
+}
+
+.modul-r-formbuilder .input-upload {
+    padding: 0;
+    appearance: textfield;
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.modFinput .has-feedback .glyphicon-asterisk {
+    right: 60px;
+}
+
+.modFinput.form-horizontal .has-feedback .glyphicon-asterisk {
+    right: 75px;
+}
+
+.cosmo .modFinput .has-feedback .glyphicon-asterisk,
+.paper .modFinput .has-feedback .glyphicon-asterisk,
+.superhero .modFinput .has-feedback .glyphicon-asterisk {
+    right: 70px;
+}
+
+.cosmo .modFinput.form-horizontal .has-feedback .glyphicon-asterisk,
+.paper .modFinput.form-horizontal .has-feedback .glyphicon-asterisk,
+.superhero .modFinput.form-horizontal .has-feedback .glyphicon-asterisk {
+    right: 85px;
+}
+
+.paper .modFinput .file_name {
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.modul-r-formbuilder .captcha_container.capchaB .form-group {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.modul-r-formbuilder .input-group-btn > .btn {
+    outline: none;
+}
+
+/* Avoid displaying cursor into input field in IE when Upload btn is focused */
+.modul-r-formbuilder .input-upload::-ms-value {
+    font-size: 0;
+}
+
+.modul-r-formbuilder .tooltip-inner {
+    background-color: #DC3131;
+}
+.modul-r-formbuilder .tooltip.top .tooltip-arrow {
+    border-top-color: #DC3131;
+}
+.modul-r-formbuilder .tooltip.top {
+    bottom: 40px;
+    right: 15px;
+}
+
+.modul-r-formbuilder .signature-wrapper .control-label {
+    display: block;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.modul-r-formbuilder .signature-wrapper .form-control-feedback {
+    right: 8%;
+}
+.modul-r-formbuilder .signature-wrapper .btn {
+    margin-top: 15px;
+}
+.modul-r-formbuilder .e-signature {
+    border: 1px solid;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.modul-r-formbuilder .e-signature.error {
+    border: 1px solid #a94442;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+
+.modul-r-formbuilder .signature-wrapper-inner {
+    position: relative;
+}
+
+.modul-r-formbuilder .signature-wrapper-inner .tooltip {
+    bottom: auto;
+    top: -30px;
+}

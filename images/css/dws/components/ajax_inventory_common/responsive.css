@@ -1,0 +1,178 @@
+.ajax-inventory-preview .width-15 {
+    width: 15%;
+}
+
+.ajax-inventory-preview .width-35 {
+    width: 35%;
+}
+
+.ajax-inventory-preview .width-47 {
+    width: 47%;
+}
+
+.ajax-inventory-preview .image-dummy {
+    padding-bottom: 75%;
+    border-width: 0;
+}
+
+.ajax-inventory-preview .description-dummy {
+    height: 75px;
+}
+
+.ajax-inventory-preview .panel .panel {
+    box-shadow: none;
+}
+
+.vehicle-img-loader {
+    width: 60px;
+    max-width: 80%;
+}
+
+.ajax-inventory-preview .image-dummy .animate-progress,
+.vehicle-img-loader .animate-progress {
+    height: 2px;
+}
+
+.lumen .image-dummy .animate-progress,
+.lumen .vehicle-img-loader .animate-progress {
+    height: 3px;
+}
+
+.ajax-inventory-preview .image-dummy .animate-progress-bar,
+.vehicle-img-loader .animate-progress-bar {
+    -webkit-animation: animate-progress-bar 30s 1 cubic-bezier(0, 0.67, 0.51, 1.01) backwards;
+            animation: animate-progress-bar 30s 1 cubic-bezier(0, 0.67, 0.51, 1.01) backwards;
+    width: 100%;
+}
+
+@keyframes animate-progress-bar {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 90%;
+    }
+}
+
+@-webkit-keyframes animate-progress-bar {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 90%;
+    }
+}
+
+
+.darkie .image-dummy .animate-progress {
+    background-color: #303030;
+}
+
+.darkie .image-dummy .animate-progress-bar {
+    background-color: #737373;
+}
+
+.darkie .vehicle-img-loader .animate-progress {
+    background-color: #464545;
+}
+
+.darkie .vehicle-img-loader .animate-progress-bar {
+    background-color:  #716f6f;
+}
+
+.default .image-dummy .animate-progress,
+.journal .image-dummy .animate-progress,
+.lumen .image-dummy .animate-progress,
+.cerulean .image-dummy .animate-progress,
+.cerulean .vehicle-img-loader .animate-progress,
+.spacelab .image-dummy .animate-progress,
+.spacelab .vehicle-img-loader .animate-progress,
+.united .image-dummy .animate-progress,
+.united .vehicle-img-loader .animate-progress,
+.simplex .image-dummy .animate-progress,
+.simplex .vehicle-img-loader .animate-progress,
+.yeti .image-dummy .animate-progress,
+.yeti .vehicle-img-loader .animate-progress,
+.readable .image-dummy .animate-progress,
+.readable .vehicle-img-loader .animate-progress,
+.lumen .vehicle-img-loader .animate-progress {
+    background-color:  #d9d9d9;
+}
+
+.flatly .image-dummy .animate-progress {
+    background-color:  #cad5d8;
+}
+
+.paper .image-dummy .animate-progress-bar {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.image-dummy .animate-progress-bar,
+.vehicle-img-loader .animate-progress-bar {
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+.cyborg .image-dummy .animate-progress-bar,
+.cyborg .vehicle-img-wrapper .animate-progress-bar {
+    background-color: #5a5a5a;
+}
+
+.slate .image-dummy .animate-progress-bar,
+.slate .vehicle-img-wrapper .animate-progress-bar {
+    background-color: #636363;
+}
+
+.slate .vehicle-img-wrapper .animate-progress {
+    background-color: #32363e;
+}
+
+.paper .image-dummy .animate-progress-bar:last-child:before,
+.paper .vehicle-img-wrapper .animate-progress-bar:last-child:before {
+    background-color: #dedede;
+}
+
+.ajax-inventory-preview .no-border {
+    border-width: 0;
+}
+
+.ajax-inventory-preview .loading-text {
+    opacity: 0.4;
+}
+
+.ajax-inventory-preview .ax-preloader span {
+    box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.17);
+}
+
+.ajax-mode .vehicle-img-wrapper.centered-item-wrapper .vehicle-img {
+    opacity: 1;
+    padding-bottom: 0;
+    max-height: 500px;
+    -webkit-transition: opacity 0.5s 0.3s;
+            transition: opacity 0.5s 0.3s;
+    height: auto;
+}
+
+.ajax-mode .vehicle-img-wrapper.centered-item-wrapper.is-loading .vehicle-img {
+    opacity: 0;
+    padding-bottom: 75%;
+    max-height: 0;
+    height: 0;
+}
+
+.ajax-mode .vehicle-img-wrapper.centered-item-wrapper.is-loading .vehicle-img-loader {
+    opacity: 1;
+}
+
+.ajax-mode .vehicle-img-wrapper.centered-item-wrapper .vehicle-img-loader {
+    opacity: 0;
+    -webkit-transition: opacity 0.5s 0.2s;
+            transition: opacity 0.5s 0.2s;
+}
+
+.ajax-mode .print-group .ajax-reload-disabled.disabled,
+.ajax-mode .print-group-wrap .ajax-reload-disabled.disabled {
+    opacity: 0.65 !important;
+}
+

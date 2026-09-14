@@ -1,0 +1,345 @@
+
+.modul-r-simulcast-calendar {
+}
+
+.modul-r-simulcast-calendar .table-transparent tr,
+.modul-r-simulcast-calendar .table-transparent td {
+  border: none !important;
+  background: transparent !important;
+}
+
+.modul-r-simulcast-calendar table.media-middle td,
+.modul-r-simulcast-calendar table.media-middle-top td,
+.modul-r-simulcast-calendar table.layout-compact td span {
+  vertical-align: middle;
+}
+
+.modul-r-simulcast-calendar table.media-middle td:first-child {
+  width: 7%;
+}
+
+.modul-r-simulcast-calendar table.media-middle td:nth-child(2) {
+  width: 60%;
+}
+
+.modul-r-simulcast-calendar table.media-middle td:nth-child(3),
+.modul-r-simulcast-calendar table.media-middle td:last-child,
+.modul-r-simulcast-calendar table.media-middle-top td:nth-child(2),
+.modul-r-simulcast-calendar table.media-middle-top td:last-child {
+  width: 16%;
+}
+
+.modul-r-simulcast-calendar table.media-middle-top td:first-child {
+  width: 68%;
+}
+
+.modul-r-simulcast-calendar .lane-box {
+  line-height: 4em;
+  height: 4em;
+}
+
+.modul-r-simulcast-calendar .lane-box .text-left {
+  font-size: 160%;
+}
+
+.modul-r-simulcast-calendar .btn-text {
+  cursor: default;
+  border-color: transparent;
+  box-shadow: none;
+}
+
+.modul-r-simulcast-calendar .btn-text:hover,
+.modul-r-simulcast-calendar .btn-text:active {
+  color: inherit;
+}
+
+.modul-r-simulcast-calendar .btn-label {
+  cursor: default;
+  opacity: 1;
+}
+
+.modul-r-simulcast-calendar .btn-fa .fa {
+  position: relative;
+  width: 1em;
+  left: -2px;
+}
+
+.modul-r-simulcast-calendar .btn-fa:before {
+  content: ".";
+  visibility: hidden;
+  width: 0;
+  display: inline-block;
+}
+
+.modul-r-simulcast-calendar .btn-fa .fa-plus {
+  display: none;
+}
+
+.modul-r-simulcast-calendar .btn-fa .fa-minus {
+  display: inline-block;
+}
+
+.modul-r-simulcast-calendar .btn-fa.collapsed .fa-plus {
+  display: inline-block;
+}
+
+.modul-r-simulcast-calendar .btn-fa.collapsed .fa-minus {
+  display: none;
+}
+
+.modul-r-simulcast-calendar .lane-name {
+  min-width: 150px;
+  text-align: left;
+  padding-left: 10px !important;
+}
+
+.modul-r-simulcast-calendar .lane-name.without-time {
+  min-width: 110px;
+}
+
+.modul-r-simulcast-calendar .lane-date {
+  min-width: 110px;
+  text-align: left;
+}
+
+.modul-r-simulcast-calendar .event-group .input-group-addon {
+  cursor: pointer;
+}
+
+.modul-r-simulcast-calendar .event-group {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 220px;
+  margin-right: 1em;
+}
+
+.modul-r-simulcast-calendar .event-group.no-print-button {
+  margin-right: 0;
+}
+
+.modul-r-simulcast-calendar .event-group .form-control {
+  min-width: 210px;
+}
+
+.modul-r-simulcast-calendar .event-group .input-group-addon {
+  cursor: pointer;
+}
+
+.modul-r-simulcast-calendar .layout-compact tr:first-child > td {
+  border-top: none;
+}
+
+.modul-r-simulcast-calendar .layout-compact td > span {
+  white-space: nowrap;
+}
+
+.modul-r-simulcast-calendar .layout-advanced .lane-padding {
+  padding-left: 50px;
+}
+
+.modul-r-simulcast-calendar .layout-advanced .lane-padding > .btn-fa {
+  margin-left: -50px;
+  text-decoration: none;
+}
+
+.modul-r-simulcast-calendar .layout-advanced .join-btn {
+  min-width: 21em;
+}
+
+.modul-r-simulcast-calendar .layout-advanced .join-btn.without-time {
+  min-width: 16em;
+}
+
+.modul-r-simulcast-calendar .layout-compact .date {
+  display: inline-block;
+  min-width: 5em;
+}
+
+.modul-r-simulcast-calendar .compact .event-name {
+  min-width: 250px;
+  text-align: left;
+}
+
+.modul-r-simulcast-calendar .check-lane-list {
+  border-top: none;
+  border-bottom: none;
+  margin: 0;
+}
+
+.modul-r-simulcast-calendar .check-lane-list > li {
+  padding-top: 0;
+  padding-bottom: 0;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+}
+
+.modul-r-simulcast-calendar .check-lane-list > li:first-child {
+  border-top: none;
+}
+
+.modul-r-simulcast-calendar .check-lane-list > li:last-child {
+  border-bottom: none;
+}
+
+.modul-r-simulcast-calendar .empty-mesg {
+  font-size: 90%;
+  padding-left: 15px;
+  text-align: left;
+  white-space: normal;
+}
+
+.modul-r-simulcast-calendar .table-responsive {
+  border: none;
+}
+
+.table-condensed > tbody > tr > .image-box {
+  padding-left: 60px;
+}
+
+.modul-r-simulcast-calendar .image-container {
+  width: 53px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+
+.modul-r-simulcast-calendar .image-container > img {
+  width: auto;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.modul-r-simulcast-calendar .panel-heading .btn {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+@media all and (max-width: 767px) and (min-width: 431px) {
+}
+
+@media all and (max-width: 430px) and (min-width: 0) {
+  .modul-r-simulcast-calendar .event-group {
+    width: 68%;
+    text-align: left;
+    max-width: none;
+  }
+
+  .modul-r-simulcast-calendar .event-group.no-print-button {
+    width: 100%;
+  }
+
+  .modul-r-simulcast-calendar .event-group .form-control {
+    width: 100%;
+  }
+
+  .modul-r-simulcast-calendar .print_btn {
+    width: 24%;
+  }
+
+  .modul-r-simulcast-calendar .btn-fa.auth-true .fa-plus:before,
+  .modul-r-simulcast-calendar .btn-fa.auth-true .fa-minus:before {
+    top: .5em;
+    position: relative;
+  }
+
+  .modul-r-simulcast-calendar .layout-advanced .join-btn {
+    min-width: 14em;
+  }
+
+  .modul-r-simulcast-calendar .layout-advanced .join-btn.without-time {
+    min-width: 10em;
+  }
+
+  .modul-r-simulcast-calendar .layout-advanced .lane-padding {
+    padding-left: 0;
+  }
+
+  .modul-r-simulcast-calendar .layout-advanced .lane-padding > .btn-fa {
+    margin-left: 0;
+  }
+
+  .modul-r-simulcast-calendar .fix-pull {
+    float: none !important;
+  }
+}
+
+.modul-r-simulcast-calendar .vehicles-count .label {
+  min-width: 10px;
+  padding: 3px 7px;
+  border-radius: 10px;
+  font-size: 85%;
+}
+
+.modul-r-simulcast-calendar .calendar-group .vehicles-count {
+  margin-left: 10px;
+}
+
+.modul-r-simulcast-calendar .auction-event-name > b:first-child {
+  margin-right: 10px;
+}
+
+.modul-r-simulcast-calendar .event-header {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.modul-r-simulcast-calendar .description2 {
+  font-size: 90%;
+}
+
+.modul-r-simulcast-calendar .flex-box {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media (max-width: 767px) {
+  .modul-r-simulcast-calendar .auction-event-name {
+    white-space: normal;
+    text-align: left;
+    padding: 10px 5px;
+    width: 80%;
+  }
+
+  .modul-r-simulcast-calendar .vehicles-count {
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 800px) {
+  .modul-r-simulcast-calendar .table-condensed .image-box {
+    padding-left: 15px;
+  }
+
+  .modul-r-simulcast-calendar .label-consignor,
+  .modul-r-simulcast-calendar .label-vehicles {
+    padding-top: 0;
+    white-space: normal;
+    text-align: left;
+  }
+
+  .modul-r-simulcast-calendar .label-vehicles {
+    white-space: nowrap;
+  }
+
+  .modul-r-simulcast-calendar .image-box + td {
+    width: 70%;
+  }
+}
+
+@media (max-width: 430px) {
+  .modul-r-simulcast-calendar .auction-event-name {
+    width: 100%;
+  }
+
+  .modul-r-simulcast-calendar .image-box + td {
+    width: 100%;
+  }
+}

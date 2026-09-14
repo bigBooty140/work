@@ -1,0 +1,170 @@
+.btn.close-coupon:focus {
+    outline: medium none !important;
+    outline-offset: 0 !important;
+}
+
+.coupon-r-banner.affix {
+    z-index: 1071;
+    max-width: 90%;
+    max-height: 90%;
+    position: fixed;
+}
+
+.banner-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.btn.close-coupon {
+    z-index: 1000;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: normal;
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.coupon-wrap {
+    position: fixed;
+    z-index: 1072;
+}
+
+.coupon-left-top {
+    margin: 0 auto;
+    top: 35px;
+    left: 23px;
+}
+
+.coupon-left-center {
+    margin: auto 0;
+    top: 0;
+    left: 23px;
+    bottom: 0;
+}
+
+.coupon-left-bottom {
+    margin: 0 auto;
+    bottom: 23px;
+    left: 23px;
+}
+
+.coupon-right-top {
+    margin: 0 auto;
+    top: 35px;
+    right: 23px;
+}
+
+.coupon-right-center {
+    margin: auto 0;
+    top: 0;
+    right: 23px;
+    bottom: 0;
+}
+
+.coupon-right-bottom {
+    margin: 0 auto;
+    bottom: 23px;
+    right: 23px;
+}
+
+.coupon-center-top {
+    margin: 0 auto;
+    top: 35px;
+    left: 23px;
+    right: 0;
+}
+
+.coupon-center-bottom {
+    margin: 0 auto;
+    bottom: 23px;
+    left: 0;
+    right: 0;
+}
+
+.coupon-center-center {
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.coupon-reference {
+    position: fixed;
+    cursor: pointer;
+    z-index: 99999;
+    box-shadow: 0 0 58px rgba(0, 0, 0, .11), 0 20px 31px rgba(0, 0, 0, .19), 0 4px 8px rgba(0, 0, 0, .17);
+}
+
+.coupon-reference.coupon-left-top-cl {
+    top: 10px;
+    left: 10px;
+}
+
+.coupon-reference.coupon-left-center-cl {
+    top: 50%;
+    left: 10px;
+}
+
+.coupon-reference.coupon-left-bottom-cl {
+    bottom: 10px;
+    left: 10px;
+}
+
+.coupon-reference.coupon-right-top-cl {
+    top: 10px;
+    right: 10px;
+}
+
+.coupon-reference.coupon-right-center-cl {
+    top: 50%;
+    right: 10px;
+}
+
+.coupon-reference.coupon-right-bottom-cl {
+    bottom: 10px;
+    right: 10px;
+}
+
+img.coupon-r-banner {
+    box-shadow: 0 7px 22px rgba(0, 0, 0, .32), 0 31px 36px rgba(0, 0, 0, .09);
+}
+
+@media (max-width: 768px) {
+    .coupon-left-top {
+        left: 3px;
+    }
+
+    .coupon-left-center {
+        left: 3px;
+    }
+
+    .coupon-left-bottom {
+        bottom: 3px;
+        left: 3px;
+    }
+
+    .coupon-right-top {
+        right: 3px;
+    }
+
+    .coupon-right-center {
+        right: 3px;
+    }
+
+    .coupon-right-bottom {
+        bottom: 3px;
+        right: 3px;
+    }
+
+    .coupon-center-top {
+        left: 3px;
+    }
+}
