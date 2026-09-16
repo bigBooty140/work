@@ -3084,7 +3084,7 @@ h1, h2, h3, h4, h5, h6, h7,
             >
                 <ul class="nav navbar-nav">
                                                                                                 <li class="full-width-in-thin level-top">
-                                <a href="simulcast-calendar.html"
+                                <a href="simulcast-calendar.php"
                                    style="font-size: 17px"
                                                                     >
                                     Auctions                                </a>
@@ -3132,7 +3132,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                 <ul class="dropdown-menu">
                                                                                                                     <li class="full-width-in-thin">
                                             <a href="media/dealer_101/storage/docs/STEP_BY_STEP_ONLINE_AUCTION_GUIDE__1_.pdf" style="font-size: 17px"
-                                                                                            >
+ target="_blank"                                                                                          >
                                                 Download Help Document                                            </a>
                                         </li>
                                                                                                                     <li class="full-width-in-thin">
@@ -3152,7 +3152,7 @@ h1, h2, h3, h4, h5, h6, h7,
                         <ul class="dropdown-menu list-collapse dropdown-menu-right"
                         >
                                                                                                                                 <li class="full-width-in-thin">
-                                        <a href="simulcast-calendar.html"
+                                        <a href="simulcast-calendar.php"
                                            style="font-size: 17px"
                                                                                     >
                                             Auctions                                        </a>
@@ -3676,7 +3676,7 @@ h1, h2, h3, h4, h5, h6, h7,
                         var grid_active = false;
                     };
 
-            var search_url = "advance-search-test.php";
+            var search_url = "advance-search.php";
 
             var zipFromUrl = '';
             var zipRangeFromUrl = '';
@@ -6471,7 +6471,7 @@ h1, h2, h3, h4, h5, h6, h7,
         <h3>BUY</h3>
     </header>
     <ul>
-      <li><a href="simulcast-calendar.html">Auctions</a></li>
+      <li><a href="simulcast-calendar.php">Auctions</a></li>
         <li><a href="media/dealer_101/storage/docs/Auction_Calculator.pdf" target="_blank">Auction Calculator</a></li>
         <li><a href="/-searchLink" data-toggle="modal" >Search</a> </li>
         <li><a href="terms-and-conditions.html">Terms and conditions</a></li>
@@ -6496,7 +6496,7 @@ h1, h2, h3, h4, h5, h6, h7,
     </header>
     <ul>
          <li><a href="https://www.mfc.co.za/budget-calculator" target="_blank">Budget calculator</a></li>
-         <li><a href="simulcast-calendar.html">Upcoming auctions</a></li>
+         <li><a href="simulcast-calendar.php">Upcoming auctions</a></li>
          <li><a href="media/dealer_101/storage/docs/STEP_BY_STEP_ONLINE_AUCTION_GUIDE__1_.pdf" target="_blank">Step-by-step guide</a></li>
          <li><a href="media/dealer_101/storage/docs/MFC_Auction_House_Directions_GPS.pdf" target="_blank">Map and directions</a></li>
       <li><a href="https://www.mfc.co.za/finance-options" target="_blank">Finance options</a></li>

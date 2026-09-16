@@ -1,464 +1,460 @@
-    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-            <html xmlns="http://www.w3.org/1999/xhtml">
-    
-<!-- Mirrored from www.mfcauctions.co.za/our-banking-details by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Feb 2026 12:43:36 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from www.mfcauctions.co.za/simulcast-calendar by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Feb 2026 12:42:35 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
 <head>
-<script type="text/javascript">
-    //<!--
-    <!-- Google Tag Manager -->
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-MQJ84673');
-    <!-- End Google Tag Manager -->
-        //-->
-</script>
-<title>our-banking-details | NedbankMFC</title>
-<meta name="google-site-verification" content="R7jCLmLy_MgmVSzKz1L3LrIoYq0dh5UqgGZzS0ok01k" >
-<meta http-equiv="content-type" content="application/xhtml; charset=UTF-8" >
-<meta name="csrf-token" content="c6017dc5bff09637196d70295761e707" >
-<meta name="apple-mobile-web-app-capable" content="yes" >
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" >
-<meta name="HandheldFriendly" content="yes" >
-<meta name="mobile-web-app-capable" content="yes" >
-<meta name="showonmobile" content="true" >
-<meta name="description" content="" >
-<meta name="keywords" content="" >
-<meta http-equiv="content-type" content="application/xhtml; charset=UTF-8" >
-<link href="css/dws/styles_responsive/print/bootstrap.min.css" media="print" rel="stylesheet" >
-<link href="css/dws/axgrid.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/font-glyphicons.min.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="media/dealer_101/storage/themes/scheme-1698230266422.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/styler/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/container/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/coupons_banners/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/jquery.jgrowl.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/buyers_tools_panel/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/menu_advanced/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/custom_button/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/inventory_items/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/search_advanced_horizontal/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/rangeSlider/css/ion.rangeSlider.skinDefault.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/rangeSlider/css/ion.rangeSlider.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="media/dealer_101/favicons/e445d5e31a2792f8528dcdbc3bd8ed75.ico" rel="icon" type="image/x-icon" >
-<link href="media/dealer_101/favicons/e445d5e31a2792f8528dcdbc3bd8ed75.ico" rel="shortcut icon" type="image/x-icon" >
 
-<style type="text/css" media="screen">
-<!--
+    <title>Simulcast Calendar | NedbankMFC</title>
+    <meta http-equiv="content-type" content="application/xhtml; charset=UTF-8">
+    <meta name="csrf-token" content="c6017dc5bff0963752a01e1a1be2080c">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="HandheldFriendly" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="showonmobile" content="true">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta http-equiv="content-type" content="application/xhtml; charset=UTF-8">
+    <link href="css/dws/styles_responsive/print/bootstrap.min.css" media="print" rel="stylesheet">
+    <link href="css/dws/axgrid.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/font-glyphicons.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="media/dealer_101/storage/themes/scheme-1698230266422.css" media="screen" rel="stylesheet"
+        type="text/css">
+    <link href="css/dws/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/styler/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/container/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/simulcast/calendar/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap/plugins/datetimepicker/bootstrap-datetimepicker.css" media="screen" rel="stylesheet"
+        type="text/css">
+    <link href="css/dws/components/coupons_banners/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/jquery.jgrowl.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/buyers_tools_panel/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/menu_advanced/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/custom_button/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/inventory_items/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/search_advanced_horizontal/responsive.css" media="screen" rel="stylesheet"
+        type="text/css">
+    <link href="css/rangeSlider/css/ion.rangeSlider.skinDefault.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/rangeSlider/css/ion.rangeSlider.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="media/dealer_101/favicons/e445d5e31a2792f8528dcdbc3bd8ed75.ico" rel="icon" type="image/x-icon">
+    <link href="media/dealer_101/favicons/e445d5e31a2792f8528dcdbc3bd8ed75.ico" rel="shortcut icon" type="image/x-icon">
 
-                                
-                            @media (min-width: 1200px) {
-            
-                .container-6981ed332fff4 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
+    <style type="text/css" media="screen">
+        <!--
+        @media (min-width: 1200px) {
+
+            .container-6981ed2cbbfb0 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
             }
-                    
-                            @media (max-width: 1199px) and (min-width: 992px) {
-            
-                .container-6981ed332fff4 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 991px) and (min-width: 768px) {
-            
-                .container-6981ed332fff4 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 767px) {
-            
-                .container-6981ed332fff4 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-            
-                                
-                            @media (min-width: 1200px) {
-            
-                .container-6981ed3330054 {
-                                                                                                                                                                                                                            background-color: rgba(242,249,245,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 1199px) and (min-width: 992px) {
-            
-                .container-6981ed3330054 {
-                                                                                                                                                                                                                            background-color: rgba(242,249,245,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 991px) and (min-width: 768px) {
-            
-                .container-6981ed3330054 {
-                                                                                                                                                                                                                            background-color: rgba(242,249,245,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 767px) {
-            
-                .container-6981ed3330054 {
-                                                                                                                                                                                                                            background-color: rgba(242,249,245,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-            
-                                
-                            @media (min-width: 1200px) {
-            
-                .container-6981ed333007e {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 1199px) and (min-width: 992px) {
-            
-                .container-6981ed333007e {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 991px) and (min-width: 768px) {
-            
-                .container-6981ed333007e {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 767px) {
-            
-                .container-6981ed333007e {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-            
-    .adv-6981ed333b4cd.navbar-default,
-    .adv-6981ed333b4cd.navbar-inverse {
-        background-image: none;
-            background-color: rgba(0,99,65,1);
-            border-color: rgba(0,99,65,1);
         }
 
-    .adv-6981ed333b4cd .dropdown-menu {
-        background-image: none;
-            background-color: rgba(0,99,65,1) !important;
-            border-color: rgba(0,99,65,1);
-        }
+        @media (max-width: 1199px) and (min-width: 992px) {
 
-        .adv-6981ed333b4cd.navbar-default .navbar-nav > li > a,
-    .adv-6981ed333b4cd.navbar-default .navbar-brand,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav > li > a,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-brand {
-        color: rgba(255,255,255,1);
-    }
-    .adv-6981ed333b4cd.navbar-default .navbar-toggle .icon-bar,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-toggle .icon-bar {
-        background-color: rgba(255,255,255,1);
-    }
-            .adv-6981ed333b4cd.navbar-default .navbar-toggle:hover .icon-bar,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-toggle:hover .icon-bar {
-        background-color: rgba(230,230,230,1);
-    }
-    
-    .adv-6981ed333b4cd.navbar-default .navbar-nav > li > a:hover,
-    .adv-6981ed333b4cd.navbar-default .navbar-nav > li > a:focus,
-    .adv-6981ed333b4cd.navbar-default .navbar-nav > li.hide-item > a,
-    .adv-6981ed333b4cd.navbar-default .navbar-nav > .multi-level-open > a,
-    .adv-6981ed333b4cd.navbar-default .navbar-nav > .multi-level-open > a:hover,
-    .adv-6981ed333b4cd.navbar-default .navbar-nav > .multi-level-open > a:focus,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav > li > a:hover,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav > li > a:focus,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav > li.hide-item > a,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav > .multi-level-open > a,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav > .multi-level-open > a:hover,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav > .multi-level-open > a:focus,
-    .adv-6981ed333b4cd.navbar-default .navbar-toggle:hover,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-toggle:hover,
-    .adv-6981ed333b4cd.navbar-default .navbar-toggle:focus,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-toggle:focus {
-        background-image: none;
-            color: rgba(230,230,230,1) !important;
-            background-color: rgba(0,99,65,1);
-        }
-
-    .adv-6981ed333b4cd .dropdown-menu > li > a,
-    .adv-6981ed333b4cd.navbar-default .navbar-nav .multi-level-open .dropdown-menu > li > a,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu > li > a {
-            color: rgba(255,255,255,1);
-        }
-
-    .adv-6981ed333b4cd .dropdown-menu > li > a:hover,
-    .adv-6981ed333b4cd .dropdown-menu > li > a:focus,
-    .adv-6981ed333b4cd.navbar-default .navbar-nav .multi-level-open .dropdown-menu > li > a:hover,
-    .adv-6981ed333b4cd.navbar-default .navbar-nav .multi-level-open .dropdown-menu > li > a:focus,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu > li > a:hover,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu > li > a:focus,
-    .adv-6981ed333b4cd .multi-level-open .dropdown-menu > li.multi-level-open > a {
-        background-image: none;
-            background-color: rgba(0,99,65,1);
-            color: rgba(230,230,230,1);
-        }
-
-    .adv-6981ed333b4cd.navbar-default .navbar-toggle,
-    .adv-6981ed333b4cd.navbar-inverse .navbar-toggle {
-        background-image: none;
-            border-color: rgba(0,99,65,1);
+            .container-6981ed2cbbfb0 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
             }
-
-    
-    .adv-6981ed333b4cd .dropdown-menu > .multi-level-open > a,
-    .adv-6981ed333b4cd .dropdown-menu > .multi-level-open > a:hover,
-    .adv-6981ed333b4cd .dropdown-menu > .multi-level-open > a:focus {
-            background-color: rgba(0,99,65,1);
-            color: rgba(230,230,230,1) !important;
         }
-    
-        
-    .modul-r-login .mlog-custom-fb-botton {
-        width: 89px;
-        height: 22px !important;
-        cursor: pointer;
-        background: transparent url("images/dws/components/loa/facebook.png") no-repeat;
-    }
 
-    .modul-login .dws_login_form input[type="checkbox"],
-    .modul-login .dws_login_form input[type="checkbox"] ~ span {
-        margin-top: 0;
-        vertical-align: middle;
-    }
+        @media (max-width: 991px) and (min-width: 768px) {
 
-    .modul-r-login .fb-login-button {
-        height: 20px;
-        float: left;
-        margin: 6px 0 10px;
-    }
+            .container-6981ed2cbbfb0 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
 
-    /* Custom fix for wrong caret position for input field
+        @media (max-width: 767px) {
+
+            .container-6981ed2cbbfb0 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+
+        @media (min-width: 1200px) {
+
+            .container-6981ed2cbc054 {
+                background-color: rgba(242, 249, 245, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 1199px) and (min-width: 992px) {
+
+            .container-6981ed2cbc054 {
+                background-color: rgba(242, 249, 245, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 991px) and (min-width: 768px) {
+
+            .container-6981ed2cbc054 {
+                background-color: rgba(242, 249, 245, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 767px) {
+
+            .container-6981ed2cbc054 {
+                background-color: rgba(242, 249, 245, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+
+        @media (min-width: 1200px) {
+
+            .container-6981ed2cbc07b {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 1199px) and (min-width: 992px) {
+
+            .container-6981ed2cbc07b {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 991px) and (min-width: 768px) {
+
+            .container-6981ed2cbc07b {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 767px) {
+
+            .container-6981ed2cbc07b {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        .adv-6981ed2cc6d8a.navbar-default,
+        .adv-6981ed2cc6d8a.navbar-inverse {
+            background-image: none;
+            background-color: rgba(0, 99, 65, 1);
+            border-color: rgba(0, 99, 65, 1);
+        }
+
+        .adv-6981ed2cc6d8a .dropdown-menu {
+            background-image: none;
+            background-color: rgba(0, 99, 65, 1) !important;
+            border-color: rgba(0, 99, 65, 1);
+        }
+
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav>li>a,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-brand,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav>li>a,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-brand {
+            color: rgba(255, 255, 255, 1);
+        }
+
+        .adv-6981ed2cc6d8a.navbar-default .navbar-toggle .icon-bar,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-toggle .icon-bar {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .adv-6981ed2cc6d8a.navbar-default .navbar-toggle:hover .icon-bar,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-toggle:hover .icon-bar {
+            background-color: rgba(230, 230, 230, 1);
+        }
+
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav>li>a:hover,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav>li>a:focus,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav>li.hide-item>a,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav>.multi-level-open>a,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav>.multi-level-open>a:hover,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav>.multi-level-open>a:focus,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav>li>a:hover,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav>li>a:focus,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav>li.hide-item>a,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav>.multi-level-open>a,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav>.multi-level-open>a:hover,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav>.multi-level-open>a:focus,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-toggle:hover,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-toggle:hover,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-toggle:focus,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-toggle:focus {
+            background-image: none;
+            color: rgba(230, 230, 230, 1) !important;
+            background-color: rgba(0, 99, 65, 1);
+        }
+
+        .adv-6981ed2cc6d8a .dropdown-menu>li>a,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav .multi-level-open .dropdown-menu>li>a,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu>li>a {
+            color: rgba(255, 255, 255, 1);
+        }
+
+        .adv-6981ed2cc6d8a .dropdown-menu>li>a:hover,
+        .adv-6981ed2cc6d8a .dropdown-menu>li>a:focus,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav .multi-level-open .dropdown-menu>li>a:hover,
+        .adv-6981ed2cc6d8a.navbar-default .navbar-nav .multi-level-open .dropdown-menu>li>a:focus,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu>li>a:hover,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu>li>a:focus,
+        .adv-6981ed2cc6d8a .multi-level-open .dropdown-menu>li.multi-level-open>a {
+            background-image: none;
+            background-color: rgba(0, 99, 65, 1);
+            color: rgba(230, 230, 230, 1);
+        }
+
+        .adv-6981ed2cc6d8a.navbar-default .navbar-toggle,
+        .adv-6981ed2cc6d8a.navbar-inverse .navbar-toggle {
+            background-image: none;
+            border-color: rgba(0, 99, 65, 1);
+        }
+
+
+        .adv-6981ed2cc6d8a .dropdown-menu>.multi-level-open>a,
+        .adv-6981ed2cc6d8a .dropdown-menu>.multi-level-open>a:hover,
+        .adv-6981ed2cc6d8a .dropdown-menu>.multi-level-open>a:focus {
+            background-color: rgba(0, 99, 65, 1);
+            color: rgba(230, 230, 230, 1) !important;
+        }
+
+
+        .modul-r-login .mlog-custom-fb-botton {
+            width: 89px;
+            height: 22px !important;
+            cursor: pointer;
+            background: transparent url("images/dws/components/loa/facebook.png") no-repeat;
+        }
+
+        .modul-login .dws_login_form input[type="checkbox"],
+        .modul-login .dws_login_form input[type="checkbox"]~span {
+            margin-top: 0;
+            vertical-align: middle;
+        }
+
+        .modul-r-login .fb-login-button {
+            height: 20px;
+            float: left;
+            margin: 6px 0 10px;
+        }
+
+        /* Custom fix for wrong caret position for input field
        inside a fixed position parent on iOS 11. Bug #12046 */
-    body.ios-bugfix-caret.modal-open {
-        position: fixed;
-        width: 100%;
-    }
+        body.ios-bugfix-caret.modal-open {
+            position: fixed;
+            width: 100%;
+        }
+        -->
+    </style>
+    <script type="text/javascript">
+        //<!--
+        window.btNotifyFormSuccess = "";
 
--->
-</style>
-<script type="text/javascript">
-    //<!--
-    window.btNotifyFormSuccess = "";
-
-    /**
-    * bt - Buyers Tools
-    * vd - Vehicle Details
-    */
-    window.btText = {
-    btSaveButtonText: 'Save This Car!',
-    btSavedButtonText: 'Saved!',
-    btSavedButtonHoverText: 'Remove Vehicle',
-    btRemoveButtonText: 'Remove This Car!',
-    vdSaveButtonText: 'Watch',
-    vdSaveButtonTitle: 'Save This Car',
-    vdRemoveButtonText: 'Remove',
-    vdRemoveButtonTitle: 'Remove Car'
-    };
-    var isAuthorized = false;
-    var vehicleCookiesFlag = 0;
+        /**
+        * bt - Buyers Tools
+        * vd - Vehicle Details
+        */
+        window.btText = {
+            btSaveButtonText: 'Save This Car!',
+            btSavedButtonText: 'Saved!',
+            btSavedButtonHoverText: 'Remove Vehicle',
+            btRemoveButtonText: 'Remove This Car!',
+            vdSaveButtonText: 'Watch',
+            vdSaveButtonTitle: 'Save This Car',
+            vdRemoveButtonText: 'Remove',
+            vdRemoveButtonTitle: 'Remove Car'
+        };
+        var isAuthorized = false;
+        var vehicleCookiesFlag = 0;
 
 
-    //-->
-</script>
-<script type="text/javascript">
-    //<!--
-strSaving = 'Saving Vehicle...';
-strRemoving = 'Removing Vehicle...';
-    //-->
-</script>
-<script type="text/javascript">
-    //<!--
-var CSRF_GLOBAL_TOKEN_NAME = "csrf_token";
-var CSRF_GLOBAL_TOKEN_LIFETIME = "300";
-var dealershipName = "NedbankMFC";
-var advSearchVehicleTags = {"data":{"1":{"id":31,"name":"ADESA"},"2":{"id":29,"name":"Premium Vehicle"},"3":{"id":33,"name":"SmartAuction"},"-1":"None"},"not_select":"","select":""};    //-->
-</script>
-<script type="text/javascript">
-    //<!--
-var loadedScriptLinks = ["\/js\/jquery\/jquery-1.11.2.min.js","#\/js\/jquery\/jquery.browser.min.js","#\/js\/dws\/control_responsive.js","#\/js\/bootstrap\/bootstrap.min.js","#\/js\/dws\/system.js","#\/js\/vue.js","#\/js\/jquery\/jquery.jgrowl-1.4.5.min.js","#\/js\/jalert.js","#\/js\/bootstrap\/plugins\/moment\/moment.min.js","#\/js\/dws\/buers_tools_panel_responsive.js","#\/js\/dws\/menu_advanced_responsive.js","#\/js\/dws\/button.js","#\/js\/dws\/inventory_keyword_search.js","#\/js\/jquery\/jquery.cookie.js","#\/js\/jquerystatus.js","#\/js\/dws\/fb_login.js","#\/js\/dws\/form.js","#\/js\/dws\/login_responsive.js","#\/js\/jquery\/jquery.timeago.js","#\/js\/json.js","#\/js\/date.js","#\/js\/dws\/compare_vehiclelist_responsive.js","#\/js\/dws\/inventory_items_buyers_tools_responsive.js","#\/js\/dws\/advanced_search.js","#\/js\/jquery\/jquery.json-2.2.min.js","#\/js\/dws\/advanced_search\/ion.rangeSlider.2.1.2.js","js//\/jquery\/jquery.cookie.js","#\/js\/dws\/adv_filter_horizontal_responsive.js","#\/js\/dws\/advanced_search\/ion.rangeSlider.2.1.2.min.js","#\/js\/jquery\/jquery.validate.js","#\/js\/jquery\/jquery.selectchain.js","#\/js\/dws\/form_validation_rules.js","#\/js\/dws\/form_validation_responsive.js","#\/js\/jquery\/jquery.maskedinput.js","#\/js\/dws\/notifyme_responsive.js","#\/js\/dws\/GoogleAnalytics\/GoogleAnalytics.js","#\/js\/piwik.js","#\/js\/KeyUppressForForm.js","\/piwik\/plugins\/ClickHeat\/libs\/js\/clickheat-original.js"];var loadedStyleLinks = ["\/css\/dws\/axgrid.css","#\/css\/dws\/font-glyphicons.min.css","#\/media\/dealer_101\/storage\/themes\/scheme-1698230266422.css","#\/css\/dws\/font-awesome.min.css","#\/css\/dws\/components\/styler\/responsive.css","#\/css\/dws\/components\/container\/responsive.css","#\/css\/dws\/components\/coupons_banners\/responsive.css","#\/css\/jquery.jgrowl.css","#\/css\/dws\/components\/buyers_tools_panel\/responsive.css","#\/css\/dws\/components\/menu_advanced\/responsive.css","#\/css\/dws\/components\/custom_button\/responsive.css","#\/css\/dws\/components\/inventory_items\/responsive.css","#\/css\/dws\/components\/search_advanced_horizontal\/responsive.css","#\/css\/rangeSlider\/css\/ion.rangeSlider.skinDefault.css","\/css\/rangeSlider\/css\/ion.rangeSlider.css"];    //-->
-</script>
-<script type="text/javascript" src="js/jquery/jquery-1.11.2.min.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.browser.min.js"></script>
-<script type="text/javascript" src="js/dws/control_responsive.js"></script>
-<script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/dws/system.js"></script>
-<script type="text/javascript" src="js/vue.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.jgrowl-1.4.5.min.js"></script>
-<script type="text/javascript" src="js/jalert.js"></script>
-<script type="text/javascript" src="js/bootstrap/plugins/moment/moment.min.js"></script>
-<script type="text/javascript" src="js/dws/buers_tools_panel_responsive.js"></script>
-<script type="text/javascript" src="js/dws/menu_advanced_responsive.js"></script>
-<script type="text/javascript" src="js/dws/button.js"></script>
-<script type="text/javascript" src="js/dws/inventory_keyword_search.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.cookie.js"></script>
-<script type="text/javascript" src="js/jquerystatus.js"></script>
-<script type="text/javascript" src="js/dws/fb_login.js"></script>
-<script type="text/javascript" src="js/dws/form.js"></script>
-<script type="text/javascript" src="js/dws/login_responsive.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.timeago.js"></script>
-<script type="text/javascript" src="js/json.js"></script>
-<script type="text/javascript" src="js/date.js"></script>
-<script type="text/javascript" src="js/dws/compare_vehiclelist_responsive.js"></script>
-<script type="text/javascript" src="js/dws/inventory_items_buyers_tools_responsive.js"></script>
-<script type="text/javascript" src="js/dws/advanced_search.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.json-2.2.min.js"></script>
-<script type="text/javascript" src="js/dws/advanced_search/ion.rangeSlider.2.1.2.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.cookie.js"></script>
-<script type="text/javascript" src="js/dws/adv_filter_horizontal_responsive.js"></script>
-<script type="text/javascript" src="js/dws/advanced_search/ion.rangeSlider.2.1.2.min.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.validate.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.selectchain.js"></script>
-<script type="text/javascript" src="js/dws/form_validation_rules.js"></script>
-<script type="text/javascript" src="js/dws/form_validation_responsive.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.maskedinput.js"></script>
-<script type="text/javascript" src="js/dws/notifyme_responsive.js"></script>
-<script type="text/javascript" src="js/dws/GoogleAnalytics/GoogleAnalytics.js"></script>
-<script type="text/javascript" src="js/piwik.js"></script>
-<script type="text/javascript" src="js/KeyUppressForForm.js"></script>
-<script type="text/javascript" src="piwik/plugins/ClickHeat/libs/js/clickheat-original.js"></script>
-<script type="text/javascript">
-    //<!--
+        //-->
+    </script>
+    <script type="text/javascript">
+        //<!--
+        strSaving = 'Saving Vehicle...';
+        strRemoving = 'Removing Vehicle...';
+        //-->
+    </script>
+    <script type="text/javascript">
+        //<!--
+        var CSRF_GLOBAL_TOKEN_NAME = "csrf_token";
+        var CSRF_GLOBAL_TOKEN_LIFETIME = "300";
+        var dealershipName = "NedbankMFC";
+        var advSearchVehicleTags = { "data": { "1": { "id": 31, "name": "ADESA" }, "2": { "id": 29, "name": "Premium Vehicle" }, "3": { "id": 33, "name": "SmartAuction" }, "-1": "None" }, "not_select": "", "select": "" };    //-->
+    </script>
+    <script type="text/javascript">
+        //<!--
+        var loadedScriptLinks = ["\/js\/jquery\/jquery-1.11.2.min.js", "#\/js\/jquery\/jquery.browser.min.js", "#\/js\/dws\/control_responsive.js", "#\/js\/bootstrap\/bootstrap.min.js", "#\/js\/dws\/system.js", "#\/js\/vue.js", "#\/js\/jquery\/jquery.jgrowl-1.4.5.min.js", "#\/js\/jalert.js", "#\/js\/bootstrap\/plugins\/moment\/moment.min.js", "#\/js\/dws\/buers_tools_panel_responsive.js", "#\/js\/dws\/menu_advanced_responsive.js", "#\/js\/dws\/button.js", "#\/js\/dws\/inventory_keyword_search.js", "#\/js\/jquery\/jquery.cookie.js", "#\/js\/jquerystatus.js", "#\/js\/dws\/fb_login.js", "#\/js\/dws\/form.js", "#\/js\/dws\/login_responsive.js", "#\/js\/jquery\/jquery.timeago.js", "#\/js\/json.js", "#\/js\/date.js", "#\/js\/dws\/compare_vehiclelist_responsive.js", "#\/js\/dws\/inventory_items_buyers_tools_responsive.js", "#\/js\/dws\/advanced_search.js", "#\/js\/jquery\/jquery.json-2.2.min.js", "#\/js\/dws\/advanced_search\/ion.rangeSlider.2.1.2.js", "js//\/jquery\/jquery.cookie.js", "#\/js\/dws\/adv_filter_horizontal_responsive.js", "#\/js\/dws\/advanced_search\/ion.rangeSlider.2.1.2.min.js", "#\/js\/jquery\/jquery.validate.js", "#\/js\/jquery\/jquery.selectchain.js", "#\/js\/dws\/form_validation_rules.js", "#\/js\/dws\/form_validation_responsive.js", "#\/js\/jquery\/jquery.maskedinput.js", "#\/js\/dws\/notifyme_responsive.js", "#\/js\/dws\/GoogleAnalytics\/GoogleAnalytics.js", "#\/js\/piwik.js", "#\/js\/KeyUppressForForm.js", "\/piwik\/plugins\/ClickHeat\/libs\/js\/clickheat-original.js"]; var loadedStyleLinks = ["\/css\/dws\/axgrid.css", "#\/css\/dws\/font-glyphicons.min.css", "#\/media\/dealer_101\/storage\/themes\/scheme-1698230266422.css", "#\/css\/dws\/font-awesome.min.css", "#\/css\/dws\/components\/styler\/responsive.css", "#\/css\/dws\/components\/container\/responsive.css", "#\/css\/dws\/components\/simulcast\/calendar\/responsive.css", "#\/css\/bootstrap\/plugins\/datetimepicker\/bootstrap-datetimepicker.css", "#\/css\/dws\/components\/coupons_banners\/responsive.css", "#\/css\/jquery.jgrowl.css", "#\/css\/dws\/components\/buyers_tools_panel\/responsive.css", "#\/css\/dws\/components\/menu_advanced\/responsive.css", "#\/css\/dws\/components\/custom_button\/responsive.css", "#\/css\/dws\/components\/inventory_items\/responsive.css", "#\/css\/dws\/components\/search_advanced_horizontal\/responsive.css", "#\/css\/rangeSlider\/css\/ion.rangeSlider.skinDefault.css", "\/css\/rangeSlider\/css\/ion.rangeSlider.css"];    //-->
+    </script>
+    <script type="text/javascript" src="js/jquery/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.browser.min.js"></script>
+    <script type="text/javascript" src="js/dws/control_responsive.js"></script>
+    <script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/dws/system.js"></script>
+    <script type="text/javascript" src="js/vue.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.jgrowl-1.4.5.min.js"></script>
+    <script type="text/javascript" src="js/jalert.js"></script>
+    <script type="text/javascript" src="js/bootstrap/plugins/moment/moment.min.js"></script>
+    <script type="text/javascript" src="js/dws/buers_tools_panel_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/menu_advanced_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/button.js"></script>
+    <script type="text/javascript" src="js/dws/inventory_keyword_search.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.cookie.js"></script>
+    <script type="text/javascript" src="js/jquerystatus.js"></script>
+    <script type="text/javascript" src="js/dws/fb_login.js"></script>
+    <script type="text/javascript" src="js/dws/form.js"></script>
+    <script type="text/javascript" src="js/dws/login_responsive.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.timeago.js"></script>
+    <script type="text/javascript" src="js/json.js"></script>
+    <script type="text/javascript" src="js/date.js"></script>
+    <script type="text/javascript" src="js/dws/compare_vehiclelist_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/inventory_items_buyers_tools_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/advanced_search.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.json-2.2.min.js"></script>
+    <script type="text/javascript" src="js/dws/advanced_search/ion.rangeSlider.2.1.2.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.cookie.js"></script>
+    <script type="text/javascript" src="js/dws/adv_filter_horizontal_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/advanced_search/ion.rangeSlider.2.1.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.validate.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.selectchain.js"></script>
+    <script type="text/javascript" src="js/dws/form_validation_rules.js"></script>
+    <script type="text/javascript" src="js/dws/form_validation_responsive.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.maskedinput.js"></script>
+    <script type="text/javascript" src="js/dws/notifyme_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/GoogleAnalytics/GoogleAnalytics.js"></script>
+    <script type="text/javascript" src="js/piwik.js"></script>
+    <script type="text/javascript" src="js/KeyUppressForForm.js"></script>
+    <script type="text/javascript" src="piwik/plugins/ClickHeat/libs/js/clickheat-original.js"></script>
+    <script type="text/javascript">
+        //<!--
 
-/*This variable using inside Xamarin-based applications. Object Xamarin will be initialised inside Xamarin App. DO NOT DELETE THIS CODE! */
-var xamarinApplication = typeof Xamarin == 'object' ? true : false;
+        /*This variable using inside Xamarin-based applications. Object Xamarin will be initialised inside Xamarin App. DO NOT DELETE THIS CODE! */
+        var xamarinApplication = typeof Xamarin == 'object' ? true : false;
 
-var dws_alias = [];
+        var dws_alias = [];
 
-function sortSelected(arr){
+        function sortSelected(arr) {
 
-    var noSorting = new Array();
-    var arrTemp = new Array();
-    for (id in arr) {
-        arrTemp = [];
-        arrTemp.id = id;
-        arrTemp.name = arr[id];
-        noSorting.push(arrTemp);
-    }
-    var result = noSorting.sort(function(x, y) {return x.name > y.name ? 1 : -1;});
-
-    return result;
-}
-if ( !Date.prototype.toISOString ) {
-    (function() {
-        function pad(number) {
-            var r = String(number);
-            if ( r.length === 1 ) {
-                r = '0' + r;
+            var noSorting = new Array();
+            var arrTemp = new Array();
+            for (id in arr) {
+                arrTemp = [];
+                arrTemp.id = id;
+                arrTemp.name = arr[id];
+                noSorting.push(arrTemp);
             }
-            return r;
-        }
-        Date.prototype.toISOString = function() {
-            return this.getUTCFullYear()
-                + '-' + pad( this.getUTCMonth() + 1 )
-                + '-' + pad( this.getUTCDate() )
-                + 'T' + pad( this.getUTCHours() )
-                + ':' + pad( this.getUTCMinutes() )
-                + ':' + pad( this.getUTCSeconds() )
-                + '.' + String( (this.getUTCMilliseconds()/1000).toFixed(3) ).slice( 2, 5 )
-                + 'Z';
-        };
-    }() );
-}
-                var _dws_params_ = {};
-        $(window).load(function(){
-        var data = {
-            oper: 'make_page_view',
-            page_id: '109',
-            site_id: '101',
-            ip: '168.210.140.114',
-            user_agent: 'Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)'
-        };
-        if (typeof(_dws_params_.id) != 'undefined') {
-            data.vehicle_id = _dws_params_.id;
-            data.service_id = '';
-        }
+            var result = noSorting.sort(function (x, y) { return x.name > y.name ? 1 : -1; });
 
-        $.ajax({
-            url: '/ajax',
-            data: data,
-            type: 'POST'
+            return result;
+        }
+        if (!Date.prototype.toISOString) {
+            (function () {
+                function pad(number) {
+                    var r = String(number);
+                    if (r.length === 1) {
+                        r = '0' + r;
+                    }
+                    return r;
+                }
+                Date.prototype.toISOString = function () {
+                    return this.getUTCFullYear()
+                        + '-' + pad(this.getUTCMonth() + 1)
+                        + '-' + pad(this.getUTCDate())
+                        + 'T' + pad(this.getUTCHours())
+                        + ':' + pad(this.getUTCMinutes())
+                        + ':' + pad(this.getUTCSeconds())
+                        + '.' + String((this.getUTCMilliseconds() / 1000).toFixed(3)).slice(2, 5)
+                        + 'Z';
+                };
+            }());
+        }
+        var _dws_params_ = {};
+        $(window).load(function () {
+            var data = {
+                oper: 'make_page_view',
+                page_id: '22',
+                site_id: '101',
+                ip: '168.210.140.114',
+                user_agent: 'Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)'
+            };
+            if (typeof (_dws_params_.id) != 'undefined') {
+                data.vehicle_id = _dws_params_.id;
+                data.service_id = '';
+            }
+
+            $.ajax({
+                url: '/ajax',
+                data: data,
+                type: 'POST'
+            });
         });
-    });
-            //-->
-</script>
-<script type="text/javascript">
+        //-->
+    </script>
+    <script type="text/javascript">
     //<!--
-                <!-- Start Piwik Tracking Code -->
+                < !--Start Piwik Tracking Code -->
                     try {
                          var piwikTracker = Piwik.getTracker(document.location.protocol + "//www.mfcauctions.co.za/piwik/piwik.php", 1917);
                          piwikTracker.setCustomVariable(3, 'sid', 'c6017dc5bff09637f83a01b920727f44' )
                          
-                         piwikTracker.setCustomVariable(2, 'page_visits', '101_custom_our-banking-details','visit');
+                         piwikTracker.setCustomVariable(2, 'page_visits', '101_simulcast-calendar','visit');
                          $(window).load(function(){
                             piwikTracker.trackPageView();
                             piwikTracker.enableLinkTracking();
@@ -470,7 +466,7 @@ if ( !Date.prototype.toISOString ) {
                     <!-- Start ClickHeat Tracking Code -->
                     try {
                     clickHeatSite = 1917;
-                    clickHeatGroup = "our-banking-details";
+                    clickHeatGroup = "Simulcast Calendar";
                     clickHeatQuota = 6;
                     clickHeatServer = document.location.protocol +'//www.mfcauctions.co.za/piwik/plugins/ClickHeat/libs/click.php';
                     initClickHeat();
@@ -768,7 +764,7 @@ h1, h2, h3, h4, h5, h6, h7,
             
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="header_0_0" data-size-lg="12">
 <div class="modul-r-container
-            container-6981ed332fff4                        nowow"
+            container-6981ed2cbbfb0                        nowow"
     >
     <div>
                     <style type="text/css"></style>
@@ -783,10 +779,10 @@ h1, h2, h3, h4, h5, h6, h7,
     padding-left: 80px;
 }
     .icn_tb_home{
-	position:fixed;
+    position:fixed;
     z-index:10000;
-	top:77px;
-	left:calc(50% - 580px);
+    top:77px;
+    left:calc(50% - 580px);
     }
     .icn_tb_home a{
       color:#fff;
@@ -835,7 +831,7 @@ h1, h2, h3, h4, h5, h6, h7,
   </style>
 <section class="icn_tb_home">
   <a href="/" title="Home">
-  	<i class="fa fa-home" aria-hidden="true"></i>
+      <i class="fa fa-home" aria-hidden="true"></i>
   </a>
   </section>
 </dev>        <!-- endof_no_designtime_scripts -->
@@ -909,16 +905,16 @@ h1, h2, h3, h4, h5, h6, h7,
 </script>
         <!-- endof_no_designtime_scripts -->
     </div>
-<div class="modul-r-buyers_toolbar buyers_toolbar_6981ed333bcf1 nowow ">
+<div class="modul-r-buyers_toolbar buyers_toolbar_6981ed2cc757e nowow ">
     <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container" id="toolbar_container_6981ed333bcf1">
+        <div class="container" id="toolbar_container_6981ed2cc757e">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                                 <button type="button"
                         class="navbar-toggle collapsed navbar-brand navbar-user"
                         data-toggle="collapse"
-                        data-target="#modul-r-buyers_toolbar_6981ed333bcf1"
-                        data-parent="#toolbar_container_6981ed333bcf1"
+                        data-target="#modul-r-buyers_toolbar_6981ed2cc757e"
+                        data-parent="#toolbar_container_6981ed2cc757e"
                         aria-expanded="false">
                     <span class="sr-only">Toggle menu</span>
                     &nbsp;<span class="fa fa-user"></span>&nbsp;
@@ -926,7 +922,7 @@ h1, h2, h3, h4, h5, h6, h7,
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="navbar-collapse collapse" id="modul-r-buyers_toolbar_6981ed333bcf1">
+                        <div class="navbar-collapse collapse" id="modul-r-buyers_toolbar_6981ed2cc757e">
                 <ul class="nav navbar-nav">
                     <li>
                         <a href="#" data-toggle="modal" data-target="#modalRecentVehicles" role="button">
@@ -1032,7 +1028,7 @@ h1, h2, h3, h4, h5, h6, h7,
         <div class="modal-dialog modal-md" role="document">
             <div class="modal-content">
                                 <div
-    class="modul-login modul-r-login login-6981ed3357fdc nowow"
+    class="modul-login modul-r-login login-6981ed2ce1fc3 nowow"
     data-display-form="default"
 >
     <input type="hidden" name="authorized" value="0">
@@ -1056,7 +1052,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                     
                                     
                                                                     </div>
-                                <form id="dws_login_form_6981ed3357fdc"
+                                <form id="dws_login_form_6981ed2ce1fc3"
                                       class="dws_login_form form-vertical"
                                       method="post"
                                       action="#"
@@ -1139,9 +1135,9 @@ h1, h2, h3, h4, h5, h6, h7,
                                                 <button type="button"
                                                         class="btn btn-link btn-xs"
                                                         data-toggle="collapse"
-                                                        data-target="#collapseFogot-6981ed3357fdc"
+                                                        data-target="#collapseFogot-6981ed2ce1fc3"
                                                         aria-expanded="false"
-                                                        aria-controls="collapseFogot-6981ed3357fdc"
+                                                        aria-controls="collapseFogot-6981ed2ce1fc3"
                                                 >
                                                     Forgot password?                                                </button>
                                                                                             </div>
@@ -1150,7 +1146,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                                     </div>
                     </div>
                 </div>
-                <div class="panel-footer collapse" id="collapseFogot-6981ed3357fdc">
+                <div class="panel-footer collapse" id="collapseFogot-6981ed2ce1fc3">
                     <div class="row" >
                         <div class="col-xxs-12 col-xs-12 form-horizontal">
                             <form action="#" method="post">
@@ -1166,7 +1162,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                 </div>
                                 <div class="text-right">
                                     <button type="button"
-                                            id="reset-password-6981ed3357fdc"
+                                            id="reset-password-6981ed2ce1fc3"
                                             class="btn btn-link btn-xs reset_password"
                                     >
                                         <span class="text-danger">Reset Password</span>
@@ -1182,7 +1178,7 @@ h1, h2, h3, h4, h5, h6, h7,
 
     <script>
         $(function() {
-            var uid = "6981ed3357fdc";
+            var uid = "6981ed2ce1fc3";
             var $modalDealerLogin = $('.modul-r-buyers_toolbar #modalDealerLogin');
             var selectDealersModalHtml = '<div id="selectDealersModalVueTemplate"></div>';
             var $buyersModule;
@@ -1210,7 +1206,7 @@ h1, h2, h3, h4, h5, h6, h7,
                 isTermsConditionRequired: Boolean(1),
             });
 
-                        $('#reset-password-6981ed3357fdc').on('click', function() {
+                        $('#reset-password-6981ed2ce1fc3').on('click', function() {
                 $(this).closest('form').submit();
             });
 
@@ -1235,7 +1231,7 @@ h1, h2, h3, h4, h5, h6, h7,
             <div class="modal-content">
                                 
 <div
-    class="modul-r-invItems modul-r-invItems_6981ed335804b type_recent"
+    class="modul-r-invItems modul-r-invItems_6981ed2ce203f type_recent"
     data-auction-mode="1"
     data-show-price="1"
 >
@@ -1249,14 +1245,14 @@ h1, h2, h3, h4, h5, h6, h7,
             <div class="navbar-btn hidden-xxs">
                 <a
                     class="btn btn-primary btn-sm half-width pull-right"
-                    href="our-banking-details.php"
+                    href="simulcast-calendar.php"
                 >
                     <i class="fa fa-eye"></i>&nbsp;&nbsp;
                     <span>Viewed Vehicles</span>
                 </a>
                             </div>
             <div class="visible-xxs">
-                <a class="btn btn-primary btn-sm btn-block" href="our-banking-details.php">
+                <a class="btn btn-primary btn-sm btn-block" href="simulcast-calendar.php">
                     <i class="fa fa-eye"></i>&nbsp;&nbsp;
                     Viewed Vehicles                </a>
                             </div>
@@ -1288,7 +1284,7 @@ h1, h2, h3, h4, h5, h6, h7,
             <div class="modal-content">
                                 
 <div
-    class="modul-r-invItems modul-r-invItems_6981ed335808c type_saved"
+    class="modul-r-invItems modul-r-invItems_6981ed2ce2089 type_saved"
     data-auction-mode="1"
     data-show-price="1"
 >
@@ -1303,14 +1299,14 @@ h1, h2, h3, h4, h5, h6, h7,
             <div class="navbar-btn hidden-xxs">
                 <a
                     class="btn btn-primary btn-sm half-width pull-right"
-                    href="our-banking-details.php"
+                    href="simulcast-calendar.php"
                 >
                     <i class="fa fa-eye"></i>&nbsp;&nbsp;
                     <span>Watchlist</span>
                 </a>
                             </div>
             <div class="visible-xxs">
-                <a class="btn btn-primary btn-sm btn-block" href="our-banking-details.php">
+                <a class="btn btn-primary btn-sm btn-block" href="simulcast-calendar.php">
                     <i class="fa fa-eye"></i>&nbsp;&nbsp;
                     Watchlist                </a>
                             </div>
@@ -1341,7 +1337,7 @@ h1, h2, h3, h4, h5, h6, h7,
             <div class="modal-content">
                                 
 <div
-    class="modul-r-invItems modul-r-invItems_6981ed33580b6 type_notify"
+    class="modul-r-invItems modul-r-invItems_6981ed2ce20b5 type_notify"
     data-auction-mode="1"
     data-show-price="1"
 >
@@ -1357,7 +1353,7 @@ h1, h2, h3, h4, h5, h6, h7,
         <div class="modul-r-notify text-left nowow" data-success="0">
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <form id="6981ed3374697" class="form-horizontal notify_form" action="#" target="_self" method="post">
+                                <form id="6981ed2d07591" class="form-horizontal notify_form" action="#" target="_self" method="post">
                         <input type="hidden" name="form_id" value="notify"/>
                         <input type="hidden" name="action" value="form_notify"/>
                         <input type="text" name="isvalid" value="" class="hidden"/>
@@ -1375,7 +1371,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                     <div class="form-group">
                                         <label class="col-lg-4 col-md-4 col-sm-12 control-label full-width-in-thin text-sm-left text-left-in-thin">Motorized Type:</label>
                                         <div class="col-lg-8 col-md-8 col-sm-12 full-width-in-thin">
-                                            <select name="motorized_type" id="motorized_type_6981ed3374697" class="form-control notify_form_motorized_type">
+                                            <select name="motorized_type" id="motorized_type_6981ed2d07591" class="form-control notify_form_motorized_type">
     <option value="" label="Select Motorized Type">Select Motorized Type</option>
     <option value="16" label="AGRICULTURAL EQUIPMENT">AGRICULTURAL EQUIPMENT</option>
     <option value="1" label="BOAT">BOAT</option>
@@ -1389,7 +1385,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                     <div class="form-group">
                                         <label class="col-lg-4 col-md-4 col-sm-12 control-label full-width-in-thin text-sm-left text-left-in-thin">Type:</label>
                                         <div class="col-lg-8 col-md-8 col-sm-12 full-width-in-thin">
-                                            <select name="type" id="type_6981ed3374697" class="form-control notify_form_type">
+                                            <select name="type" id="type_6981ed2d07591" class="form-control notify_form_type">
     <option value="" label="Select Type">Select Type</option>
     <option value="3" label="CERTIFIED PRE-OWNED">CERTIFIED PRE-OWNED</option>
     <option value="1" label="NEW">NEW</option>
@@ -1402,7 +1398,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                     <div class="form-group">
                                         <label class="col-lg-4 col-md-4 col-sm-12 control-label full-width-in-thin text-sm-left text-left-in-thin">Body Style :</label>
                                         <div class="col-lg-8 col-md-8 col-sm-12 full-width-in-thin">
-                                            <select name="body_style" id="body_style_6981ed3374697" disabled="disabled" class="form-control notify_form_body_style">
+                                            <select name="body_style" id="body_style_6981ed2d07591" disabled="disabled" class="form-control notify_form_body_style">
     <option value="" label="Select Body Style">Select Body Style</option>
     <option value="55" label="3-WHEELER">3-WHEELER</option>
     <option value="133" label="5TH WHEELS">5TH WHEELS</option>
@@ -2228,7 +2224,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                     <div class="form-group">
                                         <label class="col-lg-4 col-md-4 col-sm-12 control-label full-width-in-thin text-sm-left text-left-in-thin">Make:</label>
                                         <div class="col-lg-8 col-md-8 col-sm-12 full-width-in-thin">
-                                            <select name="make" id="make_6981ed3374697" disabled="disabled" class="form-control notify_form_make">
+                                            <select name="make" id="make_6981ed2d07591" disabled="disabled" class="form-control notify_form_make">
     <option value="" label="Select Make">Select Make</option>
     <option value="77555" label=" 330D A/T (E90)"> 330D A/T (E90)</option>
     <option value="77339" label=" AUDI"> AUDI</option>
@@ -2456,7 +2452,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                     <div class="form-group">
                                         <label class="col-lg-4 col-md-4 col-sm-12 control-label full-width-in-thin text-sm-left text-left-in-thin">Model:</label>
                                         <div class="col-lg-8 col-md-8 col-sm-12 full-width-in-thin">
-                                            <select name="model" id="model_6981ed3374697" disabled="disabled" class="form-control notify_form_model">
+                                            <select name="model" id="model_6981ed2d07591" disabled="disabled" class="form-control notify_form_model">
     <option value="" label="Select Model">Select Model</option>
 </select>                                        </div>
                                     </div>
@@ -2466,7 +2462,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                         <div class="col-lg-8 col-md-8 col-sm-12 full-width-in-thin">
                                             <div class="row">
                                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                                                    <select name="min_year" id="min_year_6981ed3374697" class="form-control">
+                                                    <select name="min_year" id="min_year_6981ed2d07591" class="form-control">
     <option value="" label="All">All</option>
     <option value="2027" label="2027">2027</option>
     <option value="2026" label="2026">2026</option>
@@ -2597,7 +2593,7 @@ h1, h2, h3, h4, h5, h6, h7,
     <option value="1901" label="1901">1901</option>
 </select>                                                </div>
                                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                                                    <select name="max_year" id="max_year_6981ed3374697" class="form-control">
+                                                    <select name="max_year" id="max_year_6981ed2d07591" class="form-control">
     <option value="" label="All">All</option>
     <option value="2027" label="2027">2027</option>
     <option value="2026" label="2026">2026</option>
@@ -2794,7 +2790,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                     <div class="form-group">
                                         <label class="col-lg-4 col-md-4 col-sm-12 control-label full-width-in-thin text-sm-left text-left-in-thin">Transmission:</label>
                                         <div class="col-lg-8 col-md-8 col-sm-12 full-width-in-thin">
-                                            <select name="transmission" id="transmission_6981ed3374697" class="form-control notify_form_transmission">
+                                            <select name="transmission" id="transmission_6981ed2d07591" class="form-control notify_form_transmission">
     <option value="" label="Select Transmission">Select Transmission</option>
     <option value="32745" label="(SELECT TRANSMISSION)">(SELECT TRANSMISSION)</option>
     <option value="32817" label="12-SPEED A/T">12-SPEED A/T</option>
@@ -2916,7 +2912,7 @@ h1, h2, h3, h4, h5, h6, h7,
 <script type="text/javascript">
     /* initialize  this this notifyMe form by uid */
     $(document).ready(function() {
-        var formNotifyMeId = '6981ed3374697';
+        var formNotifyMeId = '6981ed2d07591';
         var params = {
             'notifyFormType': 'truck',
             'notifyFormShortMode': 'true',
@@ -3019,9 +3015,9 @@ h1, h2, h3, h4, h5, h6, h7,
 </div></div>
  
    <div class="row"><div class="ax-container empty col-lg-3 col-md-12 col-sm-12 col-xs-12  thin" data-container="body_1_0" data-size-lg="3"><div class="widget-spacer">
-	  <div 
-			style="height:8px;"
-	  	>
+      <div 
+            style="height:8px;"
+          >
     &nbsp;
     </div>
 </div><div class="modul-r-editable nowow">
@@ -3031,13 +3027,13 @@ h1, h2, h3, h4, h5, h6, h7,
 <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect" />
 <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600&amp;display=swap" rel="stylesheet" />
   <section class="header-logo">
-  	 <a href="/" ><img  src="media/dealer_101/storage/images/home/Nedbank_and_MFC_Co-branded_Logo.png" / alt="Nedbank and MFC Co-branded Logo"></a>
+       <a href="/" ><img  src="media/dealer_101/storage/images/home/Nedbank_and_MFC_Co-branded_Logo.png" / alt="Nedbank and MFC Co-branded Logo"></a>
   </section>
 </dev>        <!-- endof_no_designtime_scripts -->
     </div></div><div class="ax-container empty col-lg-7 col-md-10 col-sm-10 col-xs-12  " data-container="body_1_1" data-size-lg="7"><div class="widget-spacer">
-	  <div 
-			style="height:30px;"
-	  	>
+      <div 
+            style="height:30px;"
+          >
     &nbsp;
     </div>
 </div>
@@ -3045,8 +3041,8 @@ h1, h2, h3, h4, h5, h6, h7,
 
 <div class="module-r-menu-advanced
             module-r-menu-advanced-default
-            no-margin-bottom adv-6981ed333b4cd navbar nowow            navbar-default            "
-     id="mead-6981ed333b4cd"
+            no-margin-bottom adv-6981ed2cc6d8a navbar nowow            navbar-default            "
+     id="mead-6981ed2cc6d8a"
      role="navigation"
      style="font-size: 17px"
 >
@@ -3055,7 +3051,7 @@ h1, h2, h3, h4, h5, h6, h7,
                 <button class="navbar-toggle"
                         type="button"
                         data-toggle="collapse"
-                        data-target="#menu-navbar-collapse-6981ed333b4cd"
+                        data-target="#menu-navbar-collapse-6981ed2cc6d8a"
                 >
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
@@ -3069,7 +3065,7 @@ h1, h2, h3, h4, h5, h6, h7,
                 </a>
             </div>
             <div class="collapse navbar-collapse navbar-right"
-                 id="menu-navbar-collapse-6981ed333b4cd"
+                 id="menu-navbar-collapse-6981ed2cc6d8a"
             >
                 <ul class="nav navbar-nav">
                                                                                                 <li class="full-width-in-thin level-top">
@@ -3106,13 +3102,13 @@ h1, h2, h3, h4, h5, h6, h7,
                                     <i class="fa fa-fw fa-caret-down"></i>
                                 </a>
                                 <a class="pull-left visible-mobile"
-                                   href="our-banking-details.php"
+                                   href="simulcast-calendar.php"
                                    style="font-size: 17px"
                                                                     >
                                     Help                                </a>
 
                                 <a class="dropdown-toggle hidden-xs hidden-mobile ignore-hidden-size-xs"
-                                   href="our-banking-details.php"
+                                   href="simulcast-calendar.php"
                                    style="font-size: 17px"
                                                                     >
                                     Help                                    <b class="caret"></b>
@@ -3174,13 +3170,13 @@ h1, h2, h3, h4, h5, h6, h7,
                                             <i class="fa fa-fw fa-caret-right"></i>
                                         </a>
                                         <a class="visible-mobile"
-                                           href="our-banking-details.php"
+                                           href="simulcast-calendar.php"
                                            style="font-size: 17px"
                                                                                     >
                                             Help                                        </a>
 
                                         <a class="dropdown-toggle hidden-xs hidden-mobile ignore-hidden-size-xs"
-                                           href="our-banking-details.php"
+                                           href="simulcast-calendar.php"
                                            style="font-size: 17px"
                                                                                     >
                                             <span class="pull-right caret-box">
@@ -3216,33 +3212,33 @@ h1, h2, h3, h4, h5, h6, h7,
     <script type="text/javascript">
         $(document).ready(function() {
             // add uniq $uid
-            $('.adv-6981ed333b4cd').each(function () {
-                new MenuAdvanced(this, {"uid":"6981ed333b3fc","loading":"Loading...","wrapperClass":".adv-6981ed333b3fc","ajaxMode":false,"isFrame":0,"url":"\/ajax"});
+            $('.adv-6981ed2cc6d8a').each(function () {
+                new MenuAdvanced(this, {"uid":"6981ed2cc6d85","loading":"Loading...","wrapperClass":".adv-6981ed2cc6d85","ajaxMode":false,"isFrame":0,"url":"\/ajax"});
             });
         });
     </script>
 </div><div class="ax-container empty col-lg-2 col-md-2 col-sm-2 col-xs-12  hidden-xs thin" data-container="body_1_2" data-size-lg="2" data-hidden-xs="1"><div class="widget-spacer">
-	  <div 
-			style="height:28px;"
-	  	>
+      <div 
+            style="height:28px;"
+          >
     &nbsp;
     </div>
 </div>
 
-<div class="btn-r-custom nowow btn-6981ed333be8d corner-yes pos-center imAlig-center text-right">
+<div class="btn-r-custom nowow btn-6981ed2cc770d corner-yes pos-center imAlig-center text-right">
     <div class="btn
                 btn-transparent                                notransition"
          style="
                                                text-align: center;
                               "
-                      data-toggle="modal" data-target="#btn-modal-6981ed333be8d"
+                      data-toggle="modal" data-target="#btn-modal-6981ed2cc770d"
          >
        <span> <span class="glyphicon glyphicon-search js-headerSearch"></span>&ensp;Search</span>
     </div>
     <div class="clearfix"></div>
 </div>
 
-    <div class="modal fade" id="btn-modal-6981ed333be8d">
+    <div class="modal fade" id="btn-modal-6981ed2cc770d">
         <div class="modal-dialog ">
             <div class="modal-content">
                                 <div class="modal-body">
@@ -3250,7 +3246,7 @@ h1, h2, h3, h4, h5, h6, h7,
     <div>
             <div class="layout-container" data-container="body">
             
-   <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="body_0_0" data-size-lg="12"><div class="modul-r-searchAdvancedHor modul-search_adv_hor adv-hor-6981ed333d83c slideTheme-Default nowow">
+   <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="body_0_0" data-size-lg="12"><div class="modul-r-searchAdvancedHor modul-search_adv_hor adv-hor-6981ed2cc8e26 slideTheme-Default nowow">
     <input name="region" type="hidden" value="">
 
         <div class="panel panel-default">
@@ -3635,11 +3631,11 @@ h1, h2, h3, h4, h5, h6, h7,
 
             $(document).ready(function() {
                 new AdvancedSearchHorizontal({
-                    wrapperClass: '.adv-hor-6981ed333d83c',
+                    wrapperClass: '.adv-hor-6981ed2cc8e26',
                     url: adv_hor_params,
                     isFrame: adv_hor_iframe,
                     loading: 'Loading...',
-                    uid: "6981ed333d83c",
+                    uid: "6981ed2cc8e26",
                     ajaxMode: false,
                                     });
             });
@@ -3673,10 +3669,10 @@ h1, h2, h3, h4, h5, h6, h7,
             var currency = 'R';
             var currencyPosition = '0';
 
-            var getBootstrap_6981ed333d83c = true;
+            var getBootstrap_6981ed2cc8e26 = true;
 
             $(document).ready(function() {
-                var wrapper = $('.adv-hor-6981ed333d83c');
+                var wrapper = $('.adv-hor-6981ed2cc8e26');
 
                 $('.year_slider', wrapper).ionRangeSlider({
                     type: "double",
@@ -3695,7 +3691,7 @@ h1, h2, h3, h4, h5, h6, h7,
                         // update all similar advanced search sliders on the page
                         $('.year_slider', wrapper).data('ionRangeSlider').update({from: data.from, to: data.to});
                     },
-                    bootstrap: getBootstrap_6981ed333d83c,
+                    bootstrap: getBootstrap_6981ed2cc8e26,
                 });
 
                 $('.odometer_slider', wrapper).ionRangeSlider({
@@ -3714,7 +3710,7 @@ h1, h2, h3, h4, h5, h6, h7,
                         // update all similar advanced search sliders on the page
                         $('.odometer_slider', wrapper).data('ionRangeSlider').update({from: data.from, to: data.to});
                     },
-                    bootstrap: getBootstrap_6981ed333d83c,
+                    bootstrap: getBootstrap_6981ed2cc8e26,
                 });
 
                 $('.price_slider', wrapper).ionRangeSlider({
@@ -3735,7 +3731,7 @@ h1, h2, h3, h4, h5, h6, h7,
                         // update all similar advanced search sliders on the page
                         $('.price_slider', wrapper).data('ionRangeSlider').update({from: data.from, to: data.to});
                     },
-                    bootstrap: getBootstrap_6981ed333d83c,
+                    bootstrap: getBootstrap_6981ed2cc8e26,
                 });
 
                 $('select', wrapper).each(function() {
@@ -3760,7 +3756,7 @@ h1, h2, h3, h4, h5, h6, h7,
 
     <script type="text/javascript">
         /* fix carousels in popup (if any) */
-        var $btnWidgetModal = $('#btn-modal-6981ed333be8d');
+        var $btnWidgetModal = $('#btn-modal-6981ed2cc770d');
 
         $btnWidgetModal.on('shown.bs.modal', function () {
             var $this = $(this);
@@ -3777,32 +3773,32 @@ h1, h2, h3, h4, h5, h6, h7,
 </div></div>
  
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  hidden-lg hidden-md hidden-sm thin" data-container="body_2_0" data-size-lg="12" data-hidden-lg="1" data-hidden-md="1" data-hidden-sm="1"><div class="widget-spacer">
-	  <div 
-			style="height:10px;"
-	  	>
+      <div 
+            style="height:10px;"
+          >
     &nbsp;
     </div>
 </div>
 <div class="modul-r-searchmini nowow">
 <div class="row">
-	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    	    	<div class="panel panel-transparent">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="panel panel-transparent">
         <div class="panel-body">            <div class="input-group">
-            	<input type="text" class="form-control keyword_search_value" placeholder="Find what you&rsquo;re looking for" value="">
-            	<span class="input-group-btn">
-            	<button class="btn btn-primary" type="button" onclick="inventory_keyword_search($(this).parents('.modul-r-searchmini').find('.keyword_search_value').val());">
-					<span class="glyphicon glyphicon-search"></span>
+                <input type="text" class="form-control keyword_search_value" placeholder="Find what you&rsquo;re looking for" value="">
+                <span class="input-group-btn">
+                <button class="btn btn-primary" type="button" onclick="inventory_keyword_search($(this).parents('.modul-r-searchmini').find('.keyword_search_value').val());">
+                    <span class="glyphicon glyphicon-search"></span>
                     <span>Search</span>
-				</button>
-            	</span>
+                </button>
+                </span>
             </div>
         </div>
         </div>        <script type="text/javascript">
-			var keyword_search_data = [];
-			var default_txt = 'Find what you’re looking for';
-			keyword_status = "inventory";
-			var keywordSearchUrl = "our-banking-details.php";
-		</script>
+            var keyword_search_data = [];
+            var default_txt = 'Find what you’re looking for';
+            keyword_status = "inventory";
+            var keywordSearchUrl = "simulcast-calendar.php";
+        </script>
     </div>
 </div>
 </div>
@@ -3820,12 +3816,12 @@ h1, h2, h3, h4, h5, h6, h7,
     cursor:default;
   }
   .login-hint p{
-	color: #fff;
+    color: #fff;
     font-size: 13px;
     text-align: end;
   }
   .login-hint::after{
-	content: ">";
+    content: ">";
     color: #fbff61;
     font-size: 26px;
     position: absolute;
@@ -3835,50 +3831,50 @@ h1, h2, h3, h4, h5, h6, h7,
     animation: myAnim 2s ease 0s 1 normal forwards;
   }
   @keyframes myAnim {
-	0% {
-		animation-timing-function: ease-in;
-		opacity: 0;
-		transform: translateX(-48px);
-	}
+    0% {
+        animation-timing-function: ease-in;
+        opacity: 0;
+        transform: translateX(-48px);
+    }
 
-	24% {
-		opacity: 1;
-	}
+    24% {
+        opacity: 1;
+    }
 
-	40% {
-		animation-timing-function: ease-in;
-		transform: translateX(-26px);
-	}
+    40% {
+        animation-timing-function: ease-in;
+        transform: translateX(-26px);
+    }
 
-	65% {
-		animation-timing-function: ease-in;
-		transform: translateX(-13px);
-	}
+    65% {
+        animation-timing-function: ease-in;
+        transform: translateX(-13px);
+    }
 
-	82% {
-		animation-timing-function: ease-in;
-		transform: translateX(-6.5px);
-	}
+    82% {
+        animation-timing-function: ease-in;
+        transform: translateX(-6.5px);
+    }
 
-	93% {
-		animation-timing-function: ease-in;
-		transform: translateX(-4px);
-	}
+    93% {
+        animation-timing-function: ease-in;
+        transform: translateX(-4px);
+    }
 
-	25%,
-	55%,
-	75%,
-	87%,
-	98% {
-		animation-timing-function: ease-out;
-		transform: translateX(0px);
-	}
+    25%,
+    55%,
+    75%,
+    87%,
+    98% {
+        animation-timing-function: ease-out;
+        transform: translateX(0px);
+    }
 
-	100% {
-		animation-timing-function: ease-out;
-		opacity: 1;
-		transform: translateX(0px);
-	}
+    100% {
+        animation-timing-function: ease-out;
+        opacity: 1;
+        transform: translateX(0px);
+    }
 }
   @media all and (max-width:1199px){
     .login-hint {
@@ -3929,8 +3925,8 @@ h1, h2, h3, h4, h5, h6, h7,
 
     $(function() {
         var fullWidth = false,
-            data = {"active_tab":"lg","lg":{"inherited":"none","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"md":{"inherited":"none","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"sm":{"inherited":"none","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"xs":{"inherited":"none","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"}},
-            $module = $('.container-6981ed332fff4'),
+            data = {"active_tab":"lg","lg":{"inherited":"none","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"md":{"inherited":"lg","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"sm":{"inherited":"lg","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"xs":{"inherited":"lg","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"}},
+            $module = $('.container-6981ed2cbbfb0'),
             isFluidWrapper = !$module.closest('.layout-container').hasClass('container-fluid'),
             $window = $(window),
             sizes = [],
@@ -3980,53 +3976,251 @@ h1, h2, h3, h4, h5, h6, h7,
 </div></div>
  </div>
         </header>
+        <?php include 'whatsapp_chatbot.php'; ?>
         <main>
             <div class="layout-container container" data-container="body">
             
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="body_0_0" data-size-lg="12"><div class="modul-r-editable nowow">
-            <div class="panel panel-transparent">
-                        <div class="panel-body">
             <!-- no_designtime_scripts -->
         <style type="text/css">
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
+hr {
+    -moz-box-sizing: border-box;
+    -moz-float-edge: margin-box;
+    border: .5px inset;
+    color: #f2f9f5;
+    display: block;
+    height: 1px;
+    margin: 0.2em auto;
+}
+
+
+
+
+
+</style>
+
+
+
+
+
+
+
+
+<h2><strong><span style="color:#004536;">Auction Events</span></strong></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="color:#004536;">Call Us: <a href="tel:081 003 2073">081 003 2073</a></span><br type="_moz" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- endof_no_designtime_scripts -->
+    </div>
+<div class="modul-r-simulcast-calendar sc-6981ed2cbc01e">
+            <div id="simulcastCalendarApp"></div>
+
+        <script type="text/javascript">
+            document.addEventListener('DOMContentLoaded', async function () {
+                const isDevMode = typeof window.isDevMode === 'function' && window.isDevMode();
+                const widgetParams = {
+                    layout: 'advanced',
+                    colorTheme: "default",
+                    options: {
+                        showVehicleCount: false,
+                        showSaleType: false,
+                        showDealerList: "collapsed",
+                        showEventDescription: false,
+                        isShowPrintButton: false,
+                    },
+                };
+                const calendarData = [{"vero_account_id":"NMFC","name":"Nedbank Group-MFC AH","state_id":null,"country_id":null,"city_id":null,"user_comments":"","parent_id":75419,"events":[{"link_to_event":"https:\/\/www.mfcauctions.co.za\/simulcast-runlist_event_683","event_id":683,"vero_event_id":110,"event_name":"Event 110 on 2026-02-04 (NMFC)","event_user":75285,"event_description":"MFC LIVE AUCTIONS (WEDNESDAY-)","date_start_day":"Feb 04, 2026","date_start_day_for_lane":"02\/04\/2026","date_start_time":"10:00 AM","date_start_timestamp":1770192000,"user_id":75285,"auction_type":"simulcast_simple","lanes":[{"name":"1","laneTime":null,"laneDate":null,"laneDateForButton":null,"laneId":769,"event_id":683,"urlToRunlist":"https:\/\/www.mfcauctions.co.za\/simulcast-runlist_event_683_lane_769","urlJoinLane":"https:\/\/www.mfcauctions.co.za\/simulcast_lane_769","consignors":[{"name":"SELLER (MFC AUCTION HOUSE)","dealerAlias":null,"consignorLogo":"\/media\/dealer_101\/Logo\/685581efe1c0b3dc97fd13e3206ab30c.png?nocache=658ea15e029c9","numberVehicle":148,"urlToRunlistWithConsignor":"https:\/\/www.mfcauctions.co.za\/simulcast-runlist_event_683_lane_769_dealer_75345"}],"vehicles_count":148}],"vehiclesTotals":148},{"link_to_event":"https:\/\/www.mfcauctions.co.za\/simulcast-runlist_event_681","event_id":681,"vero_event_id":111,"event_name":"Event 111 on 2026-02-11 (NMFC)","event_user":75285,"event_description":"MFC LIVE AUCTIONS (WEDNESDAY-)","date_start_day":"Feb 11, 2026","date_start_day_for_lane":"02\/11\/2026","date_start_time":"10:00 AM","date_start_timestamp":1770796800,"user_id":75285,"auction_type":"simulcast_simple"},{"link_to_event":"https:\/\/www.mfcauctions.co.za\/simulcast-runlist_event_693","event_id":693,"vero_event_id":113,"event_name":"Event 113 on 2026-02-18 (NMFC)","event_user":75285,"event_description":"MFC LIVE AUCTIONS (WEDNESDAY-)","date_start_day":"Feb 18, 2026","date_start_day_for_lane":"02\/18\/2026","date_start_time":"10:00 AM","date_start_timestamp":1771401600,"user_id":75285,"auction_type":"simulcast_simple"},{"link_to_event":"https:\/\/www.mfcauctions.co.za\/simulcast-runlist_event_695","event_id":695,"vero_event_id":112,"event_name":"Event 112 on 2026-02-25 (NMFC)","event_user":75285,"event_description":"MFC LIVE AUCTIONS (WEDNESDAY-)","date_start_day":"Feb 25, 2026","date_start_day_for_lane":"02\/25\/2026","date_start_time":"10:00 AM","date_start_timestamp":1772006400,"user_id":75285,"auction_type":"simulcast_simple"}]}];
+                const selectedDate = null;
+                const filterDates = {"02-04-2026":"Feb 04, 2026","02-11-2026":"Feb 11, 2026","02-18-2026":"Feb 18, 2026","02-25-2026":"Feb 25, 2026"};
+                const showEventTime = true;
+                const noVehicleMessageHtml = "There aren't any registered cars for this sale as yet. Kindly check back later.";
+                const isAuthUser = false;
+                const allowMultipleDealers = false;
+                const isAlternativeWording = true;
+                const fieldsNaming = {
+                    runListBtn: 'Auction Catalogue',
+                    runList: 'Run List',
+                };
+                const sellerNameToShow = "dealerName";
+                const widgetConstants = {
+                    DEALER_NAME: 'dealerName',
+                    DEALER_ALIAS_NAME: 'dealerAliasName',
+                };
+
+                const Vue = (
+                    isDevMode
+                        ? await import('js/vue/vue2-esm/vue.esm.browser.js')
+                        : await import('js/vue/vue2-esm/vue.esm.browser.min.js')
+                ).default;
+                const App = (await import(
+                    System.addCacheBuster('js/dws/simulcast/calendar/simulcastCalendar.js')
+                    )).default;
+
+                new Vue({
+                    el: '#simulcastCalendarApp',
+                    render: (h) => h(App, {
+                        props: {
+                            widgetParams,
+                            calendarData,
+                            selectedDate,
+                            filterDates,
+                            showEventTime,
+                            noVehicleMessageHtml,
+                            isAuthUser,
+                            allowMultipleDealers,
+                            fieldsNaming,
+                            isAlternativeWording,
+                            sellerNameToShow,
+                            widgetConstants,
+                        },
+                    }),
+                });
+            });
+
+                    </script>
+    </div>
+
+<style type="text/css" media="print">
+    header,
+    footer {
+        display: none;
+    }
+</style><div class="modul-r-editable nowow">
+            <!-- no_designtime_scripts -->
+        <p>
+<span style="font-size:12px;">Disclaimer
+</span></p>
+
+
+<span style="font-size:12px;">
+</span>
+
+
+
+
+
+<p><span style="font-size:12px;">The auction catalogue is subject to change and the list of vehicles should be used as a guide only. The auction dates and times are subject to change. The trade value inclusive of VAT is for information purposes only. The auction process guide contains detailed information about bidding at an auction. MFC reserves the right to remove any vehicle from the catalogue without notice.</span></p>
+
+
+
+<br />
+
+
+
+
+
+
+
+<h2>
+
+
+
+
+<span id="cke_bm_2773S" style="display: none;">&nbsp;</span><strong><span style="color:#004536;">Vehicle Finance available onsite</span></strong><span id="cke_bm_2773E" style="display: none;">&nbsp;</span></h2>
+
+
+
+
+
+
+
+
+
+
+<hr />
+
+
+
+
+<strong><span style="color:#004536;">Please contact:</span></strong><br />
+
+
+
+
+
+
+
+<br />
+
+
+
+
+
+
+
+
+
+
+<strong>Bonny Ntsaluba :</strong><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+        table {
+            border:0px solid #b3adad;
+            border-collapse:collapse;
+            padding:5px;
         }
-  
-.step-by-step__number {
-    background: #75AD92;
-    color: #FFF;
-    float: left;
-    font-family: 'museo_sans700',sans-serif;
-    font-size: 28px;
-    margin: 27px 0 0;
-    padding: 15px 27px;
-    text-align: center;
-  }
- .step-by-step__title {
-    color: #004532;
-    float: left;
-    font-size: 28px;
-    font-family: 'museo_sans700',sans-serif;
-    line-height: 2.1em;
-    margin: 30px 10px 40px 19px;
-    vertical-align: middle;
-    width: 84%;
-    
- 
-
-
-
-
-
-
-
-
-
-
-
-
+        table td {
+            border:0px solid #b3adad;
+            text-align:left;
+            padding:5px;
+            background: #ffffff;
+            color: #313030;
+        }
 
 
 
@@ -4052,26 +4246,25 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
-<h1 style="font-size: 30px; font-family: HelveticaNeue-Medium, Helvetica, Arial, sans-serif; line-height: 1; padding: 0px; color: rgb(0, 69, 54);"><strong>MFC Banking Details</strong></h1>
+<table>
 
-<br>
 
 
 
-<p>It is important that you know how to make cash or EFT payments into our MFC Auction House account.</p>
 
 
 
 
+    <tbody>
 
 
 
 
-<br />
 
 
 
 
+        <tr>
 
 
 
@@ -4080,11 +4273,12 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
+            <td><strong>Contact number&nbsp;</strong></td>
+            
 
 
 
 
-<p>Please follow the below instructions when wanting to make cash or EFT payments.</p>
 
 
 
@@ -4096,6 +4290,8 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
+            <td style="width:400px"> 081 003 2073 &nbsp;</td>
+            
 
 
 
@@ -4111,7 +4307,8 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
-<p><span class="step-by-step__number">1</span></p>
+        </tr>
+        
 
 
 
@@ -4124,10 +4321,10 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
-<h2 class="step-by-step__title">Cash Deposit</h2>
 
 
 
+        <tr>
 
 
 
@@ -4136,8 +4333,9 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
+            <td><strong>E-mail</strong>&nbsp;</td>
+            
 
-<p></p>
 
 
 
@@ -4145,7 +4343,6 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
-<br />
 
 
 
@@ -4153,7 +4350,8 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
-<br />
+            <td style="width:400px"><a href="mailto:bonny@auctionfinance.co.za">finance@mfcauctionshouse.co.za</a>&nbsp;</td>
+            
 
 
 
@@ -4161,7 +4359,6 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
-<br />
 
 
 
@@ -4169,15 +4366,15 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
-<br />
 
+        </tr>
+        
 
 
 
 
 
 
-<br />
 
 
 
@@ -4185,14 +4382,14 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
-<br />
 
 
+    </tbody>
+    
 
 
 
 
-<br />
 
 
 
@@ -4204,291 +4401,7 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 
-
-<p>For cash deposits visit your nearest Nedbank branch and make payment into our MFC Auction House account at a teller.</p>
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-
-
-
-<p>Registration payments:</p>
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-
-
-
-<p>Please use your 13 digit ID number, or the 6 character PA number if provided with one, as the reference number.</p>
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-
-
-
-<p>Invoice payments:</p>
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-
-
-
-<p>Please use the reference number specified on the pro-forma invoice.</p>
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-
-
-
-<p>FMFC Auction House Invoice number e.g. AA123AA12</p>
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-
-
-
-<p>MFC Auction House PA number e.g. PA0001</p>
-
-
-
-
-<br />
-
-
-
-
-
-
-
-
-
-<p><span class="step-by-step__number">2</span></p>
-
-
-
-
-
-
-
-
-
-
-
-
-<h2 class="step-by-step__title">Payments via EFT (Electronic Funds Transfer)</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-<p></p>
-
-
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-<br />
-
-
-
-
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<p>When making an EFT payment, use the banking details below. You must capture your 13 digit ID number, or the 6 character PA number if provided with one, as the reference number when making the payment.</p>
-
-
-
-<br />
-
-
-
-
-
-
-
-<p>Bank: Nedbank</p>
-
-
-
-<br />
-
-
-
-
-
-
-
-<p>Branch Code: 196 005</p>
-
-
-
-<br />
-
-
-
-
-
-
-<p>Account Holder: MFC Auction House</p>
-
-
-
-<br />
-
-
-
-
-
-
-<p>Account Number: 195 740 8375</p>
-
-
-
-<br />
-
-
-
-
-
-
-<p>MFC Auction House Invoice number e.g. AA123AA12</p>
-
-
-
-<br />
-
-
-
-
-
-
-<p>MFC Auction House PA number e.g. PA0001</p>
-
-
-
-<br />
-
-
-
-
-
-
-
-
-
-
-
-
+</table>
 
 
 
@@ -4497,20 +4410,18 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
         <!-- endof_no_designtime_scripts -->
-                </div>
-        </div>
     </div></div></div>
- 
-   <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="body_1_0" data-size-lg="12"></div></div>
  </div>
         </main>
         <footer>
             <div class="layout-container container" data-container="footer">
 
             
-   <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="footer_0_0" data-size-lg="12">
+   <div class="row"><div class="ax-container empty col-lg-4 col-md-12 col-sm-12 col-xs-12  thin" data-container="footer_0_0" data-size-lg="4"></div><div class="ax-container empty col-lg-8 col-md-12 col-sm-12 col-xs-12  " data-container="footer_0_1" data-size-lg="8"></div></div>
+ 
+   <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="footer_1_0" data-size-lg="12">
 <div class="modul-r-container
-            container-6981ed3330054                        nowow"
+            container-6981ed2cbc054                        nowow"
     >
     <div>
                     <style type="text/css"></style>
@@ -4518,9 +4429,9 @@ h1, h2, h3, h4, h5, h6, h7,
             <div class="layout-container" data-container="body">
             
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="body_0_0" data-size-lg="12"><div class="widget-spacer">
-	  <div 
-			style="height:10px;"
-	  	>
+      <div 
+            style="height:10px;"
+          >
     &nbsp;
     </div>
 </div></div></div>
@@ -4573,7 +4484,7 @@ h1, h2, h3, h4, h5, h6, h7,
         <h3>Contact Us</h3>
     </header>
     <ul class="footer-phones">
-		<li><a href="tel:081 003 2073"><i class="fa fa-phone" aria-hidden="true"></i>081 003 2073</a></li>
+        <li><a href="tel:081 003 2073"><i class="fa fa-phone" aria-hidden="true"></i>081 003 2073</a></li>
       <li><a href="mailto:MFCAuctionhouse@mfc.co.za"><i class="fa fa-envelope" aria-hidden="true"></i>Get in touch</a></li>
     </ul>
 </section>
@@ -4677,9 +4588,9 @@ h1, h2, h3, h4, h5, h6, h7,
     </div></div></div>
  
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  hidden-lg hidden-md hidden-sm hidden-xs thin" data-container="body_2_0" data-size-lg="12" data-hidden-lg="1" data-hidden-md="1" data-hidden-sm="1" data-hidden-xs="1"><div class="widget-spacer">
-	  <div 
-			style="height:20px;"
-	  	>
+      <div 
+            style="height:20px;"
+          >
     &nbsp;
     </div>
 </div><div class="modul-r-editable nowow">
@@ -4694,15 +4605,15 @@ h1, h2, h3, h4, h5, h6, h7,
     justify-content:space-evenly;
     align-items:center;
     filter: grayscale(1);
-	opacity: 0.6;
+    opacity: 0.6;
     }
   </style>
 <section>
     <ul class="footer-partners">
     <li>
-      	<a href="https://auctionstreaming.com/" target = "_blank">
-        	<img alt="auctionstreaming" src="media/dealer_101/storage/webstorage/partner-auctionstreaming.svg" alt="Auctionstreaming"/>
-      	</a>
+          <a href="https://auctionstreaming.com/" target = "_blank">
+            <img alt="auctionstreaming" src="media/dealer_101/storage/webstorage/partner-auctionstreaming.svg" alt="Auctionstreaming"/>
+          </a>
       </li>
 <!--
     <li>
@@ -4723,9 +4634,9 @@ h1, h2, h3, h4, h5, h6, h7,
     </div></div></div>
  
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="body_3_0" data-size-lg="12"><div class="widget-spacer">
-	  <div 
-			style="height:20px;"
-	  	>
+      <div 
+            style="height:20px;"
+          >
     &nbsp;
     </div>
 </div></div></div>
@@ -4746,7 +4657,7 @@ h1, h2, h3, h4, h5, h6, h7,
     padding:0px;
   }
   .footer-links li{
-	font-size: 14px;
+    font-size: 14px;
     color: #58585A;
     padding-bottom: 5px;
     display: flex;
@@ -4764,7 +4675,7 @@ h1, h2, h3, h4, h5, h6, h7,
     text-decoration:none;
   }
   .footer-phones .fa{
-	background: #cfcfd0;
+    background: #cfcfd0;
     color: #fff;
     font-size: 18px;
     width: 36px;
@@ -4850,7 +4761,7 @@ h1, h2, h3, h4, h5, h6, h7,
   @media all and (max-width:1279px){
     footer:before {
     height: 60px;
-	}
+    }
     .footer-no p {
     margin-right: -240px;
 }
@@ -4911,7 +4822,7 @@ h1, h2, h3, h4, h5, h6, h7,
     $(function() {
         var fullWidth = false,
             data = {"active_tab":"lg","lg":{"inherited":"none","bg_filling":"full_width","background-image":"","background-color":"rgba(242,249,245,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"md":{"inherited":"lg","bg_filling":"full_width","background-image":"","background-color":"rgba(242,249,245,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"sm":{"inherited":"lg","bg_filling":"full_width","background-image":"","background-color":"rgba(242,249,245,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"xs":{"inherited":"lg","bg_filling":"full_width","background-image":"","background-color":"rgba(242,249,245,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"}},
-            $module = $('.container-6981ed3330054'),
+            $module = $('.container-6981ed2cbc054'),
             isFluidWrapper = !$module.closest('.layout-container').hasClass('container-fluid'),
             $window = $(window),
             sizes = [],
@@ -4960,9 +4871,9 @@ h1, h2, h3, h4, h5, h6, h7,
 </script>
 </div></div>
  
-   <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="footer_1_0" data-size-lg="12">
+   <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="footer_2_0" data-size-lg="12">
 <div class="modul-r-container
-            container-6981ed333007e                        nowow"
+            container-6981ed2cbc07b                        nowow"
     >
     <div>
                     <style type="text/css"></style>
@@ -4981,7 +4892,7 @@ Nedbank Ltd Reg. No 1951/000009/06<br>
 Authorised financial services and registered credit provider (NCRCP16)
   </p>
   <a class="as-logo" href="https://auctionstreaming.com/" target = "_blank">
-  	<img alt="auctionstreaming" src="media/dealer_101/storage/webstorage/partner-auctionstreaming.svg" alt="Auctionstreaming"/>
+      <img alt="auctionstreaming" src="media/dealer_101/storage/webstorage/partner-auctionstreaming.svg" alt="Auctionstreaming"/>
   </a>
   </section>
 </dev>        <!-- endof_no_designtime_scripts -->
@@ -5012,7 +4923,7 @@ Authorised financial services and registered credit provider (NCRCP16)
     $(function() {
         var fullWidth = false,
             data = {"active_tab":"lg","lg":{"inherited":"none","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"md":{"inherited":"lg","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"sm":{"inherited":"lg","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"},"xs":{"inherited":"lg","bg_filling":"full_width","background-image":"","background-color":"rgba(0,99,65,1)","background-position-x":"center","background-position-y":"top","background-size":"auto","background-repeat":"no-repeat","background-attachment":"scroll"}},
-            $module = $('.container-6981ed333007e'),
+            $module = $('.container-6981ed2cbc07b'),
             isFluidWrapper = !$module.closest('.layout-container').hasClass('container-fluid'),
             $window = $(window),
             sizes = [],
@@ -5084,11 +4995,8 @@ Authorised financial services and registered credit provider (NCRCP16)
 </div>
         </footer>
     </div>
-
-<!-- WhatsApp Chatbot - Included on all pages -->
-<?php include_once "whatsapp_chatbot.php"; ?>
 </body>
-<!--0.3166389465332-->
+<!--0.29692697525024-->
 
-<!-- Mirrored from www.mfcauctions.co.za/our-banking-details by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Feb 2026 12:43:38 GMT -->
+<!-- Mirrored from www.mfcauctions.co.za/simulcast-calendar by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Feb 2026 12:42:37 GMT -->
 </html>

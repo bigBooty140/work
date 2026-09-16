@@ -1,453 +1,457 @@
-    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-            <html xmlns="http://www.w3.org/1999/xhtml">
-    
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
 <!-- Mirrored from www.mfcauctions.co.za/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Feb 2026 12:42:00 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
 <head>
 
-<title>MFC Auction House | NedbankMFC</title>
-<meta http-equiv="content-type" content="application/xhtml; charset=UTF-8" >
-<meta name="csrf-token" content="c6017dc5bff09637830669a235fdef63" >
-<meta name="apple-mobile-web-app-capable" content="yes" >
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" >
-<meta name="HandheldFriendly" content="yes" >
-<meta name="mobile-web-app-capable" content="yes" >
-<meta name="showonmobile" content="true" >
-<meta name="description" content="Nedbankmfc is Dealership in , Sa with wide range of vehicles" >
-<meta name="keywords" content="" >
-<meta http-equiv="content-type" content="application/xhtml; charset=UTF-8" >
-<link href="css/dws/styles_responsive/print/bootstrap.min.css" media="print" rel="stylesheet" >
-<link href="css/dws/axgrid.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/font-glyphicons.min.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="media/dealer_101/storage/themes/scheme-1698230266422.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/styler/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/container/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/owl-carousel-2/owl.carousel.min.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/owl-carousel-2/owl.theme.xloo.min.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/slideshow_responsive/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/coupons_banners/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/jquery.jgrowl.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/buyers_tools_panel/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/menu_advanced/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/custom_button/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/inventory_items/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/dws/components/search_advanced_horizontal/responsive.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/rangeSlider/css/ion.rangeSlider.skinDefault.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="css/rangeSlider/css/ion.rangeSlider.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="media/dealer_101/favicons/e445d5e31a2792f8528dcdbc3bd8ed75.ico" rel="icon" type="image/x-icon" >
-<link href="media/dealer_101/favicons/e445d5e31a2792f8528dcdbc3bd8ed75.ico" rel="shortcut icon" type="image/x-icon" >
+    <title>MFC Auction House | NedbankMFC</title>
+    <meta http-equiv="content-type" content="application/xhtml; charset=UTF-8">
+    <meta name="csrf-token" content="c6017dc5bff09637830669a235fdef63">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="HandheldFriendly" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="showonmobile" content="true">
+    <meta name="description" content="Nedbankmfc is Dealership in , Sa with wide range of vehicles">
+    <meta name="keywords" content="">
+    <meta http-equiv="content-type" content="application/xhtml; charset=UTF-8">
+    <link href="css/dws/styles_responsive/print/bootstrap.min.css" media="print" rel="stylesheet">
+    <link href="css/dws/axgrid.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/font-glyphicons.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="media/dealer_101/storage/themes/scheme-1698230266422.css" media="screen" rel="stylesheet"
+        type="text/css">
+    <link href="css/dws/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/styler/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/container/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/owl-carousel-2/owl.carousel.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/owl-carousel-2/owl.theme.xloo.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/slideshow_responsive/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/coupons_banners/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/jquery.jgrowl.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/buyers_tools_panel/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/menu_advanced/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/custom_button/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/inventory_items/responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/dws/components/search_advanced_horizontal/responsive.css" media="screen" rel="stylesheet"
+        type="text/css">
+    <link href="css/rangeSlider/css/ion.rangeSlider.skinDefault.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/rangeSlider/css/ion.rangeSlider.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="media/dealer_101/favicons/e445d5e31a2792f8528dcdbc3bd8ed75.ico" rel="icon" type="image/x-icon">
+    <link href="media/dealer_101/favicons/e445d5e31a2792f8528dcdbc3bd8ed75.ico" rel="shortcut icon" type="image/x-icon">
 
-<style type="text/css" media="screen">
-<!--
+    <style type="text/css" media="screen">
+        <!--
+        @media (min-width: 1200px) {
 
-                                
-                            @media (min-width: 1200px) {
-            
-                .container-6981ed19677e9 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
+            .container-6981ed19677e9 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
             }
-                    
-                            @media (max-width: 1199px) and (min-width: 992px) {
-            
-                .container-6981ed19677e9 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 991px) and (min-width: 768px) {
-            
-                .container-6981ed19677e9 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 767px) {
-            
-                .container-6981ed19677e9 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-            
-                                
-                            @media (min-width: 1200px) {
-            
-                .container-6981ed19678d3 {
-                                                                                                                                                                                                                            background-color: rgba(242,249,245,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 1199px) and (min-width: 992px) {
-            
-                .container-6981ed19678d3 {
-                                                                                                                                                                                                                            background-color: rgba(242,249,245,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 991px) and (min-width: 768px) {
-            
-                .container-6981ed19678d3 {
-                                                                                                                                                                                                                            background-color: rgba(242,249,245,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 767px) {
-            
-                .container-6981ed19678d3 {
-                                                                                                                                                                                                                            background-color: rgba(242,249,245,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-            
-                                
-                            @media (min-width: 1200px) {
-            
-                .container-6981ed1967915 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 1199px) and (min-width: 992px) {
-            
-                .container-6981ed1967915 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 991px) and (min-width: 768px) {
-            
-                .container-6981ed1967915 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-                    
-                            @media (max-width: 767px) {
-            
-                .container-6981ed1967915 {
-                                                                                                                                                                                                                            background-color: rgba(0,99,65,1);
-                                                                                                                        background-position-x: center;
-                                                                                                                        background-position-y: top;
-                                                                                                                        background-size: auto;
-                                                                                                                        background-repeat: no-repeat;
-                                                                                                                        background-attachment: scroll;
-                                                    }
-            }
-            
-    .adv-6981ed197a57e.navbar-default,
-    .adv-6981ed197a57e.navbar-inverse {
-        background-image: none;
-            background-color: rgba(0,99,65,1);
-            border-color: rgba(0,99,65,1);
         }
 
-    .adv-6981ed197a57e .dropdown-menu {
-        background-image: none;
-            background-color: rgba(0,99,65,1) !important;
-            border-color: rgba(0,99,65,1);
-        }
+        @media (max-width: 1199px) and (min-width: 992px) {
 
-        .adv-6981ed197a57e.navbar-default .navbar-nav > li > a,
-    .adv-6981ed197a57e.navbar-default .navbar-brand,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav > li > a,
-    .adv-6981ed197a57e.navbar-inverse .navbar-brand {
-        color: rgba(255,255,255,1);
-    }
-    .adv-6981ed197a57e.navbar-default .navbar-toggle .icon-bar,
-    .adv-6981ed197a57e.navbar-inverse .navbar-toggle .icon-bar {
-        background-color: rgba(255,255,255,1);
-    }
-            .adv-6981ed197a57e.navbar-default .navbar-toggle:hover .icon-bar,
-    .adv-6981ed197a57e.navbar-inverse .navbar-toggle:hover .icon-bar {
-        background-color: rgba(230,230,230,1);
-    }
-    
-    .adv-6981ed197a57e.navbar-default .navbar-nav > li > a:hover,
-    .adv-6981ed197a57e.navbar-default .navbar-nav > li > a:focus,
-    .adv-6981ed197a57e.navbar-default .navbar-nav > li.hide-item > a,
-    .adv-6981ed197a57e.navbar-default .navbar-nav > .multi-level-open > a,
-    .adv-6981ed197a57e.navbar-default .navbar-nav > .multi-level-open > a:hover,
-    .adv-6981ed197a57e.navbar-default .navbar-nav > .multi-level-open > a:focus,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav > li > a:hover,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav > li > a:focus,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav > li.hide-item > a,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav > .multi-level-open > a,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav > .multi-level-open > a:hover,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav > .multi-level-open > a:focus,
-    .adv-6981ed197a57e.navbar-default .navbar-toggle:hover,
-    .adv-6981ed197a57e.navbar-inverse .navbar-toggle:hover,
-    .adv-6981ed197a57e.navbar-default .navbar-toggle:focus,
-    .adv-6981ed197a57e.navbar-inverse .navbar-toggle:focus {
-        background-image: none;
-            color: rgba(230,230,230,1) !important;
-            background-color: rgba(0,99,65,1);
-        }
-
-    .adv-6981ed197a57e .dropdown-menu > li > a,
-    .adv-6981ed197a57e.navbar-default .navbar-nav .multi-level-open .dropdown-menu > li > a,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu > li > a {
-            color: rgba(255,255,255,1);
-        }
-
-    .adv-6981ed197a57e .dropdown-menu > li > a:hover,
-    .adv-6981ed197a57e .dropdown-menu > li > a:focus,
-    .adv-6981ed197a57e.navbar-default .navbar-nav .multi-level-open .dropdown-menu > li > a:hover,
-    .adv-6981ed197a57e.navbar-default .navbar-nav .multi-level-open .dropdown-menu > li > a:focus,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu > li > a:hover,
-    .adv-6981ed197a57e.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu > li > a:focus,
-    .adv-6981ed197a57e .multi-level-open .dropdown-menu > li.multi-level-open > a {
-        background-image: none;
-            background-color: rgba(0,99,65,1);
-            color: rgba(230,230,230,1);
-        }
-
-    .adv-6981ed197a57e.navbar-default .navbar-toggle,
-    .adv-6981ed197a57e.navbar-inverse .navbar-toggle {
-        background-image: none;
-            border-color: rgba(0,99,65,1);
+            .container-6981ed19677e9 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
             }
-
-    
-    .adv-6981ed197a57e .dropdown-menu > .multi-level-open > a,
-    .adv-6981ed197a57e .dropdown-menu > .multi-level-open > a:hover,
-    .adv-6981ed197a57e .dropdown-menu > .multi-level-open > a:focus {
-            background-color: rgba(0,99,65,1);
-            color: rgba(230,230,230,1) !important;
         }
-    
-        
-    .modul-r-login .mlog-custom-fb-botton {
-        width: 89px;
-        height: 22px !important;
-        cursor: pointer;
-        background: transparent url("images/dws/components/loa/facebook.png") no-repeat;
-    }
 
-    .modul-login .dws_login_form input[type="checkbox"],
-    .modul-login .dws_login_form input[type="checkbox"] ~ span {
-        margin-top: 0;
-        vertical-align: middle;
-    }
+        @media (max-width: 991px) and (min-width: 768px) {
 
-    .modul-r-login .fb-login-button {
-        height: 20px;
-        float: left;
-        margin: 6px 0 10px;
-    }
+            .container-6981ed19677e9 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
 
-    /* Custom fix for wrong caret position for input field
+        @media (max-width: 767px) {
+
+            .container-6981ed19677e9 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+
+        @media (min-width: 1200px) {
+
+            .container-6981ed19678d3 {
+                background-color: rgba(242, 249, 245, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 1199px) and (min-width: 992px) {
+
+            .container-6981ed19678d3 {
+                background-color: rgba(242, 249, 245, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 991px) and (min-width: 768px) {
+
+            .container-6981ed19678d3 {
+                background-color: rgba(242, 249, 245, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 767px) {
+
+            .container-6981ed19678d3 {
+                background-color: rgba(242, 249, 245, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+
+        @media (min-width: 1200px) {
+
+            .container-6981ed1967915 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 1199px) and (min-width: 992px) {
+
+            .container-6981ed1967915 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 991px) and (min-width: 768px) {
+
+            .container-6981ed1967915 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        @media (max-width: 767px) {
+
+            .container-6981ed1967915 {
+                background-color: rgba(0, 99, 65, 1);
+                background-position-x: center;
+                background-position-y: top;
+                background-size: auto;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+            }
+        }
+
+        .adv-6981ed197a57e.navbar-default,
+        .adv-6981ed197a57e.navbar-inverse {
+            background-image: none;
+            background-color: rgba(0, 99, 65, 1);
+            border-color: rgba(0, 99, 65, 1);
+        }
+
+        .adv-6981ed197a57e .dropdown-menu {
+            background-image: none;
+            background-color: rgba(0, 99, 65, 1) !important;
+            border-color: rgba(0, 99, 65, 1);
+        }
+
+        .adv-6981ed197a57e.navbar-default .navbar-nav>li>a,
+        .adv-6981ed197a57e.navbar-default .navbar-brand,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav>li>a,
+        .adv-6981ed197a57e.navbar-inverse .navbar-brand {
+            color: rgba(255, 255, 255, 1);
+        }
+
+        .adv-6981ed197a57e.navbar-default .navbar-toggle .icon-bar,
+        .adv-6981ed197a57e.navbar-inverse .navbar-toggle .icon-bar {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .adv-6981ed197a57e.navbar-default .navbar-toggle:hover .icon-bar,
+        .adv-6981ed197a57e.navbar-inverse .navbar-toggle:hover .icon-bar {
+            background-color: rgba(230, 230, 230, 1);
+        }
+
+        .adv-6981ed197a57e.navbar-default .navbar-nav>li>a:hover,
+        .adv-6981ed197a57e.navbar-default .navbar-nav>li>a:focus,
+        .adv-6981ed197a57e.navbar-default .navbar-nav>li.hide-item>a,
+        .adv-6981ed197a57e.navbar-default .navbar-nav>.multi-level-open>a,
+        .adv-6981ed197a57e.navbar-default .navbar-nav>.multi-level-open>a:hover,
+        .adv-6981ed197a57e.navbar-default .navbar-nav>.multi-level-open>a:focus,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav>li>a:hover,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav>li>a:focus,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav>li.hide-item>a,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav>.multi-level-open>a,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav>.multi-level-open>a:hover,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav>.multi-level-open>a:focus,
+        .adv-6981ed197a57e.navbar-default .navbar-toggle:hover,
+        .adv-6981ed197a57e.navbar-inverse .navbar-toggle:hover,
+        .adv-6981ed197a57e.navbar-default .navbar-toggle:focus,
+        .adv-6981ed197a57e.navbar-inverse .navbar-toggle:focus {
+            background-image: none;
+            color: rgba(230, 230, 230, 1) !important;
+            background-color: rgba(0, 99, 65, 1);
+        }
+
+        .adv-6981ed197a57e .dropdown-menu>li>a,
+        .adv-6981ed197a57e.navbar-default .navbar-nav .multi-level-open .dropdown-menu>li>a,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu>li>a {
+            color: rgba(255, 255, 255, 1);
+        }
+
+        .adv-6981ed197a57e .dropdown-menu>li>a:hover,
+        .adv-6981ed197a57e .dropdown-menu>li>a:focus,
+        .adv-6981ed197a57e.navbar-default .navbar-nav .multi-level-open .dropdown-menu>li>a:hover,
+        .adv-6981ed197a57e.navbar-default .navbar-nav .multi-level-open .dropdown-menu>li>a:focus,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu>li>a:hover,
+        .adv-6981ed197a57e.navbar-inverse .navbar-nav .multi-level-open .dropdown-menu>li>a:focus,
+        .adv-6981ed197a57e .multi-level-open .dropdown-menu>li.multi-level-open>a {
+            background-image: none;
+            background-color: rgba(0, 99, 65, 1);
+            color: rgba(230, 230, 230, 1);
+        }
+
+        .adv-6981ed197a57e.navbar-default .navbar-toggle,
+        .adv-6981ed197a57e.navbar-inverse .navbar-toggle {
+            background-image: none;
+            border-color: rgba(0, 99, 65, 1);
+        }
+
+
+        .adv-6981ed197a57e .dropdown-menu>.multi-level-open>a,
+        .adv-6981ed197a57e .dropdown-menu>.multi-level-open>a:hover,
+        .adv-6981ed197a57e .dropdown-menu>.multi-level-open>a:focus {
+            background-color: rgba(0, 99, 65, 1);
+            color: rgba(230, 230, 230, 1) !important;
+        }
+
+
+        .modul-r-login .mlog-custom-fb-botton {
+            width: 89px;
+            height: 22px !important;
+            cursor: pointer;
+            background: transparent url("images/dws/components/loa/facebook.png") no-repeat;
+        }
+
+        .modul-login .dws_login_form input[type="checkbox"],
+        .modul-login .dws_login_form input[type="checkbox"]~span {
+            margin-top: 0;
+            vertical-align: middle;
+        }
+
+        .modul-r-login .fb-login-button {
+            height: 20px;
+            float: left;
+            margin: 6px 0 10px;
+        }
+
+        /* Custom fix for wrong caret position for input field
        inside a fixed position parent on iOS 11. Bug #12046 */
-    body.ios-bugfix-caret.modal-open {
-        position: fixed;
-        width: 100%;
-    }
+        body.ios-bugfix-caret.modal-open {
+            position: fixed;
+            width: 100%;
+        }
+        -->
+    </style>
+    <script type="text/javascript">
+        //<!--
+        window.btNotifyFormSuccess = "";
 
--->
-</style>
-<script type="text/javascript">
-    //<!--
-    window.btNotifyFormSuccess = "";
-
-    /**
-    * bt - Buyers Tools
-    * vd - Vehicle Details
-    */
-    window.btText = {
-    btSaveButtonText: 'Save This Car!',
-    btSavedButtonText: 'Saved!',
-    btSavedButtonHoverText: 'Remove Vehicle',
-    btRemoveButtonText: 'Remove This Car!',
-    vdSaveButtonText: 'Watch',
-    vdSaveButtonTitle: 'Save This Car',
-    vdRemoveButtonText: 'Remove',
-    vdRemoveButtonTitle: 'Remove Car'
-    };
-    var isAuthorized = false;
-    var vehicleCookiesFlag = 0;
+        /**
+        * bt - Buyers Tools
+        * vd - Vehicle Details
+        */
+        window.btText = {
+            btSaveButtonText: 'Save This Car!',
+            btSavedButtonText: 'Saved!',
+            btSavedButtonHoverText: 'Remove Vehicle',
+            btRemoveButtonText: 'Remove This Car!',
+            vdSaveButtonText: 'Watch',
+            vdSaveButtonTitle: 'Save This Car',
+            vdRemoveButtonText: 'Remove',
+            vdRemoveButtonTitle: 'Remove Car'
+        };
+        var isAuthorized = false;
+        var vehicleCookiesFlag = 0;
 
 
-    //-->
-</script>
-<script type="text/javascript">
-    //<!--
-strSaving = 'Saving Vehicle...';
-strRemoving = 'Removing Vehicle...';
-    //-->
-</script>
-<script type="text/javascript">
-    //<!--
-var CSRF_GLOBAL_TOKEN_NAME = "csrf_token";
-var CSRF_GLOBAL_TOKEN_LIFETIME = "300";
-var dealershipName = "NedbankMFC";
-var advSearchVehicleTags = {"data":{"1":{"id":31,"name":"ADESA"},"2":{"id":29,"name":"Premium Vehicle"},"3":{"id":33,"name":"SmartAuction"},"-1":"None"},"not_select":"","select":""};    //-->
-</script>
-<script type="text/javascript">
-    //<!--
-var loadedScriptLinks = ["\/js\/jquery\/jquery-1.11.2.min.js","#\/js\/jquery\/jquery.browser.min.js","#\/js\/dws\/control_responsive.js","#\/js\/bootstrap\/bootstrap.min.js","#\/js\/dws\/system.js","#\/js\/jquery\/jquery.easing.1.3.js","#\/js\/owl-carousel-2\/owl.carousel.min.js","#\/js\/vue.js","#\/js\/jquery\/jquery.jgrowl-1.4.5.min.js","#\/js\/jalert.js","#\/js\/bootstrap\/plugins\/moment\/moment.min.js","#\/js\/dws\/buers_tools_panel_responsive.js","#\/js\/dws\/menu_advanced_responsive.js","#\/js\/dws\/button.js","#\/js\/dws\/inventory_keyword_search.js","#\/js\/jquery\/jquery.cookie.js","#\/js\/jquerystatus.js","#\/js\/dws\/fb_login.js","#\/js\/dws\/form.js","#\/js\/dws\/login_responsive.js","#\/js\/jquery\/jquery.timeago.js","#\/js\/json.js","#\/js\/date.js","#\/js\/dws\/compare_vehiclelist_responsive.js","#\/js\/dws\/inventory_items_buyers_tools_responsive.js","#\/js\/dws\/advanced_search.js","#\/js\/jquery\/jquery.json-2.2.min.js","#\/js\/dws\/advanced_search\/ion.rangeSlider.2.1.2.js","js//\/jquery\/jquery.cookie.js","#\/js\/dws\/adv_filter_horizontal_responsive.js","#\/js\/dws\/advanced_search\/ion.rangeSlider.2.1.2.min.js","#\/js\/jquery\/jquery.validate.js","#\/js\/jquery\/jquery.selectchain.js","#\/js\/dws\/form_validation_rules.js","#\/js\/dws\/form_validation_responsive.js","#\/js\/jquery\/jquery.maskedinput.js","#\/js\/dws\/notifyme_responsive.js","#\/js\/dws\/GoogleAnalytics\/GoogleAnalytics.js","#\/js\/piwik.js","#\/js\/KeyUppressForForm.js","\/piwik\/plugins\/ClickHeat\/libs\/js\/clickheat-original.js"];var loadedStyleLinks = ["\/css\/dws\/axgrid.css","#\/css\/dws\/font-glyphicons.min.css","#\/media\/dealer_101\/storage\/themes\/scheme-1698230266422.css","#\/css\/dws\/font-awesome.min.css","#\/css\/dws\/components\/styler\/responsive.css","#\/css\/dws\/components\/container\/responsive.css","#\/css\/owl-carousel-2\/owl.carousel.min.css","#\/css\/owl-carousel-2\/owl.theme.xloo.min.css","#\/css\/dws\/components\/slideshow_responsive\/responsive.css","#\/css\/dws\/components\/coupons_banners\/responsive.css","#\/css\/jquery.jgrowl.css","#\/css\/dws\/components\/buyers_tools_panel\/responsive.css","#\/css\/dws\/components\/menu_advanced\/responsive.css","#\/css\/dws\/components\/custom_button\/responsive.css","#\/css\/dws\/components\/inventory_items\/responsive.css","#\/css\/dws\/components\/search_advanced_horizontal\/responsive.css","#\/css\/rangeSlider\/css\/ion.rangeSlider.skinDefault.css","\/css\/rangeSlider\/css\/ion.rangeSlider.css"];    //-->
-</script>
-<script type="text/javascript" src="js/jquery/jquery-1.11.2.min.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.browser.min.js"></script>
-<script type="text/javascript" src="js/dws/control_responsive.js"></script>
-<script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/dws/system.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.easing.1.3.js"></script>
-<script type="text/javascript" src="js/owl-carousel-2/owl.carousel.min.js"></script>
-<script type="text/javascript" src="js/vue.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.jgrowl-1.4.5.min.js"></script>
-<script type="text/javascript" src="js/jalert.js"></script>
-<script type="text/javascript" src="js/bootstrap/plugins/moment/moment.min.js"></script>
-<script type="text/javascript" src="js/dws/buers_tools_panel_responsive.js"></script>
-<script type="text/javascript" src="js/dws/menu_advanced_responsive.js"></script>
-<script type="text/javascript" src="js/dws/button.js"></script>
-<script type="text/javascript" src="js/dws/inventory_keyword_search.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.cookie.js"></script>
-<script type="text/javascript" src="js/jquerystatus.js"></script>
-<script type="text/javascript" src="js/dws/fb_login.js"></script>
-<script type="text/javascript" src="js/dws/form.js"></script>
-<script type="text/javascript" src="js/dws/login_responsive.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.timeago.js"></script>
-<script type="text/javascript" src="js/json.js"></script>
-<script type="text/javascript" src="js/date.js"></script>
-<script type="text/javascript" src="js/dws/compare_vehiclelist_responsive.js"></script>
-<script type="text/javascript" src="js/dws/inventory_items_buyers_tools_responsive.js"></script>
-<script type="text/javascript" src="js/dws/advanced_search.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.json-2.2.min.js"></script>
-<script type="text/javascript" src="js/dws/advanced_search/ion.rangeSlider.2.1.2.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.cookie.js"></script>
-<script type="text/javascript" src="js/dws/adv_filter_horizontal_responsive.js"></script>
-<script type="text/javascript" src="js/dws/advanced_search/ion.rangeSlider.2.1.2.min.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.validate.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.selectchain.js"></script>
-<script type="text/javascript" src="js/dws/form_validation_rules.js"></script>
-<script type="text/javascript" src="js/dws/form_validation_responsive.js"></script>
-<script type="text/javascript" src="js/jquery/jquery.maskedinput.js"></script>
-<script type="text/javascript" src="js/dws/notifyme_responsive.js"></script>
-<script type="text/javascript" src="js/dws/GoogleAnalytics/GoogleAnalytics.js"></script>
-<script type="text/javascript" src="js/piwik.js"></script>
-<script type="text/javascript" src="js/KeyUppressForForm.js"></script>
-<script type="text/javascript" src="piwik/plugins/ClickHeat/libs/js/clickheat-original.js"></script>
-<script type="text/javascript">
-    //<!--
+        //-->
+    </script>
+    <script type="text/javascript">
+        //<!--
+        strSaving = 'Saving Vehicle...';
+        strRemoving = 'Removing Vehicle...';
+        //-->
+    </script>
+    <script type="text/javascript">
+        //<!--
+        var CSRF_GLOBAL_TOKEN_NAME = "csrf_token";
+        var CSRF_GLOBAL_TOKEN_LIFETIME = "300";
+        var dealershipName = "NedbankMFC";
+        var advSearchVehicleTags = { "data": { "1": { "id": 31, "name": "ADESA" }, "2": { "id": 29, "name": "Premium Vehicle" }, "3": { "id": 33, "name": "SmartAuction" }, "-1": "None" }, "not_select": "", "select": "" };    //-->
+    </script>
+    <script type="text/javascript">
+        //<!--
+        var loadedScriptLinks = ["\/js\/jquery\/jquery-1.11.2.min.js", "#\/js\/jquery\/jquery.browser.min.js", "#\/js\/dws\/control_responsive.js", "#\/js\/bootstrap\/bootstrap.min.js", "#\/js\/dws\/system.js", "#\/js\/jquery\/jquery.easing.1.3.js", "#\/js\/owl-carousel-2\/owl.carousel.min.js", "#\/js\/vue.js", "#\/js\/jquery\/jquery.jgrowl-1.4.5.min.js", "#\/js\/jalert.js", "#\/js\/bootstrap\/plugins\/moment\/moment.min.js", "#\/js\/dws\/buers_tools_panel_responsive.js", "#\/js\/dws\/menu_advanced_responsive.js", "#\/js\/dws\/button.js", "#\/js\/dws\/inventory_keyword_search.js", "#\/js\/jquery\/jquery.cookie.js", "#\/js\/jquerystatus.js", "#\/js\/dws\/fb_login.js", "#\/js\/dws\/form.js", "#\/js\/dws\/login_responsive.js", "#\/js\/jquery\/jquery.timeago.js", "#\/js\/json.js", "#\/js\/date.js", "#\/js\/dws\/compare_vehiclelist_responsive.js", "#\/js\/dws\/inventory_items_buyers_tools_responsive.js", "#\/js\/dws\/advanced_search.js", "#\/js\/jquery\/jquery.json-2.2.min.js", "#\/js\/dws\/advanced_search\/ion.rangeSlider.2.1.2.js", "js//\/jquery\/jquery.cookie.js", "#\/js\/dws\/adv_filter_horizontal_responsive.js", "#\/js\/dws\/advanced_search\/ion.rangeSlider.2.1.2.min.js", "#\/js\/jquery\/jquery.validate.js", "#\/js\/jquery\/jquery.selectchain.js", "#\/js\/dws\/form_validation_rules.js", "#\/js\/dws\/form_validation_responsive.js", "#\/js\/jquery\/jquery.maskedinput.js", "#\/js\/dws\/notifyme_responsive.js", "#\/js\/dws\/GoogleAnalytics\/GoogleAnalytics.js", "#\/js\/piwik.js", "#\/js\/KeyUppressForForm.js", "\/piwik\/plugins\/ClickHeat\/libs\/js\/clickheat-original.js"]; var loadedStyleLinks = ["\/css\/dws\/axgrid.css", "#\/css\/dws\/font-glyphicons.min.css", "#\/media\/dealer_101\/storage\/themes\/scheme-1698230266422.css", "#\/css\/dws\/font-awesome.min.css", "#\/css\/dws\/components\/styler\/responsive.css", "#\/css\/dws\/components\/container\/responsive.css", "#\/css\/owl-carousel-2\/owl.carousel.min.css", "#\/css\/owl-carousel-2\/owl.theme.xloo.min.css", "#\/css\/dws\/components\/slideshow_responsive\/responsive.css", "#\/css\/dws\/components\/coupons_banners\/responsive.css", "#\/css\/jquery.jgrowl.css", "#\/css\/dws\/components\/buyers_tools_panel\/responsive.css", "#\/css\/dws\/components\/menu_advanced\/responsive.css", "#\/css\/dws\/components\/custom_button\/responsive.css", "#\/css\/dws\/components\/inventory_items\/responsive.css", "#\/css\/dws\/components\/search_advanced_horizontal\/responsive.css", "#\/css\/rangeSlider\/css\/ion.rangeSlider.skinDefault.css", "\/css\/rangeSlider\/css\/ion.rangeSlider.css"];    //-->
+    </script>
+    <script type="text/javascript" src="js/jquery/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.browser.min.js"></script>
+    <script type="text/javascript" src="js/dws/control_responsive.js"></script>
+    <script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/dws/system.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="js/owl-carousel-2/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="js/vue.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.jgrowl-1.4.5.min.js"></script>
+    <script type="text/javascript" src="js/jalert.js"></script>
+    <script type="text/javascript" src="js/bootstrap/plugins/moment/moment.min.js"></script>
+    <script type="text/javascript" src="js/dws/buers_tools_panel_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/menu_advanced_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/button.js"></script>
+    <script type="text/javascript" src="js/dws/inventory_keyword_search.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.cookie.js"></script>
+    <script type="text/javascript" src="js/jquerystatus.js"></script>
+    <script type="text/javascript" src="js/dws/fb_login.js"></script>
+    <script type="text/javascript" src="js/dws/form.js"></script>
+    <script type="text/javascript" src="js/dws/login_responsive.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.timeago.js"></script>
+    <script type="text/javascript" src="js/json.js"></script>
+    <script type="text/javascript" src="js/date.js"></script>
+    <script type="text/javascript" src="js/dws/compare_vehiclelist_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/inventory_items_buyers_tools_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/advanced_search.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.json-2.2.min.js"></script>
+    <script type="text/javascript" src="js/dws/advanced_search/ion.rangeSlider.2.1.2.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.cookie.js"></script>
+    <script type="text/javascript" src="js/dws/adv_filter_horizontal_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/advanced_search/ion.rangeSlider.2.1.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.validate.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.selectchain.js"></script>
+    <script type="text/javascript" src="js/dws/form_validation_rules.js"></script>
+    <script type="text/javascript" src="js/dws/form_validation_responsive.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.maskedinput.js"></script>
+    <script type="text/javascript" src="js/dws/notifyme_responsive.js"></script>
+    <script type="text/javascript" src="js/dws/GoogleAnalytics/GoogleAnalytics.js"></script>
+    <script type="text/javascript" src="js/piwik.js"></script>
+    <script type="text/javascript" src="js/KeyUppressForForm.js"></script>
+    <script type="text/javascript" src="piwik/plugins/ClickHeat/libs/js/clickheat-original.js"></script>
+    <script type="text/javascript">
+        //<!--
 
-/*This variable using inside Xamarin-based applications. Object Xamarin will be initialised inside Xamarin App. DO NOT DELETE THIS CODE! */
-var xamarinApplication = typeof Xamarin == 'object' ? true : false;
+        /*This variable using inside Xamarin-based applications. Object Xamarin will be initialised inside Xamarin App. DO NOT DELETE THIS CODE! */
+        var xamarinApplication = typeof Xamarin == 'object' ? true : false;
 
-var dws_alias = [];
+        var dws_alias = [];
 
-function sortSelected(arr){
+        function sortSelected(arr) {
 
-    var noSorting = new Array();
-    var arrTemp = new Array();
-    for (id in arr) {
-        arrTemp = [];
-        arrTemp.id = id;
-        arrTemp.name = arr[id];
-        noSorting.push(arrTemp);
-    }
-    var result = noSorting.sort(function(x, y) {return x.name > y.name ? 1 : -1;});
-
-    return result;
-}
-if ( !Date.prototype.toISOString ) {
-    (function() {
-        function pad(number) {
-            var r = String(number);
-            if ( r.length === 1 ) {
-                r = '0' + r;
+            var noSorting = new Array();
+            var arrTemp = new Array();
+            for (id in arr) {
+                arrTemp = [];
+                arrTemp.id = id;
+                arrTemp.name = arr[id];
+                noSorting.push(arrTemp);
             }
-            return r;
-        }
-        Date.prototype.toISOString = function() {
-            return this.getUTCFullYear()
-                + '-' + pad( this.getUTCMonth() + 1 )
-                + '-' + pad( this.getUTCDate() )
-                + 'T' + pad( this.getUTCHours() )
-                + ':' + pad( this.getUTCMinutes() )
-                + ':' + pad( this.getUTCSeconds() )
-                + '.' + String( (this.getUTCMilliseconds()/1000).toFixed(3) ).slice( 2, 5 )
-                + 'Z';
-        };
-    }() );
-}
-                var _dws_params_ = {};
-        $(window).load(function(){
-        var data = {
-            oper: 'make_page_view',
-            page_id: '5',
-            site_id: '101',
-            ip: '168.210.140.114',
-            user_agent: 'Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)'
-        };
-        if (typeof(_dws_params_.id) != 'undefined') {
-            data.vehicle_id = _dws_params_.id;
-            data.service_id = '';
-        }
+            var result = noSorting.sort(function (x, y) { return x.name > y.name ? 1 : -1; });
 
-        $.ajax({
-            url: '/ajax',
-            data: data,
-            type: 'POST'
+            return result;
+        }
+        if (!Date.prototype.toISOString) {
+            (function () {
+                function pad(number) {
+                    var r = String(number);
+                    if (r.length === 1) {
+                        r = '0' + r;
+                    }
+                    return r;
+                }
+                Date.prototype.toISOString = function () {
+                    return this.getUTCFullYear()
+                        + '-' + pad(this.getUTCMonth() + 1)
+                        + '-' + pad(this.getUTCDate())
+                        + 'T' + pad(this.getUTCHours())
+                        + ':' + pad(this.getUTCMinutes())
+                        + ':' + pad(this.getUTCSeconds())
+                        + '.' + String((this.getUTCMilliseconds() / 1000).toFixed(3)).slice(2, 5)
+                        + 'Z';
+                };
+            }());
+        }
+        var _dws_params_ = {};
+        $(window).load(function () {
+            var data = {
+                oper: 'make_page_view',
+                page_id: '5',
+                site_id: '101',
+                ip: '168.210.140.114',
+                user_agent: 'Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)'
+            };
+            if (typeof (_dws_params_.id) != 'undefined') {
+                data.vehicle_id = _dws_params_.id;
+                data.service_id = '';
+            }
+
+            $.ajax({
+                url: '/ajax',
+                data: data,
+                type: 'POST'
+            });
         });
-    });
-            //-->
-</script>
-<script type="text/javascript">
+        //-->
+    </script>
+    <script type="text/javascript">
     //<!--
-                <!-- Start Piwik Tracking Code -->
+                < !--Start Piwik Tracking Code -->
                     try {
                          var piwikTracker = Piwik.getTracker(document.location.protocol + "//www.mfcauctions.co.za/piwik/piwik.php", 1917);
                          piwikTracker.setCustomVariable(3, 'sid', 'c6017dc5bff09637f83a01b920727f44' )
@@ -777,10 +781,10 @@ h1, h2, h3, h4, h5, h6, h7,
     padding-left: 80px;
 }
     .icn_tb_home{
-	position:fixed;
+    position:fixed;
     z-index:10000;
-	top:77px;
-	left:calc(50% - 580px);
+    top:77px;
+    left:calc(50% - 580px);
     }
     .icn_tb_home a{
       color:#fff;
@@ -829,7 +833,7 @@ h1, h2, h3, h4, h5, h6, h7,
   </style>
 <section class="icn_tb_home">
   <a href="/" title="Home">
-  	<i class="fa fa-home" aria-hidden="true"></i>
+      <i class="fa fa-home" aria-hidden="true"></i>
   </a>
   </section>
 </dev>        <!-- endof_no_designtime_scripts -->
@@ -868,7 +872,7 @@ h1, h2, h3, h4, h5, h6, h7,
 
 
 <div aria-label="Auction notification" class="notification-banner" id="auctionBanner" role="region">
-<span>MFC Auction Starting Time: 10:00AM &ndash; Effective 3 September 2025</span>
+<span>MFC Auction Starting Time: 10:00AM &ndash; Effective 3 September 2027</span>
 <button id="bannerCloseBtn" type="button">Close</button>
 </div>
 
@@ -3013,9 +3017,9 @@ h1, h2, h3, h4, h5, h6, h7,
 </div></div>
  
    <div class="row"><div class="ax-container empty col-lg-3 col-md-12 col-sm-12 col-xs-12  thin" data-container="body_1_0" data-size-lg="3"><div class="widget-spacer">
-	  <div 
-			style="height:8px;"
-	  	>
+      <div 
+            style="height:8px;"
+          >
     &nbsp;
     </div>
 </div><div class="modul-r-editable nowow">
@@ -3025,13 +3029,13 @@ h1, h2, h3, h4, h5, h6, h7,
 <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect" />
 <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600&amp;display=swap" rel="stylesheet" />
   <section class="header-logo">
-  	 <a href="/" ><img  src="media/dealer_101/storage/images/home/Nedbank_and_MFC_Co-branded_Logo.png" / alt="Nedbank and MFC Co-branded Logo"></a>
+       <a href="/" ><img  src="media/dealer_101/storage/images/home/Nedbank_and_MFC_Co-branded_Logo.png" / alt="Nedbank and MFC Co-branded Logo"></a>
   </section>
 </dev>        <!-- endof_no_designtime_scripts -->
     </div></div><div class="ax-container empty col-lg-7 col-md-10 col-sm-10 col-xs-12  " data-container="body_1_1" data-size-lg="7"><div class="widget-spacer">
-	  <div 
-			style="height:30px;"
-	  	>
+      <div 
+            style="height:30px;"
+          >
     &nbsp;
     </div>
 </div>
@@ -3067,13 +3071,13 @@ h1, h2, h3, h4, h5, h6, h7,
             >
                 <ul class="nav navbar-nav">
                                                                                                 <li class="full-width-in-thin level-top">
-                                <a href="simulcast-calendar.html"
+                                <a href="simulcast-calendar.php"
                                    style="font-size: 17px"
                                                                     >
                                     Auctions                                </a>
                             </li>
                                                                                                                         <li class="full-width-in-thin level-top">
-                                <a href="search/quick-search77e2.html?SalesType=TimedAuctions&amp;sortBy=TimedBidDateToEnd"
+                                <a href="/advance-search.php"
                                    style="font-size: 17px"
                                                                     >
                                     Timed Auctions                                </a>
@@ -3085,7 +3089,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                     Privacy Notice                                </a>
                             </li>
                                                                                                                         <li class="full-width-in-thin level-top">
-                                <a href="register.html"
+                                <a href="register.php"
                                    style="font-size: 17px"
                                                                     >
                                     Sign up                                </a>
@@ -3115,7 +3119,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                 <ul class="dropdown-menu">
                                                                                                                     <li class="full-width-in-thin">
                                             <a href="media/dealer_101/storage/docs/STEP_BY_STEP_ONLINE_AUCTION_GUIDE__1_.pdf" style="font-size: 17px"
-                                                                                            >
+ target="_blank"                                                                                          >
                                                 Download Help Document                                            </a>
                                         </li>
                                                                                                                     <li class="full-width-in-thin">
@@ -3135,13 +3139,13 @@ h1, h2, h3, h4, h5, h6, h7,
                         <ul class="dropdown-menu list-collapse dropdown-menu-right"
                         >
                                                                                                                                 <li class="full-width-in-thin">
-                                        <a href="simulcast-calendar.html"
+                                        <a href="simulcast-calendar.php"
                                            style="font-size: 17px"
                                                                                     >
                                             Auctions                                        </a>
                                     </li>
                                                                                                                                                                 <li class="full-width-in-thin">
-                                        <a href="search/quick-search77e2.html?SalesType=TimedAuctions&amp;sortBy=TimedBidDateToEnd"
+                                        <a href="/advance-search.php"
                                            style="font-size: 17px"
                                                                                     >
                                             Timed Auctions                                        </a>
@@ -3153,7 +3157,7 @@ h1, h2, h3, h4, h5, h6, h7,
                                             Privacy Notice                                        </a>
                                     </li>
                                                                                                                                                                 <li class="full-width-in-thin">
-                                        <a href="register.html"
+                                        <a href="register.php"
                                            style="font-size: 17px"
                                                                                     >
                                             Sign up                                        </a>
@@ -3216,9 +3220,9 @@ h1, h2, h3, h4, h5, h6, h7,
         });
     </script>
 </div><div class="ax-container empty col-lg-2 col-md-2 col-sm-2 col-xs-12  hidden-xs thin" data-container="body_1_2" data-size-lg="2" data-hidden-xs="1"><div class="widget-spacer">
-	  <div 
-			style="height:28px;"
-	  	>
+      <div 
+            style="height:28px;"
+          >
     &nbsp;
     </div>
 </div>
@@ -3659,7 +3663,7 @@ h1, h2, h3, h4, h5, h6, h7,
                         var grid_active = false;
                     };
 
-            var search_url = "advance-search-test";
+            var search_url = "advance-search";
 
             var zipFromUrl = '';
             var zipRangeFromUrl = '';
@@ -3771,32 +3775,32 @@ h1, h2, h3, h4, h5, h6, h7,
 </div></div>
  
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  hidden-lg hidden-md hidden-sm thin" data-container="body_2_0" data-size-lg="12" data-hidden-lg="1" data-hidden-md="1" data-hidden-sm="1"><div class="widget-spacer">
-	  <div 
-			style="height:10px;"
-	  	>
+      <div 
+            style="height:10px;"
+          >
     &nbsp;
     </div>
 </div>
 <div class="modul-r-searchmini nowow">
 <div class="row">
-	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    	    	<div class="panel panel-transparent">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="panel panel-transparent">
         <div class="panel-body">            <div class="input-group">
-            	<input type="text" class="form-control keyword_search_value" placeholder="Find what you&rsquo;re looking for" value="">
-            	<span class="input-group-btn">
-            	<button class="btn btn-primary" type="button" onclick="inventory_keyword_search($(this).parents('.modul-r-searchmini').find('.keyword_search_value').val());">
-					<span class="glyphicon glyphicon-search"></span>
+                <input type="text" class="form-control keyword_search_value" placeholder="Find what you&rsquo;re looking for" value="">
+                <span class="input-group-btn">
+                <button class="btn btn-primary" type="button" onclick="inventory_keyword_search($(this).parents('.modul-r-searchmini').find('.keyword_search_value').val());">
+                    <span class="glyphicon glyphicon-search"></span>
                     <span>Search</span>
-				</button>
-            	</span>
+                </button>
+                </span>
             </div>
         </div>
         </div>        <script type="text/javascript">
-			var keyword_search_data = [];
-			var default_txt = 'Find what you’re looking for';
-			keyword_status = "inventory";
-			var keywordSearchUrl = "/";
-		</script>
+            var keyword_search_data = [];
+            var default_txt = 'Find what you’re looking for';
+            keyword_status = "inventory";
+            var keywordSearchUrl = "/";
+        </script>
     </div>
 </div>
 </div>
@@ -3814,12 +3818,12 @@ h1, h2, h3, h4, h5, h6, h7,
     cursor:default;
   }
   .login-hint p{
-	color: #fff;
+    color: #fff;
     font-size: 13px;
     text-align: end;
   }
   .login-hint::after{
-	content: ">";
+    content: ">";
     color: #fbff61;
     font-size: 26px;
     position: absolute;
@@ -3829,50 +3833,50 @@ h1, h2, h3, h4, h5, h6, h7,
     animation: myAnim 2s ease 0s 1 normal forwards;
   }
   @keyframes myAnim {
-	0% {
-		animation-timing-function: ease-in;
-		opacity: 0;
-		transform: translateX(-48px);
-	}
+    0% {
+        animation-timing-function: ease-in;
+        opacity: 0;
+        transform: translateX(-48px);
+    }
 
-	24% {
-		opacity: 1;
-	}
+    24% {
+        opacity: 1;
+    }
 
-	40% {
-		animation-timing-function: ease-in;
-		transform: translateX(-26px);
-	}
+    40% {
+        animation-timing-function: ease-in;
+        transform: translateX(-26px);
+    }
 
-	65% {
-		animation-timing-function: ease-in;
-		transform: translateX(-13px);
-	}
+    65% {
+        animation-timing-function: ease-in;
+        transform: translateX(-13px);
+    }
 
-	82% {
-		animation-timing-function: ease-in;
-		transform: translateX(-6.5px);
-	}
+    82% {
+        animation-timing-function: ease-in;
+        transform: translateX(-6.5px);
+    }
 
-	93% {
-		animation-timing-function: ease-in;
-		transform: translateX(-4px);
-	}
+    93% {
+        animation-timing-function: ease-in;
+        transform: translateX(-4px);
+    }
 
-	25%,
-	55%,
-	75%,
-	87%,
-	98% {
-		animation-timing-function: ease-out;
-		transform: translateX(0px);
-	}
+    25%,
+    55%,
+    75%,
+    87%,
+    98% {
+        animation-timing-function: ease-out;
+        transform: translateX(0px);
+    }
 
-	100% {
-		animation-timing-function: ease-out;
-		opacity: 1;
-		transform: translateX(0px);
-	}
+    100% {
+        animation-timing-function: ease-out;
+        opacity: 1;
+        transform: translateX(0px);
+    }
 }
   @media all and (max-width:1199px){
     .login-hint {
@@ -3974,6 +3978,7 @@ h1, h2, h3, h4, h5, h6, h7,
 </div></div>
  </div>
         </header>
+        <?php include 'whatsapp_chatbot.php'; ?>
         <main>
             <div class="layout-container container" data-container="body">
             
@@ -4004,7 +4009,7 @@ h1, h2, h3, h4, h5, h6, h7,
         <dev>
 <style>
   .slider-text{
-	position: absolute;
+    position: absolute;
     top: 30px;
     right: 30px;
     background: rgba(0 99 65 / 70%);
@@ -4036,10 +4041,10 @@ h1, h2, h3, h4, h5, h6, h7,
     }
     .slider-text h1 {
     font-size: 5vw;
-	}
+    }
     .slider-text p {
      font-size: 2.5vw;
-	}
+    }
   }
   </style>
   <section class="slider-text">
@@ -4063,39 +4068,39 @@ h1, h2, h3, h4, h5, h6, h7,
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="body_0_0" data-size-lg="12"><div class="modul-r-editable nowow">
             <!-- no_designtime_scripts -->
         <dev>
-	<section class="home-six-points">
-		<ul>
+    <section class="home-six-points">
+        <ul>
           <li>
             <h2>View</h2>
-      		<p>View all upcoming auctions and available vehicles</p>
-      		<a href="simulcast-calendar.html">Shop now&ensp;<i class="fa  fa-chevron-right"></i></a> 
+              <p>View all upcoming auctions and available vehicles</p>
+              <a href="simulcast-calendar.php">Shop now&ensp;<i class="fa  fa-chevron-right"></i></a> 
           </li>
           <li>
             <h2>Sign Up</h2>
-      		<p>Sign up to become a buyer and participate in auctions</p>
-      		<a href="register.html">Sign up now&ensp;<i class="fa  fa-chevron-right"></i></a>
+              <p>Sign up to become a buyer and participate in auctions</p>
+              <a href="register.php">Sign up now&ensp;<i class="fa  fa-chevron-right"></i></a>
           </li>
           <li>
             <h2>Register</h2>
-      		<p>Register for the upcoming auction and pay your deposit</p>
-      		<a href="cams-customer-registration.html">Register now&ensp;<i class="fa  fa-chevron-right"></i></a>
+              <p>Register for the upcoming auction and pay your deposit</p>
+              <a href="register.php">Register now&ensp;<i class="fa  fa-chevron-right"></i></a>
           </li>
           <li>
             <h2>Participate</h2>
-      		<p>"Watch" any auction or if you have paid your deposit "Join" and start bidding</p>
-      		<a href="simulcast-calendar.html">Participate now&ensp;<i class="fa  fa-chevron-right"></i></a>
+              <p>"Watch" any auction or if you have paid your deposit "Join" and start bidding</p>
+              <a href="simulcast-calendar.php">Participate now&ensp;<i class="fa  fa-chevron-right"></i></a>
           </li>
           <li>
             <h2>Checkout</h2>
-      		<p> Access "My Basket" to create your proforma invoice, make your payment, and collect your vehicle </p>
+              <p> Access "My Basket" to create your proforma invoice, make your payment, and collect your vehicle </p>
           </li>
           <li>
             <h2>Motor Finance</h2>
-      		<p>If you are buying a vehicle from a dealer or a private seller, you can apply for a loan in 5 easy steps here.</p>
-      		<a href="https://mymfc.mfc.co.za/" target="_blank">Apply online&ensp;<i class="fa  fa-chevron-right"></i></a>
+              <p>If you are buying a vehicle from a dealer or a private seller, you can apply for a loan in 5 easy steps here.</p>
+              <a href="https://mymfc.mfc.co.za/" target="_blank">Apply online&ensp;<i class="fa  fa-chevron-right"></i></a>
           </li>
       </ul>
-	</section>
+    </section>
 </dev>        <!-- endof_no_designtime_scripts -->
     </div></div></div>
  </div>
@@ -4190,9 +4195,9 @@ h1, h2, h3, h4, h5, h6, h7,
             <div class="layout-container" data-container="body">
             
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="body_0_0" data-size-lg="12"><div class="widget-spacer">
-	  <div 
-			style="height:10px;"
-	  	>
+      <div 
+            style="height:10px;"
+          >
     &nbsp;
     </div>
 </div></div></div>
@@ -4205,12 +4210,12 @@ h1, h2, h3, h4, h5, h6, h7,
         <h3>BUY</h3>
     </header>
     <ul>
-      <li><a href="simulcast-calendar.html">Auctions</a></li>
+      <li><a href="simulcast-calendar.php">Auctions</a></li>
         <li><a href="media/dealer_101/storage/docs/Auction_Calculator.pdf" target="_blank">Auction Calculator</a></li>
         <li><a href="/#" id="js-searchLink" data-toggle="modal" >Search</a> </li>
         <li><a href="terms-and-conditions.html">Terms and conditions</a></li>
         <li><a href="frequently-asked-questions.html">FAQ</a></li>
-        <li><a href="our-banking-details.html">Banking details</a></li>
+        <li><a href="our-banking-details.php">Banking details</a></li>
     </ul>
 </section>
 <script type="text/javascript">
@@ -4230,7 +4235,7 @@ h1, h2, h3, h4, h5, h6, h7,
     </header>
     <ul>
          <li><a href="https://www.mfc.co.za/budget-calculator" target="_blank">Budget calculator</a></li>
-         <li><a href="simulcast-calendar.html">Upcoming auctions</a></li>
+         <li><a href="simulcast-calendar.php">Upcoming auctions</a></li>
          <li><a href="media/dealer_101/storage/docs/STEP_BY_STEP_ONLINE_AUCTION_GUIDE__1_.pdf" target="_blank">Step-by-step guide</a></li>
          <li><a href="media/dealer_101/storage/docs/MFC_Auction_House_Directions_GPS.pdf" target="_blank">Map and directions</a></li>
       <li><a href="https://www.mfc.co.za/finance-options" target="_blank">Finance options</a></li>
@@ -4245,7 +4250,7 @@ h1, h2, h3, h4, h5, h6, h7,
         <h3>Contact Us</h3>
     </header>
     <ul class="footer-phones">
-		<li><a href="tel:011 879 9321"><i class="fa fa-phone" aria-hidden="true"></i>011 879 9321</a></li>
+        <li><a href="tel:081 003 2073"><i class="fa fa-phone" aria-hidden="true"></i>081 003 2073</a></li>
       <li><a href="mailto:MFCAuctionhouse@mfc.co.za"><i class="fa fa-envelope" aria-hidden="true"></i>Get in touch</a></li>
     </ul>
 </section>
@@ -4349,9 +4354,9 @@ h1, h2, h3, h4, h5, h6, h7,
     </div></div></div>
  
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  hidden-lg hidden-md hidden-sm hidden-xs thin" data-container="body_2_0" data-size-lg="12" data-hidden-lg="1" data-hidden-md="1" data-hidden-sm="1" data-hidden-xs="1"><div class="widget-spacer">
-	  <div 
-			style="height:20px;"
-	  	>
+      <div 
+            style="height:20px;"
+          >
     &nbsp;
     </div>
 </div><div class="modul-r-editable nowow">
@@ -4366,15 +4371,15 @@ h1, h2, h3, h4, h5, h6, h7,
     justify-content:space-evenly;
     align-items:center;
     filter: grayscale(1);
-	opacity: 0.6;
+    opacity: 0.6;
     }
   </style>
 <section>
     <ul class="footer-partners">
     <li>
-      	<a href="https://auctionstreaming.com/" target = "_blank">
-        	<img alt="auctionstreaming" src="media/dealer_101/storage/webstorage/partner-auctionstreaming.svg" alt="Auctionstreaming"/>
-      	</a>
+          <a href="https://auctionstreaming.com/" target = "_blank">
+            <img alt="auctionstreaming" src="media/dealer_101/storage/webstorage/partner-auctionstreaming.svg" alt="Auctionstreaming"/>
+          </a>
       </li>
 <!--
     <li>
@@ -4395,9 +4400,9 @@ h1, h2, h3, h4, h5, h6, h7,
     </div></div></div>
  
    <div class="row"><div class="ax-container empty col-lg-12 col-md-12 col-sm-12 col-xs-12  " data-container="body_3_0" data-size-lg="12"><div class="widget-spacer">
-	  <div 
-			style="height:20px;"
-	  	>
+      <div 
+            style="height:20px;"
+          >
     &nbsp;
     </div>
 </div></div></div>
@@ -4418,7 +4423,7 @@ h1, h2, h3, h4, h5, h6, h7,
     padding:0px;
   }
   .footer-links li{
-	font-size: 14px;
+    font-size: 14px;
     color: #58585A;
     padding-bottom: 5px;
     display: flex;
@@ -4436,7 +4441,7 @@ h1, h2, h3, h4, h5, h6, h7,
     text-decoration:none;
   }
   .footer-phones .fa{
-	background: #cfcfd0;
+    background: #cfcfd0;
     color: #fff;
     font-size: 18px;
     width: 36px;
@@ -4522,7 +4527,7 @@ h1, h2, h3, h4, h5, h6, h7,
   @media all and (max-width:1279px){
     footer:before {
     height: 60px;
-	}
+    }
     .footer-no p {
     margin-right: -240px;
 }
@@ -4653,7 +4658,7 @@ Nedbank Ltd Reg. No 1951/000009/06<br>
 Authorised financial services and registered credit provider (NCRCP16)
   </p>
   <a class="as-logo" href="https://auctionstreaming.com/" target = "_blank">
-  	<img alt="auctionstreaming" src="media/dealer_101/storage/webstorage/partner-auctionstreaming.svg" alt="Auctionstreaming"/>
+      <img alt="auctionstreaming" src="media/dealer_101/storage/webstorage/partner-auctionstreaming.svg" alt="Auctionstreaming"/>
   </a>
   </section>
 </dev>        <!-- endof_no_designtime_scripts -->
