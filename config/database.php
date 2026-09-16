@@ -1,10 +1,15 @@
 <?php
 // Database configuration
 class Database {
+    // private $host = "localhost";
+    // private $username = "root";
+    // private $password = "";
+    // private $dbname = "mfc";
+
     private $host = "localhost";
-    private $username = "root";
-    private $password = "";
-    private $dbname = "mfc";
+    private $username = "mfcauctions";
+    private $password = "bigBootyJuices@1515T";
+    private $dbname = "mfcauctions_db";
     
     // --Live server configuration--
     // private $host = "sql105.infinityfree.com";
